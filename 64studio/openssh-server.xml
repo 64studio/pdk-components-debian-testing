@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>openssh-server</id>
+  <meta>
+    <task>openssh-server</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>openssh-server</name>
+      <deb ref="md5:b87d1791752bad2568413bbd0f02b568">
+        <name>openssh-server</name>
+        <version>1:7.7p1-2</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:46b21bc2c7e1f32b8cdcad96a27b4f51">
+        <name>openssh</name>
+        <version>1:7.7p1-2</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>libcomerr2</name>
+      <deb ref="md5:61a548ae2c6a9f7ff2598b9551a8a8d7">
+        <name>libcomerr2</name>
+        <version>1.44.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libedit2</name>
+      <deb ref="md5:674ec77179b8469cbfa84e415521818d">
+        <name>libedit2</name>
+        <version>3.1-20170329-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libkeyutils1</name>
+      <deb ref="md5:1e2a5552b9ab49bad3a3676a5b345e58">
+        <name>libkeyutils1</name>
+        <version>1.5.9-9.2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libssl1.0.2</name>
+      <deb ref="md5:d0c9caed45ee7131b89b06565ec0f9e4">
+        <name>libssl1.0.2</name>
+        <version>1.0.2o-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwrap0</name>
+      <deb ref="md5:4e1d602fd0b213414e7530b8342dfc56">
+        <name>libwrap0</name>
+        <version>7.6.q-27</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>ucf</name>
+      <deb ref="md5:d0b18816731d0d23c1d45593ccc6e483">
+        <name>ucf</name>
+        <version>3.0038</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libkrb5support0</name>
+      <deb ref="md5:037a1b829509a8950639cf0d41cc3b3c">
+        <name>libkrb5support0</name>
+        <version>1.16-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgssapi-krb5-2</name>
+      <deb ref="md5:f3decb4cfdc086b0e343390a6d718868">
+        <name>libgssapi-krb5-2</name>
+        <version>1.16-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libk5crypto3</name>
+      <deb ref="md5:f814fe7eab5a381aebfedf2c34ea3866">
+        <name>libk5crypto3</name>
+        <version>1.16-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libkrb5-3</name>
+      <deb ref="md5:93c1622922a1241d640b546271ad3ae8">
+        <name>libkrb5-3</name>
+        <version>1.16-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>openssh-client</name>
+      <deb ref="md5:d6d06e5695e36101c9ac8211551633ac">
+        <name>openssh-client</name>
+        <version>1:7.7p1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>openssh-sftp-server</name>
+      <deb ref="md5:18b06db747d9112bab463136e565527d">
+        <name>openssh-sftp-server</name>
+        <version>1:7.7p1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>

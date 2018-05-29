@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>standard</id>
+  <meta>
+    <task>standard</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>debconf-utils</name>
+      <deb ref="md5:7e2600976039089d661fe80f5f83dbc0">
+        <name>debconf-utils</name>
+        <version>1.5.66</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:3c7f96d4f1adce2a2a25729ad8307cfe">
+        <name>debconf</name>
+        <version>1.5.66</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>gnupg</name>
+      <deb ref="md5:34c9c977db7ba91864b8c2dfa20cbc52">
+        <name>gnupg</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:e8792924ed7c1dd5295d494c966b37dd">
+        <name>gnupg2</name>
+        <version>2.2.5-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>locales</name>
+      <deb ref="md5:00a1ac96d67a4ba5ec7991bcf3d6f6fb">
+        <name>locales</name>
+        <version>2.27-3</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:efac0f6c3ef751804b50dbdc474ba2db">
+        <name>glibc</name>
+        <version>2.27-3</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>gnupg-l10n</name>
+      <deb ref="md5:38bc4cc4482c73d829f373fd52b324a9">
+        <name>gnupg-l10n</name>
+        <version>2.2.5-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libldap-common</name>
+      <deb ref="md5:bac1b751cdff0c6931559a8578b58f91">
+        <name>libldap-common</name>
+        <version>2.4.46+dfsg-5</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libnpth0</name>
+      <deb ref="md5:a1dc427c257b3d0f6004ad8d6e67fdab">
+        <name>libnpth0</name>
+        <version>1.5-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsqlite3-0</name>
+      <deb ref="md5:96943fc3ea2287f15ce0b9d7723d5a14">
+        <name>libsqlite3-0</name>
+        <version>3.23.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libassuan0</name>
+      <deb ref="md5:c7a64a4da119f0c86c0b63c425c2b44c">
+        <name>libassuan0</name>
+        <version>2.5.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libksba8</name>
+      <deb ref="md5:e9eb4ff742a1af73b9577574a2947e9e">
+        <name>libksba8</name>
+        <version>1.3.5-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsasl2-2</name>
+      <deb ref="md5:ef1d7556845bd9c5f2a828f54f843547">
+        <name>libsasl2-2</name>
+        <version>2.1.27~101-g0780600+dfsg-3.1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsasl2-modules-db</name>
+      <deb ref="md5:0ad7d524dee2a9174c46ddb91c383a6b">
+        <name>libsasl2-modules-db</name>
+        <version>2.1.27~101-g0780600+dfsg-3.1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libreadline7</name>
+      <deb ref="md5:d9ae4ff31300d606b45dcf717080724f">
+        <name>libreadline7</name>
+        <version>7.0-5</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>pinentry-tty</name>
+      <deb ref="md5:71ae88435adccb14aef3c47ecefe9e87">
+        <name>pinentry-tty</name>
+        <version>1.1.0-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libldap-2.4-2</name>
+      <deb ref="md5:c68a49db1a8bbc4c0199a81c920e54a2">
+        <name>libldap-2.4-2</name>
+        <version>2.4.46+dfsg-5</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gnupg-utils</name>
+      <deb ref="md5:b45ed15758293eae86be8b52bba0d240">
+        <name>gnupg-utils</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpg</name>
+      <deb ref="md5:2ccf2fc9e09fae2ad2ad0afa69c601f3">
+        <name>gpg</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpg-agent</name>
+      <deb ref="md5:e362b83662b076d48ab24530f0e6547d">
+        <name>gpg-agent</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpg-wks-server</name>
+      <deb ref="md5:8f9fd9eb9da17202cc484eec3d2b208c">
+        <name>gpg-wks-server</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpgconf</name>
+      <deb ref="md5:0dfff7c853a7d0fb387974fd8511ed7e">
+        <name>gpgconf</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>dirmngr</name>
+      <deb ref="md5:084ae04e64521981c987097b34b8cbe2">
+        <name>dirmngr</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpg-wks-client</name>
+      <deb ref="md5:ed630b931a6aeb462894e91a6ca6bfb0">
+        <name>gpg-wks-client</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gpgsm</name>
+      <deb ref="md5:53e5f2e0d328a39368d77cbaa2e1ed75">
+        <name>gpgsm</name>
+        <version>2.2.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libc-l10n</name>
+      <deb ref="md5:58b3bd6e26e52af19798ff923d47021d">
+        <name>libc-l10n</name>
+        <version>2.27-3</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>
