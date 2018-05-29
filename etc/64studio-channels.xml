@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<channels>
+	<!-- Our Backports -->
+	<backports>
+		<type>dir</type>
+		<path>64studio/debs/</path>
+		<priority>10</priority>
+	</backports>
+
+	<!-- Upstream Packages -->
+	<testing>
+		<type>apt-deb</type>
+		<path>http://ftp.uk.debian.org/debian/</path>
+		<archs>armhf source</archs>
+		<dist>testing</dist>
+		<priority>100</priority>
+		<components>main contrib non-free</components>
+	</testing>
+	<testing-updates>
+		<type>apt-deb</type>
+		<path>http://ftp.uk.debian.org/debian/</path>
+		<archs>armhf source</archs>
+		<dist>testing-updates</dist>
+		<priority>500</priority>
+		<components>main contrib non-free</components>
+	</testing-updates>
+</channels>
+
