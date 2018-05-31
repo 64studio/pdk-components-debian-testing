@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>xorg</id>
+  <meta>
+    <task>xorg</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>xserver-xorg</name>
+      <deb ref="md5:c816fe8e3e10681a978912e4e080b494">
+        <name>xserver-xorg</name>
+        <version>1:7.7+19</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:e3ca6e310764cdf81cdcc2839cc0be38">
+        <name>xorg</name>
+        <version>1:7.7+19</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>xserver-xorg-input-libinput</name>
+      <deb ref="md5:2d755f9ad45ce9aa226051cf3f884a1d">
+        <name>xserver-xorg-input-libinput</name>
+        <version>0.27.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:f70925077d04c2190a4f590f6e40f8ec">
+        <name>xserver-xorg-input-libinput</name>
+        <version>0.27.1-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>xserver-xorg-video-fbdev</name>
+      <deb ref="md5:89d430056482d4f5cd6222fa5376ca54">
+        <name>xserver-xorg-video-fbdev</name>
+        <version>1:0.4.4-1+b5</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:24931e406097957e96e01645886d2544">
+        <name>xserver-xorg-video-fbdev</name>
+        <version>1:0.4.4-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>keyboard-configuration</name>
+      <deb ref="md5:0d0241e79a6b301bfd808930b852d400">
+        <name>keyboard-configuration</name>
+        <version>1.184</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdbus-1-3</name>
+      <deb ref="md5:9d6941562bfcf571e5f3c1f95bcb08d9">
+        <name>libdbus-1-3</name>
+        <version>1.12.8-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm-common</name>
+      <deb ref="md5:d026b924957e680fd02a7f0916a39977">
+        <name>libdrm-common</name>
+        <version>2.4.92-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libepoxy0</name>
+      <deb ref="md5:f6cc9ac853241e45dbbdd6e4496d884f">
+        <name>libepoxy0</name>
+        <version>1.4.3-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libevdev2</name>
+      <deb ref="md5:e9364fc73a4cb27a6a6114ea7032c5f6">
+        <name>libevdev2</name>
+        <version>1.5.9+dfsg-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libfontenc1</name>
+      <deb ref="md5:bbd3102c74f9a64c7f51fd9c3f26475f">
+        <name>libfontenc1</name>
+        <version>1:1.1.3-1+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglapi-mesa</name>
+      <deb ref="md5:b3b70064eb7d121eb973698dd4c28a63">
+        <name>libglapi-mesa</name>
+        <version>18.0.4-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglib2.0-0</name>
+      <deb ref="md5:dd54340374e3bdf06bd8d73e9d50f13d">
+        <name>libglib2.0-0</name>
+        <version>2.56.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglvnd0</name>
+      <deb ref="md5:be4b25abeb4454fd99c1efa432a8f66f">
+        <name>libglvnd0</name>
+        <version>1.0.0+git20180308-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libmtdev1</name>
+      <deb ref="md5:4db00a7932e9e36cc18ac950aa3eb079">
+        <name>libmtdev1</name>
+        <version>1.1.5-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libnvidia-glcore</name>
+      <deb ref="md5:83566a7ea5696b429c19893c59133c20">
+        <name>libnvidia-glcore</name>
+        <version>390.48-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpci3</name>
+      <deb ref="md5:826aa5830ac2659cf65bab5ce99714da">
+        <name>libpci3</name>
+        <version>1:3.5.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpciaccess0</name>
+      <deb ref="md5:c31d750ac6fcac00d5963ee2f10cbd1f">
+        <name>libpciaccess0</name>
+        <version>0.14-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpixman-1-0</name>
+      <deb ref="md5:db10e003020b6c65d400218c650fa318">
+        <name>libpixman-1-0</name>
+        <version>0.34.0-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpng16-16</name>
+      <deb ref="md5:b680f7fa990a97dc0babcd11a4447bf8">
+        <name>libpng16-16</name>
+        <version>1.6.34-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwacom-common</name>
+      <deb ref="md5:de7175f316d5f385aae9aa95c5c941d9">
+        <name>libwacom-common</name>
+        <version>0.29-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwayland-client0</name>
+      <deb ref="md5:9624d057e71b856d6960a97ec6dfa845">
+        <name>libwayland-client0</name>
+        <version>1.15.0-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwayland-server0</name>
+      <deb ref="md5:6aaabf68299f7b755e0bc1f9848b1864">
+        <name>libwayland-server0</name>
+        <version>1.15.0-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libx11-data</name>
+      <deb ref="md5:9b531b03f674ed029a0bd5d0febdc61e">
+        <name>libx11-data</name>
+        <version>2:1.6.5-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libx11-xcb1</name>
+      <deb ref="md5:85161609b002fa76caa88166ccfa06da">
+        <name>libx11-xcb1</name>
+        <version>2:1.6.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxau6</name>
+      <deb ref="md5:71c9189a76985de94d9f73d136d00ec9">
+        <name>libxau6</name>
+        <version>1:1.0.8-1+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxdmcp6</name>
+      <deb ref="md5:08c5c7e69fbac4cac785e8c40c2eb426">
+        <name>libxdmcp6</name>
+        <version>1:1.1.2-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxshmfence1</name>
+      <deb ref="md5:1b34063bcdeba110803ae9bb5a02dfa9">
+        <name>libxshmfence1</name>
+        <version>1.3-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>nvidia-installer-cleanup</name>
+      <deb ref="md5:c4dedcf2fb4fe4537bb7cfc1778dfa61">
+        <name>nvidia-installer-cleanup</name>
+        <version>20151021+8</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>update-glx</name>
+      <deb ref="md5:c0fc0d83d4c749664073437ee3cbac54">
+        <name>update-glx</name>
+        <version>0.8.3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>x11-common</name>
+      <deb ref="md5:a9ed942d2c36bfb9fd2f53708a4c18bd">
+        <name>x11-common</name>
+        <version>1:7.7+19</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>xkb-data</name>
+      <deb ref="md5:0fa14d464d18e1e310e8078e8931a397">
+        <name>xkb-data</name>
+        <version>2.23.1-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>glx-alternative-mesa</name>
+      <deb ref="md5:2e39d11d7b0572feac40716e0c3e79e5">
+        <name>glx-alternative-mesa</name>
+        <version>0.8.3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm2</name>
+      <deb ref="md5:c38d82203ce9a950129c1c42fcc9d351">
+        <name>libdrm2</name>
+        <version>2.4.92-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libfreetype6</name>
+      <deb ref="md5:82987fd9f8b949c22a256e6c6c378460">
+        <name>libfreetype6</name>
+        <version>2.8.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgudev-1.0-0</name>
+      <deb ref="md5:f249ebf36b0fdec9c39b161b4fb25713">
+        <name>libgudev-1.0-0</name>
+        <version>232-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libice6</name>
+      <deb ref="md5:f8034dbe64e3e5d676b31a6ad9b781c7">
+        <name>libice6</name>
+        <version>2:1.0.9-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libinput-bin</name>
+      <deb ref="md5:2c463efce100637a5f9c1fed16c5c023">
+        <name>libinput-bin</name>
+        <version>1.10.7-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwacom2</name>
+      <deb ref="md5:10d9b28219bcd46d42d2256c6f802404">
+        <name>libwacom2</name>
+        <version>0.29-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsm6</name>
+      <deb ref="md5:1bc45b878e3044f18bf30eb4c3aabfba">
+        <name>libsm6</name>
+        <version>2:1.2.2-1+b3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-dri2-0</name>
+      <deb ref="md5:a47e06dd48d909c1f84ae475f14b66d9">
+        <name>libxcb-dri2-0</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb1</name>
+      <deb ref="md5:9d12bf211c3445e0a56f8a8128468636">
+        <name>libxcb1</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-dri3-0</name>
+      <deb ref="md5:f0563c078726c413023a6776455b3bef">
+        <name>libxcb-dri3-0</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-present0</name>
+      <deb ref="md5:291d87a03f263832c96024b4ba87b00b">
+        <name>libxcb-present0</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-sync1</name>
+      <deb ref="md5:53d4dfc9b7de75e4f4b1e8ecb6efc7f8">
+        <name>libxcb-sync1</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-xfixes0</name>
+      <deb ref="md5:b79c67f417ec0b5706e914e7fff39e64">
+        <name>libxcb-xfixes0</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libx11-6</name>
+      <deb ref="md5:7ce2ee4c7a651a52cff20000b02fc878">
+        <name>libx11-6</name>
+        <version>2:1.6.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxext6</name>
+      <deb ref="md5:a0d2feb226bbdd59578bb54321abf3f8">
+        <name>libxext6</name>
+        <version>2:1.3.3-1+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxkbfile1</name>
+      <deb ref="md5:2713e4720c38047e77e6f0e100c3291f">
+        <name>libxkbfile1</name>
+        <version>1:1.0.9-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxpm4</name>
+      <deb ref="md5:51a2355ea0db185d4df9db607636984f">
+        <name>libxpm4</name>
+        <version>1:3.5.12-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>pciutils</name>
+      <deb ref="md5:11a4b148724e1606adbbdbbc331af890">
+        <name>pciutils</name>
+        <version>1:3.5.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>glx-diversions</name>
+      <deb ref="md5:3e52e44cbc06e35251b096a5aa8c2ad4">
+        <name>glx-diversions</name>
+        <version>0.8.3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgbm1</name>
+      <deb ref="md5:6d1b729a4ace70dd12451fdcbc4709c5">
+        <name>libgbm1</name>
+        <version>18.0.4-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>glx-alternative-nvidia</name>
+      <deb ref="md5:9902e0581b09f30cfa258101bf091c59">
+        <name>glx-alternative-nvidia</name>
+        <version>0.8.3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgl1</name>
+      <deb ref="md5:576ba79d863425434e0a1d79e6109552">
+        <name>libgl1</name>
+        <version>1.0.0+git20180308-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglx-nvidia0</name>
+      <deb ref="md5:b83a644bd694bc20ca29821b6db83acf">
+        <name>libglx-nvidia0</name>
+        <version>390.48-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglx0</name>
+      <deb ref="md5:c81d4c491b9dbd927fef7ede31700a6e">
+        <name>libglx0</name>
+        <version>1.0.0+git20180308-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>nvidia-alternative</name>
+      <deb ref="md5:67a60b9b9f7b7e69382c049fe80f832d">
+        <name>nvidia-alternative</name>
+        <version>390.48-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>nvidia-legacy-check</name>
+      <deb ref="md5:79fcc513a13f3c6a686ea1ecd7d5cd74">
+        <name>nvidia-legacy-check</name>
+        <version>390.48-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxfont2</name>
+      <deb ref="md5:3943e0e1dabdba172d3264565841e857">
+        <name>libxfont2</name>
+        <version>1:2.0.3-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libegl-mesa0</name>
+      <deb ref="md5:c4967cf8de1541dbf831bb55c7e716af">
+        <name>libegl-mesa0</name>
+        <version>18.0.4-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libegl1</name>
+      <deb ref="md5:2e801cd10f84679d69a0ba96fb69a8d8">
+        <name>libegl1</name>
+        <version>1.0.0+git20180308-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxaw7</name>
+      <deb ref="md5:cc2d7a7bb8ba0bc55e72b0ca416bbae7">
+        <name>libxaw7</name>
+        <version>2:1.0.13-1+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxmu6</name>
+      <deb ref="md5:891184183ccb714b919f097b0c0eb6d0">
+        <name>libxmu6</name>
+        <version>2:1.1.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxt6</name>
+      <deb ref="md5:e739cf7b5e456a459889c3c15be3f394">
+        <name>libxt6</name>
+        <version>1:1.1.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>x11-xkb-utils</name>
+      <deb ref="md5:019e5c28d8e4341118dd379b873dec7a">
+        <name>x11-xkb-utils</name>
+        <version>7.7+4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>xserver-common</name>
+      <deb ref="md5:10b89f7a4b0d577489c2a60bbf4c44b4">
+        <name>xserver-common</name>
+        <version>2:1.19.6-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>xserver-xorg-core</name>
+      <deb ref="md5:5b28ec3c8fae7f013918536e8ca092cf">
+        <name>xserver-xorg-core</name>
+        <version>2:1.19.6-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libinput10</name>
+      <deb ref="md5:6f5d4833a72f3603c3731d098b36664d">
+        <name>libinput10</name>
+        <version>1.10.7-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>

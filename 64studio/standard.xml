@@ -6,6 +6,42 @@
   </meta>
   <contents>
     <deb>
+      <name>alsa-utils</name>
+      <deb ref="md5:ddef40f039d647841ac81674e64afd47">
+        <name>alsa-utils</name>
+        <version>1.1.6-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:a1b3f499fc9f01fe0901f2329ed3bd23">
+        <name>alsa-utils</name>
+        <version>1.1.6-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>console-common</name>
+      <deb ref="md5:7d4ba72f12c07da2d6c01b95bda346f1">
+        <name>console-common</name>
+        <version>0.7.90</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:93ffd1aa7c6daf9ffa4e77deb1042dc5">
+        <name>console-common</name>
+        <version>0.7.90</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>cpufrequtils</name>
+      <deb ref="md5:150d5aab73512063866c05ab60d8aa19">
+        <name>cpufrequtils</name>
+        <version>008-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:2d4f4133739cfaf0540117d720056912">
+        <name>cpufrequtils</name>
+        <version>008-1</version>
+      </dsc>
+    </deb>
+    <deb>
       <name>debconf-utils</name>
       <deb ref="md5:7e2600976039089d661fe80f5f83dbc0">
         <name>debconf-utils</name>
@@ -15,6 +51,18 @@
       <dsc ref="md5:3c7f96d4f1adce2a2a25729ad8307cfe">
         <name>debconf</name>
         <version>1.5.66</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>fake-hwclock</name>
+      <deb ref="md5:93717e0f81daa364964f5204a3880dd8">
+        <name>fake-hwclock</name>
+        <version>0.11</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:ab532bd39b0c9351fe764a1cd3bd90f2">
+        <name>fake-hwclock</name>
+        <version>0.11</version>
       </dsc>
     </deb>
     <deb>
@@ -40,6 +88,142 @@
         <name>glibc</name>
         <version>2.27-3</version>
       </dsc>
+    </deb>
+    <deb>
+      <name>ntp</name>
+      <deb ref="md5:08f5bce745aac6b44fc7f2d4de5d7f15">
+        <name>ntp</name>
+        <version>1:4.2.8p11+dfsg-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:a479d36bf15bc1181fd1b6034e21eeaa">
+        <name>ntp</name>
+        <version>1:4.2.8p11+dfsg-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>psmisc</name>
+      <deb ref="md5:839e69a8cab6244333e8be4eacb10d6b">
+        <name>psmisc</name>
+        <version>23.1-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:d2226132694d668a81577181d4532ddb">
+        <name>psmisc</name>
+        <version>23.1-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>rfkill</name>
+      <deb ref="md5:1c725f81cc50595e652dfe96a5c545e5">
+        <name>rfkill</name>
+        <version>2.32-0.1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:70a1bf722849e8d0a222a9a87ed80a42">
+        <name>util-linux</name>
+        <version>2.32-0.1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>rt-tests</name>
+      <deb ref="md5:f1380073ccfc79ea27236c754b0b9e46">
+        <name>rt-tests</name>
+        <version>1.0-3</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:c35ddecf99ac34d7646198a62ce19c52">
+        <name>rt-tests</name>
+        <version>1.0-3</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>sudo</name>
+      <deb ref="md5:8e8b4eb966146ec7bd1fc580d2727b94">
+        <name>sudo</name>
+        <version>1.8.23-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:d2febe9527e3a62282df2b2243487fe3">
+        <name>sudo</name>
+        <version>1.8.23-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>whois</name>
+      <deb ref="md5:2e7e1fc25842b44ab1c974a562d7ceee">
+        <name>whois</name>
+        <version>5.3.1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:e56f6dca4fb1f9fe2754e8d3926167f8">
+        <name>whois</name>
+        <version>5.3.1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>libasound2-data</name>
+      <deb ref="md5:0f4d325c15a0608284d514b1786b1731">
+        <name>libasound2-data</name>
+        <version>1.1.6-1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsamplerate0</name>
+      <deb ref="md5:49be911376587eb37ab630f72b8d92f9">
+        <name>libsamplerate0</name>
+        <version>0.1.9-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libasound2</name>
+      <deb ref="md5:eafd8d1109eb39c10ce59b0cf47e2cad">
+        <name>libasound2</name>
+        <version>1.1.6-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libfftw3-single3</name>
+      <deb ref="md5:f2ce88a7ae1dc182844a04626d1dd28d">
+        <name>libfftw3-single3</name>
+        <version>3.3.7-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgomp1</name>
+      <deb ref="md5:dea78367de71d55aa95a077eb09e00bf">
+        <name>libgomp1</name>
+        <version>8.1.0-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>kbd</name>
+      <deb ref="md5:9459ea7e8488f4a575b0e3c0be7e42fb">
+        <name>kbd</name>
+        <version>2.0.4-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>console-data</name>
+      <deb ref="md5:4f14499f1760a0c0df86a5272252b4a2">
+        <name>console-data</name>
+        <version>2:1.12-6</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libcpufreq0</name>
+      <deb ref="md5:88bb9ccf8ff647c2378ecf6f70e29611">
+        <name>libcpufreq0</name>
+        <version>008-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
     </deb>
     <deb>
       <name>gnupg-l10n</name>
@@ -90,6 +274,14 @@
       </deb>
     </deb>
     <deb>
+      <name>libreadline7</name>
+      <deb ref="md5:d9ae4ff31300d606b45dcf717080724f">
+        <name>libreadline7</name>
+        <version>7.0-5</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libsasl2-2</name>
       <deb ref="md5:ef1d7556845bd9c5f2a828f54f843547">
         <name>libsasl2-2</name>
@@ -102,14 +294,6 @@
       <deb ref="md5:0ad7d524dee2a9174c46ddb91c383a6b">
         <name>libsasl2-modules-db</name>
         <version>2.1.27~101-g0780600+dfsg-3.1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libreadline7</name>
-      <deb ref="md5:d9ae4ff31300d606b45dcf717080724f">
-        <name>libreadline7</name>
-        <version>7.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -199,6 +383,94 @@
         <name>libc-l10n</name>
         <version>2.27-3</version>
         <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libopts25</name>
+      <deb ref="md5:363cb902e482d052176be0fd834cac15">
+        <name>libopts25</name>
+        <version>1:5.18.12-4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libedit2</name>
+      <deb ref="md5:674ec77179b8469cbfa84e415521818d">
+        <name>libedit2</name>
+        <version>3.1-20170329-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libexpat1</name>
+      <deb ref="md5:7596635753853cad2e78960883542239">
+        <name>libexpat1</name>
+        <version>2.2.5-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython2.7-minimal</name>
+      <deb ref="md5:2e3f6c94dc7f26db5d69094ee65cf09b">
+        <name>libpython2.7-minimal</name>
+        <version>2.7.15-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>mime-support</name>
+      <deb ref="md5:adf4877b175f35d5b0880c1baf4c5353">
+        <name>mime-support</name>
+        <version>3.60</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython-stdlib</name>
+      <deb ref="md5:2b4826bdffba3d62f9cfd8381b53a272">
+        <name>libpython-stdlib</name>
+        <version>2.7.15~rc1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython2.7-stdlib</name>
+      <deb ref="md5:cc341fea70c12818369caf440e3dfb0e">
+        <name>libpython2.7-stdlib</name>
+        <version>2.7.15-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python-minimal</name>
+      <deb ref="md5:5d426c00094595a903c4049ac92fbcc7">
+        <name>python-minimal</name>
+        <version>2.7.15~rc1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python2.7-minimal</name>
+      <deb ref="md5:cf3953eec8dab067c5be5ee0b034b286">
+        <name>python2.7-minimal</name>
+        <version>2.7.15-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python</name>
+      <deb ref="md5:fce7dcde6d926a459a1fbf8883723f9a">
+        <name>python</name>
+        <version>2.7.15~rc1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python2.7</name>
+      <deb ref="md5:a7d283f1283e0dbcaa68128b70bcb8e2">
+        <name>python2.7</name>
+        <version>2.7.15-1</version>
+        <arch>armhf</arch>
       </deb>
     </deb>
   </contents>

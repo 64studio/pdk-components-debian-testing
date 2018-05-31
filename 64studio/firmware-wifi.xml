@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>firmware-wifi</id>
+  <meta>
+    <task>firmware-wifi</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>firmware-atheros</name>
+      <deb ref="md5:12fe8e86e54539ace7c055bc1c0e7fb2">
+        <name>firmware-atheros</name>
+        <version>20170823-1</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+        <name>firmware-nonfree</name>
+        <version>20170823-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>firmware-brcm80211</name>
+      <deb ref="md5:9fc3fb5c71fd5247ef81ae62418ec893">
+        <name>firmware-brcm80211</name>
+        <version>20170823-1</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+        <name>firmware-nonfree</name>
+        <version>20170823-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>firmware-realtek</name>
+      <deb ref="md5:f2d3d1f1b5f2cdb55e72dd726dcba53d">
+        <name>firmware-realtek</name>
+        <version>20170823-1</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+        <name>firmware-nonfree</name>
+        <version>20170823-1</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>firmware-ti-connectivity</name>
+      <deb ref="md5:3287995f14d457627e6ee46f860c61ed">
+        <name>firmware-ti-connectivity</name>
+        <version>20170823-1</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+        <name>firmware-nonfree</name>
+        <version>20170823-1</version>
+      </dsc>
+    </deb>
+  </contents>
+</component>
