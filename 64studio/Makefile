@@ -58,7 +58,7 @@ download:
 	pdk download $(components)
 
 %.xml:
-	pdk abstract --arch=armhf --packages="$($*_pkgs)" --select="$($*_select)" --exclude="$($*_exclude)" --meta="<task>$*</task>" --label="$*" $@
+	pdk abstract --arch=armhf --packages="$($*_pkgs)" --select="$($*_select)" --exclude="$($*_exclude)" --meta="<task>64studio-$*</task>" --label="$*" $@
 	pdk resolve $@
 	# TODO: remove the need to specify minimal.xml in *_deps
 	pdk closure --out-file=$@ --arch=armhf $($*_deps) $@
