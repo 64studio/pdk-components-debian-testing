@@ -2,7 +2,7 @@
 <component>
   <id>openssh-server</id>
   <meta>
-    <task>openssh-server</task>
+    <task>64studio-openssh-server</task>
   </meta>
   <contents>
     <deb>
@@ -27,9 +27,9 @@
     </deb>
     <deb>
       <name>libedit2</name>
-      <deb ref="md5:674ec77179b8469cbfa84e415521818d">
+      <deb ref="md5:46eabe2aa4d905ed28a252afb004d4d2">
         <name>libedit2</name>
-        <version>3.1-20170329-1+b1</version>
+        <version>3.1-20180525-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

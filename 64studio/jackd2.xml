@@ -2,7 +2,7 @@
 <component>
   <id>jackd2</id>
   <meta>
-    <task>jackd2</task>
+    <task>64studio-jackd2</task>
   </meta>
   <contents>
     <deb>

@@ -2,7 +2,7 @@
 <component>
   <id>linux-image-armhf-raspi</id>
   <meta>
-    <task>linux-image-armhf-raspi</task>
+    <task>64studio-linux-image-armhf-raspi</task>
   </meta>
   <contents>
     <deb>

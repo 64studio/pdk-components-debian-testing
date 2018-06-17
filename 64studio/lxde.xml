@@ -2,7 +2,7 @@
 <component>
   <id>lxde</id>
   <meta>
-    <task>lxde</task>
+    <task>64studio-lxde</task>
   </meta>
   <contents>
     <deb>
@@ -107,9 +107,9 @@
     </deb>
     <deb>
       <name>libpython3.6-minimal</name>
-      <deb ref="md5:f78239d6f969c7cfde7fd00663413826">
+      <deb ref="md5:f9e4e061b9ff198545487135bff08ded">
         <name>libpython3.6-minimal</name>
-        <version>3.6.5-9</version>
+        <version>3.6.6~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -195,9 +195,9 @@
     </deb>
     <deb>
       <name>libpython3.6-stdlib</name>
-      <deb ref="md5:deb7c480bb2b5d23fe4048b37318f9ca">
+      <deb ref="md5:37a11198c53143d6d77972c63b7a58f2">
         <name>libpython3.6-stdlib</name>
-        <version>3.6.5-9</version>
+        <version>3.6.6~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -211,9 +211,9 @@
     </deb>
     <deb>
       <name>python3.6-minimal</name>
-      <deb ref="md5:965ad7a4fe7dbba38b4608cf87b4b2fe">
+      <deb ref="md5:420d8fcd6263a2a8ef91f8ea9c9fa4bd">
         <name>python3.6-minimal</name>
-        <version>3.6.5-9</version>
+        <version>3.6.6~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -243,9 +243,9 @@
     </deb>
     <deb>
       <name>python3.6</name>
-      <deb ref="md5:1340ac615e87eb3132b469b9b81dc41b">
+      <deb ref="md5:fd36ed6d0d3d7eaa25b04050dcb54b10">
         <name>python3.6</name>
-        <version>3.6.5-9</version>
+        <version>3.6.6~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -371,9 +371,9 @@
     </deb>
     <deb>
       <name>libgif7</name>
-      <deb ref="md5:7ddee65465ddb9e513317c78ade53a27">
+      <deb ref="md5:9f2557d58dcde3dbdedc6f5bf3bc764e">
         <name>libgif7</name>
-        <version>5.1.4-2</version>
+        <version>5.1.4-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -478,14 +478,6 @@
       <deb ref="md5:693dbbcfc5a43a2802a84d6304ad9b3e">
         <name>libxcomposite1</name>
         <version>1:0.4.4-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxfixes3</name>
-      <deb ref="md5:63e953f2705af23181e7690cbdca157e">
-        <name>libxfixes3</name>
-        <version>1:5.0.3-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -667,9 +659,9 @@
     </deb>
     <deb>
       <name>libcups2</name>
-      <deb ref="md5:cb2c50fe2d8d232057bf69cec1a2f5c0">
+      <deb ref="md5:9cd93eb7ed6a456bb795f677637fe37d">
         <name>libcups2</name>
-        <version>2.2.7-5</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -774,14 +766,6 @@
       <deb ref="md5:40fb7b0d170b89693e8331769743fb6d">
         <name>libxcursor1</name>
         <version>1:1.1.15-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxdamage1</name>
-      <deb ref="md5:3692f1826e4cffa6cc64769b01ff4ddc">
-        <name>libxdamage1</name>
-        <version>1:1.1.4-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1035,9 +1019,9 @@
     </deb>
     <deb>
       <name>liblcms2-2</name>
-      <deb ref="md5:39308ad5c97925ad71c2a62bdeb1abe4">
+      <deb ref="md5:35f4c5bd13b2bfa0d5ecf3470690a42b">
         <name>liblcms2-2</name>
-        <version>2.9-1</version>
+        <version>2.9-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1083,9 +1067,9 @@
     </deb>
     <deb>
       <name>libxkbcommon0</name>
-      <deb ref="md5:65a21d0d5396091399f7b667c5ab29eb">
+      <deb ref="md5:f3dd90aa7bf643209f5519d6fd2979af">
         <name>libxkbcommon0</name>
-        <version>0.8.0-1</version>
+        <version>0.8.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>

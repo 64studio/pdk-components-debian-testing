@@ -2,7 +2,7 @@
 <component>
   <id>firmware-wifi</id>
   <meta>
-    <task>firmware-wifi</task>
+    <task>64studio-firmware-wifi</task>
   </meta>
   <contents>
     <deb>

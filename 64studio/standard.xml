@@ -2,7 +2,7 @@
 <component>
   <id>standard</id>
   <meta>
-    <task>standard</task>
+    <task>64studio-standard</task>
   </meta>
   <contents>
     <deb>
@@ -43,14 +43,14 @@
     </deb>
     <deb>
       <name>debconf-utils</name>
-      <deb ref="md5:7e2600976039089d661fe80f5f83dbc0">
+      <deb ref="md5:1ac396f693a16cc23db2d04c6ac4fd49">
         <name>debconf-utils</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:3c7f96d4f1adce2a2a25729ad8307cfe">
+      <dsc ref="md5:c19d2cfa712ee70dae7ca49c4e13b0be">
         <name>debconf</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
       </dsc>
     </deb>
     <deb>
@@ -67,14 +67,14 @@
     </deb>
     <deb>
       <name>gnupg</name>
-      <deb ref="md5:34c9c977db7ba91864b8c2dfa20cbc52">
+      <deb ref="md5:315e65411c7edf0fafc023262e623f60">
         <name>gnupg</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:e8792924ed7c1dd5295d494c966b37dd">
+      <dsc ref="md5:92d08d648c4a451cc902e4fa0803a0ee">
         <name>gnupg2</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
       </dsc>
     </deb>
     <deb>
@@ -195,17 +195,17 @@
     </deb>
     <deb>
       <name>libgomp1</name>
-      <deb ref="md5:dea78367de71d55aa95a077eb09e00bf">
+      <deb ref="md5:bbef7b774688e2cc3b4710b86ab1285b">
         <name>libgomp1</name>
-        <version>8.1.0-3</version>
+        <version>8.1.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>kbd</name>
-      <deb ref="md5:9459ea7e8488f4a575b0e3c0be7e42fb">
+      <deb ref="md5:74ef9df1c309e49bd9132e9c81d75643">
         <name>kbd</name>
-        <version>2.0.4-2</version>
+        <version>2.0.4-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -227,9 +227,9 @@
     </deb>
     <deb>
       <name>gnupg-l10n</name>
-      <deb ref="md5:38bc4cc4482c73d829f373fd52b324a9">
+      <deb ref="md5:7ae91ad805429ec2bc6892fff336cc1a">
         <name>gnupg-l10n</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -243,17 +243,17 @@
     </deb>
     <deb>
       <name>libnpth0</name>
-      <deb ref="md5:a1dc427c257b3d0f6004ad8d6e67fdab">
+      <deb ref="md5:27abe13068ecac8f4944f9386a4a1028">
         <name>libnpth0</name>
-        <version>1.5-3</version>
+        <version>1.5-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libsqlite3-0</name>
-      <deb ref="md5:96943fc3ea2287f15ce0b9d7723d5a14">
+      <deb ref="md5:980818868c409346afe5cfbcbea2b3a7">
         <name>libsqlite3-0</name>
-        <version>3.23.1-1</version>
+        <version>3.24.0-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -315,65 +315,65 @@
     </deb>
     <deb>
       <name>gnupg-utils</name>
-      <deb ref="md5:b45ed15758293eae86be8b52bba0d240">
+      <deb ref="md5:86309362ff153afff36849a24245c0ed">
         <name>gnupg-utils</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg</name>
-      <deb ref="md5:2ccf2fc9e09fae2ad2ad0afa69c601f3">
+      <deb ref="md5:d722df081e66f018cf00dd9b07297d45">
         <name>gpg</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-agent</name>
-      <deb ref="md5:e362b83662b076d48ab24530f0e6547d">
+      <deb ref="md5:f98d5c3be8a3ab6c3857b104aed325c8">
         <name>gpg-agent</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-wks-server</name>
-      <deb ref="md5:8f9fd9eb9da17202cc484eec3d2b208c">
+      <deb ref="md5:92eee34f0c0f9bf1a04a6b9babb82961">
         <name>gpg-wks-server</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpgconf</name>
-      <deb ref="md5:0dfff7c853a7d0fb387974fd8511ed7e">
+      <deb ref="md5:010874672f373d48df44c31bed3f1305">
         <name>gpgconf</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>dirmngr</name>
-      <deb ref="md5:084ae04e64521981c987097b34b8cbe2">
+      <deb ref="md5:25ca65c7affbba785aeb3b1b840c87a4">
         <name>dirmngr</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-wks-client</name>
-      <deb ref="md5:ed630b931a6aeb462894e91a6ca6bfb0">
+      <deb ref="md5:21e1b80840e721ecbc00671c0bec20d0">
         <name>gpg-wks-client</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpgsm</name>
-      <deb ref="md5:53e5f2e0d328a39368d77cbaa2e1ed75">
+      <deb ref="md5:50319696e1547e2ddcdb8b15c0762d3d">
         <name>gpgsm</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -395,9 +395,9 @@
     </deb>
     <deb>
       <name>libedit2</name>
-      <deb ref="md5:674ec77179b8469cbfa84e415521818d">
+      <deb ref="md5:46eabe2aa4d905ed28a252afb004d4d2">
         <name>libedit2</name>
-        <version>3.1-20170329-1+b1</version>
+        <version>3.1-20180525-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -426,10 +426,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libpython-stdlib</name>
-      <deb ref="md5:2b4826bdffba3d62f9cfd8381b53a272">
-        <name>libpython-stdlib</name>
-        <version>2.7.15~rc1-1</version>
+      <name>libpython2-stdlib</name>
+      <deb ref="md5:825b81ecb41b25045cf725977be1c769">
+        <name>libpython2-stdlib</name>
+        <version>2.7.15-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -442,10 +442,10 @@
       </deb>
     </deb>
     <deb>
-      <name>python-minimal</name>
-      <deb ref="md5:5d426c00094595a903c4049ac92fbcc7">
-        <name>python-minimal</name>
-        <version>2.7.15~rc1-1</version>
+      <name>python2-minimal</name>
+      <deb ref="md5:406ef6cf6274ffd9b440f0e6f0b33fcd">
+        <name>python2-minimal</name>
+        <version>2.7.15-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -458,10 +458,34 @@
       </deb>
     </deb>
     <deb>
+      <name>libpython-stdlib</name>
+      <deb ref="md5:be8971f6d5ca34204b98a7dca817dbf0">
+        <name>libpython-stdlib</name>
+        <version>2.7.15-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>python</name>
-      <deb ref="md5:fce7dcde6d926a459a1fbf8883723f9a">
+      <deb ref="md5:76ea25eec5543fc03049c642286b7af4">
         <name>python</name>
-        <version>2.7.15~rc1-1</version>
+        <version>2.7.15-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python-minimal</name>
+      <deb ref="md5:819e98a3f95548d39df4b1b16a57ccbd">
+        <name>python-minimal</name>
+        <version>2.7.15-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python2</name>
+      <deb ref="md5:e9508eb9e69e761260e6dfe6f440318b">
+        <name>python2</name>
+        <version>2.7.15-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>

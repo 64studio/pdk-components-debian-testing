@@ -2,7 +2,7 @@
 <component>
   <id>xorg</id>
   <meta>
-    <task>xorg</task>
+    <task>64studio-xorg</task>
   </meta>
   <contents>
     <deb>
@@ -91,9 +91,9 @@
     </deb>
     <deb>
       <name>libglapi-mesa</name>
-      <deb ref="md5:b3b70064eb7d121eb973698dd4c28a63">
+      <deb ref="md5:8fc74f86cd96b5ed28b1c4696428633c">
         <name>libglapi-mesa</name>
-        <version>18.0.4-1</version>
+        <version>18.0.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -107,9 +107,17 @@
     </deb>
     <deb>
       <name>libglvnd0</name>
-      <deb ref="md5:be4b25abeb4454fd99c1efa432a8f66f">
+      <deb ref="md5:9e5fe9597ae21178777cdb940679e4be">
         <name>libglvnd0</name>
-        <version>1.0.0+git20180308-2</version>
+        <version>1.0.0+git20180308-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libllvm6.0</name>
+      <deb ref="md5:d54d8d6aba5efb075e35b29f8fdc5721">
+        <name>libllvm6.0</name>
+        <version>1:6.0-3+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -118,22 +126,6 @@
       <deb ref="md5:4db00a7932e9e36cc18ac950aa3eb079">
         <name>libmtdev1</name>
         <version>1.1.5-1+b1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libnvidia-glcore</name>
-      <deb ref="md5:83566a7ea5696b429c19893c59133c20">
-        <name>libnvidia-glcore</name>
-        <version>390.48-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libpci3</name>
-      <deb ref="md5:826aa5830ac2659cf65bab5ce99714da">
-        <name>libpci3</name>
-        <version>1:3.5.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -158,6 +150,14 @@
       <deb ref="md5:b680f7fa990a97dc0babcd11a4447bf8">
         <name>libpng16-16</name>
         <version>1.6.34-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsensors4</name>
+      <deb ref="md5:0f99910e03ca8a7edaf405f76df50caa">
+        <name>libsensors4</name>
+        <version>1:3.4.0-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -226,22 +226,6 @@
       </deb>
     </deb>
     <deb>
-      <name>nvidia-installer-cleanup</name>
-      <deb ref="md5:c4dedcf2fb4fe4537bb7cfc1778dfa61">
-        <name>nvidia-installer-cleanup</name>
-        <version>20151021+8</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>update-glx</name>
-      <deb ref="md5:c0fc0d83d4c749664073437ee3cbac54">
-        <name>update-glx</name>
-        <version>0.8.3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>x11-common</name>
       <deb ref="md5:a9ed942d2c36bfb9fd2f53708a4c18bd">
         <name>x11-common</name>
@@ -258,10 +242,10 @@
       </deb>
     </deb>
     <deb>
-      <name>glx-alternative-mesa</name>
-      <deb ref="md5:2e39d11d7b0572feac40716e0c3e79e5">
-        <name>glx-alternative-mesa</name>
-        <version>0.8.3</version>
+      <name>libdrm-amdgpu1</name>
+      <deb ref="md5:1bad8793e7e95bef339dc0672e82f8d2">
+        <name>libdrm-amdgpu1</name>
+        <version>2.4.92-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -269,6 +253,38 @@
       <name>libdrm2</name>
       <deb ref="md5:c38d82203ce9a950129c1c42fcc9d351">
         <name>libdrm2</name>
+        <version>2.4.92-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm-etnaviv1</name>
+      <deb ref="md5:dadd5de69954c5d7b75a64893b9ecc8f">
+        <name>libdrm-etnaviv1</name>
+        <version>2.4.92-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm-freedreno1</name>
+      <deb ref="md5:b5a4a45ece51518a106d38dc0bc3910f">
+        <name>libdrm-freedreno1</name>
+        <version>2.4.92-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm-nouveau2</name>
+      <deb ref="md5:adcf2740efc078b38117e0ce666832af">
+        <name>libdrm-nouveau2</name>
+        <version>2.4.92-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libdrm-radeon1</name>
+      <deb ref="md5:cf5e78e96c67fec01508e56e75b48a3e">
+        <name>libdrm-radeon1</name>
         <version>2.4.92-1</version>
         <arch>armhf</arch>
       </deb>
@@ -346,6 +362,14 @@
       </deb>
     </deb>
     <deb>
+      <name>libxcb-glx0</name>
+      <deb ref="md5:67bfbdc92b4659146749e75baca7ed50">
+        <name>libxcb-glx0</name>
+        <version>1.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libxcb-present0</name>
       <deb ref="md5:291d87a03f263832c96024b4ba87b00b">
         <name>libxcb-present0</name>
@@ -386,6 +410,14 @@
       </deb>
     </deb>
     <deb>
+      <name>libxfixes3</name>
+      <deb ref="md5:63e953f2705af23181e7690cbdca157e">
+        <name>libxfixes3</name>
+        <version>1:5.0.3-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libxkbfile1</name>
       <deb ref="md5:2713e4720c38047e77e6f0e100c3291f">
         <name>libxkbfile1</name>
@@ -402,74 +434,74 @@
       </deb>
     </deb>
     <deb>
-      <name>pciutils</name>
-      <deb ref="md5:11a4b148724e1606adbbdbbc331af890">
-        <name>pciutils</name>
-        <version>1:3.5.2-1</version>
+      <name>libegl-mesa0</name>
+      <deb ref="md5:1b3bd015d0cd6e99de9df5de59e65417">
+        <name>libegl-mesa0</name>
+        <version>18.0.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>glx-diversions</name>
-      <deb ref="md5:3e52e44cbc06e35251b096a5aa8c2ad4">
-        <name>glx-diversions</name>
-        <version>0.8.3</version>
+      <name>libegl1</name>
+      <deb ref="md5:34d6186514527280c116363cadd61e80">
+        <name>libegl1</name>
+        <version>1.0.0+git20180308-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgbm1</name>
-      <deb ref="md5:6d1b729a4ace70dd12451fdcbc4709c5">
+      <deb ref="md5:0eef82304909b3f9039cf03910080de2">
         <name>libgbm1</name>
-        <version>18.0.4-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>glx-alternative-nvidia</name>
-      <deb ref="md5:9902e0581b09f30cfa258101bf091c59">
-        <name>glx-alternative-nvidia</name>
-        <version>0.8.3</version>
+        <version>18.0.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgl1</name>
-      <deb ref="md5:576ba79d863425434e0a1d79e6109552">
+      <deb ref="md5:b73a9d1fb1093243b9cea6365483106d">
         <name>libgl1</name>
-        <version>1.0.0+git20180308-2</version>
+        <version>1.0.0+git20180308-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libglx-nvidia0</name>
-      <deb ref="md5:b83a644bd694bc20ca29821b6db83acf">
-        <name>libglx-nvidia0</name>
-        <version>390.48-3</version>
+      <name>libgl1-mesa-dri</name>
+      <deb ref="md5:c78e856f1c0b203452175c8dad5a3667">
+        <name>libgl1-mesa-dri</name>
+        <version>18.0.5-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglx-mesa0</name>
+      <deb ref="md5:f32503757af986d7b5b70099c7efcd69">
+        <name>libglx-mesa0</name>
+        <version>18.0.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libglx0</name>
-      <deb ref="md5:c81d4c491b9dbd927fef7ede31700a6e">
+      <deb ref="md5:31e3c246190d193617e73177298db8c6">
         <name>libglx0</name>
-        <version>1.0.0+git20180308-2</version>
+        <version>1.0.0+git20180308-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>nvidia-alternative</name>
-      <deb ref="md5:67a60b9b9f7b7e69382c049fe80f832d">
-        <name>nvidia-alternative</name>
-        <version>390.48-3</version>
+      <name>libxdamage1</name>
+      <deb ref="md5:3692f1826e4cffa6cc64769b01ff4ddc">
+        <name>libxdamage1</name>
+        <version>1:1.1.4-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>nvidia-legacy-check</name>
-      <deb ref="md5:79fcc513a13f3c6a686ea1ecd7d5cd74">
-        <name>nvidia-legacy-check</name>
-        <version>390.48-3</version>
+      <name>libxxf86vm1</name>
+      <deb ref="md5:66519013496ce5147f643c972e5a3314">
+        <name>libxxf86vm1</name>
+        <version>1:1.1.4-1+b2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -478,22 +510,6 @@
       <deb ref="md5:3943e0e1dabdba172d3264565841e857">
         <name>libxfont2</name>
         <version>1:2.0.3-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libegl-mesa0</name>
-      <deb ref="md5:c4967cf8de1541dbf831bb55c7e716af">
-        <name>libegl-mesa0</name>
-        <version>18.0.4-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libegl1</name>
-      <deb ref="md5:2e801cd10f84679d69a0ba96fb69a8d8">
-        <name>libegl1</name>
-        <version>1.0.0+git20180308-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>

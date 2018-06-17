@@ -2,7 +2,7 @@
 <component>
   <id>minimal</id>
   <meta>
-    <task>minimal</task>
+    <task>64studio-minimal</task>
   </meta>
   <contents>
     <deb>
@@ -67,14 +67,14 @@
     </deb>
     <deb>
       <name>bash</name>
-      <deb ref="md5:efe4455e3ba3aa8fd831472acd68e8f8">
+      <deb ref="md5:16133443b2c1529adbf659d9f0e71a82">
         <name>bash</name>
-        <version>4.4.18-2+b1</version>
+        <version>4.4.18-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:8cb8e5cf0ba557fb2b35751b8a4b0ea7">
+      <dsc ref="md5:40c18e2ad59d29228d2a995f6a477405">
         <name>bash</name>
-        <version>4.4.18-2</version>
+        <version>4.4.18-3</version>
       </dsc>
     </deb>
     <deb>
@@ -151,26 +151,26 @@
     </deb>
     <deb>
       <name>debconf</name>
-      <deb ref="md5:223f8c7630ae815a071d96d2d4fb26f6">
+      <deb ref="md5:b172ea83607cbda9e0952098df1a3fc1">
         <name>debconf</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:3c7f96d4f1adce2a2a25729ad8307cfe">
+      <dsc ref="md5:c19d2cfa712ee70dae7ca49c4e13b0be">
         <name>debconf</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
       </dsc>
     </deb>
     <deb>
       <name>debconf-i18n</name>
-      <deb ref="md5:03581bcaedae518f2180904ff7a8612e">
+      <deb ref="md5:27a5f26619b00df1eadc593e6c5a3966">
         <name>debconf-i18n</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:3c7f96d4f1adce2a2a25729ad8307cfe">
+      <dsc ref="md5:c19d2cfa712ee70dae7ca49c4e13b0be">
         <name>debconf</name>
-        <version>1.5.66</version>
+        <version>1.5.67</version>
       </dsc>
     </deb>
     <deb>
@@ -283,14 +283,14 @@
     </deb>
     <deb>
       <name>gpgv</name>
-      <deb ref="md5:5acb21786f0b29080496b5ea1b77c68c">
+      <deb ref="md5:cce81ebea945a60d8bc7658780fc3a88">
         <name>gpgv</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:e8792924ed7c1dd5295d494c966b37dd">
+      <dsc ref="md5:92d08d648c4a451cc902e4fa0803a0ee">
         <name>gnupg2</name>
-        <version>2.2.5-1</version>
+        <version>2.2.7-1</version>
       </dsc>
     </deb>
     <deb>
@@ -619,26 +619,26 @@
     </deb>
     <deb>
       <name>perl-base</name>
-      <deb ref="md5:1b1a81ed926fa0eb7cc22347be0ad408">
+      <deb ref="md5:f3f7ea11b5aa2c647255803cc1f63692">
         <name>perl-base</name>
-        <version>5.26.2-5</version>
+        <version>5.26.2-6</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:22f943515d48a936ca983098a4c14b65">
+      <dsc ref="md5:99abfe79c6f0498735dc71dcdaf79714">
         <name>perl</name>
-        <version>5.26.2-5</version>
+        <version>5.26.2-6</version>
       </dsc>
     </deb>
     <deb>
       <name>procps</name>
-      <deb ref="md5:3829e2c66307e5aa8eb44329e8991eda">
+      <deb ref="md5:7f507493e326a56b5d461815dfa0c386">
         <name>procps</name>
-        <version>2:3.3.15-1</version>
+        <version>2:3.3.15-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:96c18a8479ee538607f497de847de249">
+      <dsc ref="md5:f73b698ef3e19479f0b8530cfa301a7d">
         <name>procps</name>
-        <version>2:3.3.15-1</version>
+        <version>2:3.3.15-2</version>
       </dsc>
     </deb>
     <deb>
@@ -655,14 +655,14 @@
     </deb>
     <deb>
       <name>rsyslog</name>
-      <deb ref="md5:8f9a7ec30beb06c7b3a722f210284405">
+      <deb ref="md5:6ed3d09abd333b8a2622d0f5ae916d92">
         <name>rsyslog</name>
-        <version>8.34.0-1</version>
+        <version>8.35.0-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:64d1de9222be05f3ef9bb93397a900b0">
+      <dsc ref="md5:6eefdd3e6d5f93abdc5d6f06d129864b">
         <name>rsyslog</name>
-        <version>8.34.0-1</version>
+        <version>8.35.0-1</version>
       </dsc>
     </deb>
     <deb>
@@ -811,9 +811,9 @@
     </deb>
     <deb>
       <name>gcc-8-base</name>
-      <deb ref="md5:be2885d6c3cb48a2544f8da9474c97d2">
+      <deb ref="md5:bc008d3ced76f654eb5d1bd6721988b1">
         <name>gcc-8-base</name>
-        <version>8.1.0-3</version>
+        <version>8.1.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -827,9 +827,9 @@
     </deb>
     <deb>
       <name>libsemanage-common</name>
-      <deb ref="md5:7f97b2a451dd09f3db9db474110d4c96">
+      <deb ref="md5:9dd17c341a0fe6923f33973ca30c9867">
         <name>libsemanage-common</name>
-        <version>2.7-2</version>
+        <version>2.8-1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -867,9 +867,9 @@
     </deb>
     <deb>
       <name>libgcc1</name>
-      <deb ref="md5:a170130427d1da3dfc21b53bea8a86d5">
+      <deb ref="md5:11a3c258d8d4ba4b09e6b927197632d8">
         <name>libgcc1</name>
-        <version>1:8.1.0-3</version>
+        <version>1:8.1.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -891,9 +891,9 @@
     </deb>
     <deb>
       <name>libselinux1</name>
-      <deb ref="md5:e8e6a3c308460cd17a9cdaa3ffd1fa3f">
+      <deb ref="md5:c67ebd66740bb1e45dd15f778f32d1e5">
         <name>libselinux1</name>
-        <version>2.7-2+b2</version>
+        <version>2.8-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -923,9 +923,9 @@
     </deb>
     <deb>
       <name>libsepol1</name>
-      <deb ref="md5:79f66cfe8c79564ed855bea0212896d6">
+      <deb ref="md5:d42d7d7c67a1c4a56104f6f0eb5d4468">
         <name>libsepol1</name>
-        <version>2.7-2</version>
+        <version>2.8-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -947,9 +947,9 @@
     </deb>
     <deb>
       <name>libsemanage1</name>
-      <deb ref="md5:a73e652f8102cbc6058b5f604c024efe">
+      <deb ref="md5:aec764d2537b7bfe359342424a68849a">
         <name>libsemanage1</name>
-        <version>2.7-2+b2</version>
+        <version>2.8-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1003,9 +1003,9 @@
     </deb>
     <deb>
       <name>libstdc++6</name>
-      <deb ref="md5:4512c29194bd0138abb96d2645b7d682">
+      <deb ref="md5:e5bbb28becf13c052433c3115397750d">
         <name>libstdc++6</name>
-        <version>8.1.0-3</version>
+        <version>8.1.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1059,9 +1059,9 @@
     </deb>
     <deb>
       <name>libp11-kit0</name>
-      <deb ref="md5:bd2fd1c30b9fcd02604c2b6ef5ff28c7">
+      <deb ref="md5:44cfa43e4cb045f728ebf51c2dc75676">
         <name>libp11-kit0</name>
-        <version>0.23.10-2</version>
+        <version>0.23.12-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1331,9 +1331,9 @@
     </deb>
     <deb>
       <name>libprocps7</name>
-      <deb ref="md5:80ea3e484f8a82532d10a4a6542a3336">
+      <deb ref="md5:1e36c2c9c2b50379644d97fb0db4f003">
         <name>libprocps7</name>
-        <version>2:3.3.15-1</version>
+        <version>2:3.3.15-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
