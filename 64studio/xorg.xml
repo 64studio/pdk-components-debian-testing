@@ -51,9 +51,9 @@
     </deb>
     <deb>
       <name>libdbus-1-3</name>
-      <deb ref="md5:9d6941562bfcf571e5f3c1f95bcb08d9">
+      <deb ref="md5:c09bf171ccdd53e0204fbdc1d062ff56">
         <name>libdbus-1-3</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -91,9 +91,9 @@
     </deb>
     <deb>
       <name>libglapi-mesa</name>
-      <deb ref="md5:8fc74f86cd96b5ed28b1c4696428633c">
+      <deb ref="md5:8361013b54a56f0af1571e433206ed3e">
         <name>libglapi-mesa</name>
-        <version>18.0.5-1</version>
+        <version>18.1.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -435,9 +435,9 @@
     </deb>
     <deb>
       <name>libegl-mesa0</name>
-      <deb ref="md5:1b3bd015d0cd6e99de9df5de59e65417">
+      <deb ref="md5:d74c14d0e908dcd48d57b648c90bee1f">
         <name>libegl-mesa0</name>
-        <version>18.0.5-1</version>
+        <version>18.1.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -451,9 +451,9 @@
     </deb>
     <deb>
       <name>libgbm1</name>
-      <deb ref="md5:0eef82304909b3f9039cf03910080de2">
+      <deb ref="md5:446ec5d6bb9ea644a67b8589b9f0487d">
         <name>libgbm1</name>
-        <version>18.0.5-1</version>
+        <version>18.1.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -467,17 +467,17 @@
     </deb>
     <deb>
       <name>libgl1-mesa-dri</name>
-      <deb ref="md5:c78e856f1c0b203452175c8dad5a3667">
+      <deb ref="md5:dffb279e3a6a9a023e81c75eea4a688f">
         <name>libgl1-mesa-dri</name>
-        <version>18.0.5-1</version>
+        <version>18.1.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libglx-mesa0</name>
-      <deb ref="md5:f32503757af986d7b5b70099c7efcd69">
+      <deb ref="md5:b1ee4f91f344bfe800709bcce9b75a19">
         <name>libglx-mesa0</name>
-        <version>18.0.5-1</version>
+        <version>18.1.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

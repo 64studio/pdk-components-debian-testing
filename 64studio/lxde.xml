@@ -7,26 +7,26 @@
   <contents>
     <deb>
       <name>dbus-x11</name>
-      <deb ref="md5:388e11543bcf6f790e1fe9c9abc83155">
+      <deb ref="md5:fa86570256e6d6587eb0a4a6c0a804ea">
         <name>dbus-x11</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:fd2b6fff9bf91ecbe91aeb74668b5575">
+      <dsc ref="md5:bcbc87463e8b461895878757bfe2ef60">
         <name>dbus</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
       </dsc>
     </deb>
     <deb>
       <name>dbus-x11</name>
-      <deb ref="md5:388e11543bcf6f790e1fe9c9abc83155">
+      <deb ref="md5:fa86570256e6d6587eb0a4a6c0a804ea">
         <name>dbus-x11</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:fd2b6fff9bf91ecbe91aeb74668b5575">
+      <dsc ref="md5:bcbc87463e8b461895878757bfe2ef60">
         <name>dbus</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
       </dsc>
     </deb>
     <deb>
@@ -67,9 +67,9 @@
     </deb>
     <deb>
       <name>dbus</name>
-      <deb ref="md5:11439a87743072c4fbcaac0ae1711047">
+      <deb ref="md5:dc44d50b9772b6c7b61b822d0c1202e0">
         <name>dbus</name>
-        <version>1.12.8-2</version>
+        <version>1.12.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -107,9 +107,9 @@
     </deb>
     <deb>
       <name>libpython3.6-minimal</name>
-      <deb ref="md5:f9e4e061b9ff198545487135bff08ded">
+      <deb ref="md5:652bba39e963fb1531436abda7e3b12d">
         <name>libpython3.6-minimal</name>
-        <version>3.6.6~rc1-1</version>
+        <version>3.6.6~rc1-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -195,9 +195,9 @@
     </deb>
     <deb>
       <name>libpython3.6-stdlib</name>
-      <deb ref="md5:37a11198c53143d6d77972c63b7a58f2">
+      <deb ref="md5:07ab67f355af3959d20167470599dac5">
         <name>libpython3.6-stdlib</name>
-        <version>3.6.6~rc1-1</version>
+        <version>3.6.6~rc1-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -211,9 +211,9 @@
     </deb>
     <deb>
       <name>python3.6-minimal</name>
-      <deb ref="md5:420d8fcd6263a2a8ef91f8ea9c9fa4bd">
+      <deb ref="md5:eef0ff61df679b0b4fe4404b7c3ed623">
         <name>python3.6-minimal</name>
-        <version>3.6.6~rc1-1</version>
+        <version>3.6.6~rc1-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -243,9 +243,9 @@
     </deb>
     <deb>
       <name>python3.6</name>
-      <deb ref="md5:fd36ed6d0d3d7eaa25b04050dcb54b10">
+      <deb ref="md5:d3450bda3425afde90cf43612a9824aa">
         <name>python3.6</name>
-        <version>3.6.6~rc1-1</version>
+        <version>3.6.6~rc1-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -307,9 +307,9 @@
     </deb>
     <deb>
       <name>libdatrie1</name>
-      <deb ref="md5:2dab1c5bb513879e7ae936c42f9f5792">
+      <deb ref="md5:28e24dd95060bea55e56b4a44f8fc75b">
         <name>libdatrie1</name>
-        <version>0.2.11-1</version>
+        <version>0.2.12-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

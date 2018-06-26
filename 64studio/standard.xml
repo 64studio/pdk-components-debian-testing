@@ -67,14 +67,14 @@
     </deb>
     <deb>
       <name>gnupg</name>
-      <deb ref="md5:315e65411c7edf0fafc023262e623f60">
+      <deb ref="md5:c9a85be953b8b51093ec4922afc211b1">
         <name>gnupg</name>
-        <version>2.2.7-1</version>
-        <arch>armhf</arch>
+        <version>2.2.8-3</version>
+        <arch>all</arch>
       </deb>
-      <dsc ref="md5:92d08d648c4a451cc902e4fa0803a0ee">
+      <dsc ref="md5:9e04a9f00e23c4d04290026983227dc1">
         <name>gnupg2</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
       </dsc>
     </deb>
     <deb>
@@ -195,9 +195,9 @@
     </deb>
     <deb>
       <name>libgomp1</name>
-      <deb ref="md5:bbef7b774688e2cc3b4710b86ab1285b">
+      <deb ref="md5:e9f768235f18e2ac2abe3620159a7b4a">
         <name>libgomp1</name>
-        <version>8.1.0-5</version>
+        <version>8.1.0-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -227,9 +227,9 @@
     </deb>
     <deb>
       <name>gnupg-l10n</name>
-      <deb ref="md5:7ae91ad805429ec2bc6892fff336cc1a">
+      <deb ref="md5:462316a138e81a2a2a6e7c91a027d0ee">
         <name>gnupg-l10n</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -315,65 +315,65 @@
     </deb>
     <deb>
       <name>gnupg-utils</name>
-      <deb ref="md5:86309362ff153afff36849a24245c0ed">
+      <deb ref="md5:f4c667a6c8308caa1e695652e73360e7">
         <name>gnupg-utils</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg</name>
-      <deb ref="md5:d722df081e66f018cf00dd9b07297d45">
+      <deb ref="md5:5f944f0aa9766c0b1b6262f0bdd15948">
         <name>gpg</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-agent</name>
-      <deb ref="md5:f98d5c3be8a3ab6c3857b104aed325c8">
+      <deb ref="md5:65b0bb9da8d7a9e57eb42bbc2f0c03be">
         <name>gpg-agent</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-wks-server</name>
-      <deb ref="md5:92eee34f0c0f9bf1a04a6b9babb82961">
+      <deb ref="md5:877e12ac32d24d2abd5d644d611d37fd">
         <name>gpg-wks-server</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpgconf</name>
-      <deb ref="md5:010874672f373d48df44c31bed3f1305">
+      <deb ref="md5:1ee11e52b72c5bfa33111e87df877e28">
         <name>gpgconf</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>dirmngr</name>
-      <deb ref="md5:25ca65c7affbba785aeb3b1b840c87a4">
+      <deb ref="md5:a83a1ffc444dd795006ed1e7d4f96176">
         <name>dirmngr</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpg-wks-client</name>
-      <deb ref="md5:21e1b80840e721ecbc00671c0bec20d0">
+      <deb ref="md5:b9bef3406e0c8f2928f87b5006a0a62a">
         <name>gpg-wks-client</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gpgsm</name>
-      <deb ref="md5:50319696e1547e2ddcdb8b15c0762d3d">
+      <deb ref="md5:e87920a5fe1440cf3a74972918cf356e">
         <name>gpgsm</name>
-        <version>2.2.7-1</version>
+        <version>2.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -419,9 +419,9 @@
     </deb>
     <deb>
       <name>mime-support</name>
-      <deb ref="md5:adf4877b175f35d5b0880c1baf4c5353">
+      <deb ref="md5:930458d560a2f9d38abcd1999f409b6c">
         <name>mime-support</name>
-        <version>3.60</version>
+        <version>3.61</version>
         <arch>all</arch>
       </deb>
     </deb>
