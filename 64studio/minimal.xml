@@ -7,38 +7,38 @@
   <contents>
     <deb>
       <name>adduser</name>
-      <deb ref="md5:5ccacb3f01ee75e71b9632e174660c4d">
+      <deb ref="md5:e66783314651639d4f5c043c92334319">
         <name>adduser</name>
-        <version>3.117</version>
+        <version>3.118</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:249ed06b5951e3aa57cdb3478fd5bb09">
+      <dsc ref="md5:a03253e3e64b666c4a488e78b001a338">
         <name>adduser</name>
-        <version>3.117</version>
+        <version>3.118</version>
       </dsc>
     </deb>
     <deb>
       <name>apt</name>
-      <deb ref="md5:538275959f1c164359a1c680d89dd601">
+      <deb ref="md5:0e1bbf76635a23707e9344ef3873e98f">
         <name>apt</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:9f95b3186cc829589af2489ebd519d58">
+      <dsc ref="md5:cf2e3a208632573a74990d744d038c66">
         <name>apt</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
       </dsc>
     </deb>
     <deb>
       <name>apt-utils</name>
-      <deb ref="md5:69ca9d6938ea7ae554a656ed1839fca3">
+      <deb ref="md5:3df7369675a14289d1e69bd98af0d751">
         <name>apt-utils</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:9f95b3186cc829589af2489ebd519d58">
+      <dsc ref="md5:cf2e3a208632573a74990d744d038c66">
         <name>apt</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
       </dsc>
     </deb>
     <deb>
@@ -67,14 +67,14 @@
     </deb>
     <deb>
       <name>bash</name>
-      <deb ref="md5:16133443b2c1529adbf659d9f0e71a82">
+      <deb ref="md5:41f7e466e53b9c401d84c73eb6ef22d3">
         <name>bash</name>
-        <version>4.4.18-3</version>
+        <version>4.4.18-3.1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:40c18e2ad59d29228d2a995f6a477405">
+      <dsc ref="md5:6d15121fce82e05a4716a034d7b9fc16">
         <name>bash</name>
-        <version>4.4.18-3</version>
+        <version>4.4.18-3.1</version>
       </dsc>
     </deb>
     <deb>
@@ -91,26 +91,26 @@
     </deb>
     <deb>
       <name>bsdutils</name>
-      <deb ref="md5:bccc255893cc101230d11a282b6f19af">
+      <deb ref="md5:68e500fffa915f5b1cbd517bcdf29a72">
         <name>bsdutils</name>
-        <version>1:2.32-0.1</version>
+        <version>1:2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:70a1bf722849e8d0a222a9a87ed80a42">
+      <dsc ref="md5:f714942c06ea881965390d939479563d">
         <name>util-linux</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
       </dsc>
     </deb>
     <deb>
       <name>coreutils</name>
-      <deb ref="md5:04ad639b7c35703ea55773e50c5311db">
+      <deb ref="md5:1f4148c9779a10ef24117719f0ab1be5">
         <name>coreutils</name>
-        <version>8.28-1</version>
+        <version>8.30-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:704a1ff863a6d9db0cec296bf57377eb">
+      <dsc ref="md5:068d96c865bd472cc92a0f40f1442fed">
         <name>coreutils</name>
-        <version>8.28-1</version>
+        <version>8.30-1</version>
       </dsc>
     </deb>
     <deb>
@@ -139,50 +139,50 @@
     </deb>
     <deb>
       <name>dash</name>
-      <deb ref="md5:3e613b2b8729d2c0661b99c024320961">
+      <deb ref="md5:32a11cf0fdec85423a9bf6c0ee718e52">
         <name>dash</name>
-        <version>0.5.8-2.10</version>
+        <version>0.5.10.2-4</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:05820762e4b311e1193a4e016098229e">
+      <dsc ref="md5:beda82eeecb5e7ed2d3e6b0c72519d1c">
         <name>dash</name>
-        <version>0.5.8-2.10</version>
+        <version>0.5.10.2-4</version>
       </dsc>
     </deb>
     <deb>
       <name>debconf</name>
-      <deb ref="md5:b172ea83607cbda9e0952098df1a3fc1">
+      <deb ref="md5:2db28c6f5759feb964749aa385a5181f">
         <name>debconf</name>
-        <version>1.5.67</version>
+        <version>1.5.69</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:c19d2cfa712ee70dae7ca49c4e13b0be">
+      <dsc ref="md5:bfe229f90c0543cba0e96873ec2eb63f">
         <name>debconf</name>
-        <version>1.5.67</version>
+        <version>1.5.69</version>
       </dsc>
     </deb>
     <deb>
       <name>debconf-i18n</name>
-      <deb ref="md5:27a5f26619b00df1eadc593e6c5a3966">
+      <deb ref="md5:c9a2ce6922ba29f9f4864c9d1237bbe4">
         <name>debconf-i18n</name>
-        <version>1.5.67</version>
+        <version>1.5.69</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:c19d2cfa712ee70dae7ca49c4e13b0be">
+      <dsc ref="md5:bfe229f90c0543cba0e96873ec2eb63f">
         <name>debconf</name>
-        <version>1.5.67</version>
+        <version>1.5.69</version>
       </dsc>
     </deb>
     <deb>
       <name>debian-archive-keyring</name>
-      <deb ref="md5:204b38a3f1f19d9e81abcb459580f972">
+      <deb ref="md5:51cb7f8ee1686228cd570c9b748d19ec">
         <name>debian-archive-keyring</name>
-        <version>2017.7</version>
+        <version>2018.1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:2ce2de10c2a46d4e408ed6560164bd3f">
+      <dsc ref="md5:4dd953e872924302e62fac0bb5fecaff">
         <name>debian-archive-keyring</name>
-        <version>2017.7</version>
+        <version>2018.1</version>
       </dsc>
     </deb>
     <deb>
@@ -211,122 +211,122 @@
     </deb>
     <deb>
       <name>dmidecode</name>
-      <deb ref="md5:f936bf5f29db94828ed7ee205b754390">
+      <deb ref="md5:c15ae672f5e350696430cacd5ec320d8">
         <name>dmidecode</name>
-        <version>3.1-1</version>
+        <version>3.2-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:c684fbe0ae6a7603b675db509003151d">
+      <dsc ref="md5:05b24699b7e07247979cafb3e3b7de4b">
         <name>dmidecode</name>
-        <version>3.1-1</version>
+        <version>3.2-1</version>
       </dsc>
     </deb>
     <deb>
       <name>dpkg</name>
-      <deb ref="md5:09b398736d4db04fdcac60b9b62fe781">
+      <deb ref="md5:b508617847a70331a701c7523c1a6fed">
         <name>dpkg</name>
-        <version>1.19.0.5+b1</version>
+        <version>1.19.2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:bf9376ca5914092655c87d3247c7170b">
+      <dsc ref="md5:82b0b079341b8441e17e4ab5eaa348ca">
         <name>dpkg</name>
-        <version>1.19.0.5</version>
+        <version>1.19.2</version>
       </dsc>
     </deb>
     <deb>
       <name>e2fsprogs</name>
-      <deb ref="md5:5be492282ff08266439ae1c4a6c049d2">
+      <deb ref="md5:b206dd83349cac6d069296ef78ca6d92">
         <name>e2fsprogs</name>
-        <version>1.44.2-1</version>
+        <version>1.44.5-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:126e005f99b4cabdf84644c14b6195e1">
+      <dsc ref="md5:9964621411884cf0dcdeb998e400eb2d">
         <name>e2fsprogs</name>
-        <version>1.44.2-1</version>
+        <version>1.44.5-1</version>
       </dsc>
     </deb>
     <deb>
       <name>fdisk</name>
-      <deb ref="md5:a7682afdaf5dea1d5acb38e380a1358a">
+      <deb ref="md5:6a5ccec9b63fef8bac269b1058821ead">
         <name>fdisk</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:70a1bf722849e8d0a222a9a87ed80a42">
+      <dsc ref="md5:f714942c06ea881965390d939479563d">
         <name>util-linux</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
       </dsc>
     </deb>
     <deb>
       <name>findutils</name>
-      <deb ref="md5:17359d9fc8244e6147e49511c0bbe6fd">
+      <deb ref="md5:38c16050109df6a5293a26f7c43ccf02">
         <name>findutils</name>
-        <version>4.6.0+git+20171230-2</version>
+        <version>4.6.0+git+20181018-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:5ef3045dc0df1b151dfb9e7732b2543a">
+      <dsc ref="md5:6ec2b667d4d3ef16811677e0f29c6cfb">
         <name>findutils</name>
-        <version>4.6.0+git+20171230-2</version>
+        <version>4.6.0+git+20181018-1</version>
       </dsc>
     </deb>
     <deb>
       <name>gdbm-l10n</name>
-      <deb ref="md5:3b444d1c9892fb71bddbed0c893719ad">
+      <deb ref="md5:08f572891082bdeb96971dc30f7166bc">
         <name>gdbm-l10n</name>
-        <version>1.14.1-6</version>
+        <version>1.18.1-2</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:106a591b5cddab48a1865543adc36152">
+      <dsc ref="md5:02c6b4e816c3f3cb74dde7d80c431483">
         <name>gdbm</name>
-        <version>1.14.1-6</version>
+        <version>1.18.1-2</version>
       </dsc>
     </deb>
     <deb>
       <name>gpgv</name>
-      <deb ref="md5:48893049a299f111caf5af9ec44e838a">
+      <deb ref="md5:85180c2e679e1505148d69fef8992382">
         <name>gpgv</name>
-        <version>2.2.8-3</version>
+        <version>2.2.12-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:9e04a9f00e23c4d04290026983227dc1">
+      <dsc ref="md5:045b92d05164084ddfe9806ca9c1a8bb">
         <name>gnupg2</name>
-        <version>2.2.8-3</version>
+        <version>2.2.12-1</version>
       </dsc>
     </deb>
     <deb>
       <name>grep</name>
-      <deb ref="md5:8e669beac380057b4fbde9c2b171364a">
+      <deb ref="md5:4d3cf519ff24d9608550e89c5482bd08">
         <name>grep</name>
-        <version>3.1-2</version>
+        <version>3.1-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:d3ee0d8b6028e02d6cc74116fb6eb1d4">
+      <dsc ref="md5:7a35ccb2e1ed7455b5bf2f924f2925a9">
         <name>grep</name>
-        <version>3.1-2</version>
+        <version>3.1-3</version>
       </dsc>
     </deb>
     <deb>
       <name>gzip</name>
-      <deb ref="md5:3a05f2208209550a470c70f62fd06fe8">
+      <deb ref="md5:d2c1d05c7c532b3debb6c5f3bc5a185b">
         <name>gzip</name>
-        <version>1.6-5+b1</version>
+        <version>1.9-2.1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:69c052088bef252c8bee61bad41aef65">
+      <dsc ref="md5:cde162019145f0eeefca1ce5eb198586">
         <name>gzip</name>
-        <version>1.6-5</version>
+        <version>1.9-2.1</version>
       </dsc>
     </deb>
     <deb>
       <name>hostname</name>
-      <deb ref="md5:eece9e4d1064ae3ed3ae92dcada07327">
+      <deb ref="md5:7605974a231371297c6cc0d502216e48">
         <name>hostname</name>
-        <version>3.20</version>
+        <version>3.21</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:8924d645fdf2263cc383771f046b8be0">
+      <dsc ref="md5:e17445791bd600764da2a32739a358ab">
         <name>hostname</name>
-        <version>3.20</version>
+        <version>3.21</version>
       </dsc>
     </deb>
     <deb>
@@ -343,98 +343,98 @@
     </deb>
     <deb>
       <name>init</name>
-      <deb ref="md5:66a92a62754e262918547f29f2894197">
+      <deb ref="md5:20714a1acdd4c8bf3814bcd30c1f3e05">
         <name>init</name>
-        <version>1.51</version>
+        <version>1.56+nmu1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:bd414da4d016129ab610c0b27d008806">
+      <dsc ref="md5:36212b8e7a43696c4df43d70b2be83c7">
         <name>init-system-helpers</name>
-        <version>1.51</version>
+        <version>1.56+nmu1</version>
       </dsc>
     </deb>
     <deb>
       <name>init-system-helpers</name>
-      <deb ref="md5:5d8a495fba102b3e0d23bc88d32b129e">
+      <deb ref="md5:56f7cf7aea963969b827d8782599320d">
         <name>init-system-helpers</name>
-        <version>1.51</version>
+        <version>1.56+nmu1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:bd414da4d016129ab610c0b27d008806">
+      <dsc ref="md5:36212b8e7a43696c4df43d70b2be83c7">
         <name>init-system-helpers</name>
-        <version>1.51</version>
+        <version>1.56+nmu1</version>
       </dsc>
     </deb>
     <deb>
       <name>iproute2</name>
-      <deb ref="md5:1ce966d77bf3f157534eefd88d43a60b">
+      <deb ref="md5:f9368bcc15a61d98c62fbeb0f3436e36">
         <name>iproute2</name>
-        <version>4.16.0-4</version>
+        <version>4.19.0-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:580da37f57e454c18782c17735e95a81">
+      <dsc ref="md5:a79762045721c921648af5793641c4cb">
         <name>iproute2</name>
-        <version>4.16.0-4</version>
+        <version>4.19.0-2</version>
       </dsc>
     </deb>
     <deb>
       <name>iptables</name>
-      <deb ref="md5:a00bf53cec5e6c0eeb42c05d1b93dca4">
+      <deb ref="md5:71f024982e0fdb2161968d203014fc29">
         <name>iptables</name>
-        <version>1.6.2-1</version>
+        <version>1.8.2-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:f5012e87b10d2217651e6ee02f9f9917">
+      <dsc ref="md5:ad96fcb9ecb1b4a9509280e0c1b9188a">
         <name>iptables</name>
-        <version>1.6.2-1</version>
+        <version>1.8.2-3</version>
       </dsc>
     </deb>
     <deb>
       <name>iputils-ping</name>
-      <deb ref="md5:51d3a1825e1203a137b0df489bbc1141">
+      <deb ref="md5:ddbbfa5188f50f31acc5a38c6e800899">
         <name>iputils-ping</name>
-        <version>3:20161105-1</version>
+        <version>3:20180629-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:24fdfd3c93aec3bf63ee50a61f03cf33">
+      <dsc ref="md5:9612ba80fb4ad33e9534a78137043944">
         <name>iputils</name>
-        <version>3:20161105-1</version>
+        <version>3:20180629-2</version>
       </dsc>
     </deb>
     <deb>
       <name>isc-dhcp-client</name>
-      <deb ref="md5:f337cca68f5fb45840c0e5372f64453b">
+      <deb ref="md5:00797bacf7c324da3903bdb3769e8fe6">
         <name>isc-dhcp-client</name>
-        <version>4.3.5-4</version>
+        <version>4.4.1-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:fb20567c3c3d4744b97ef6e594d2f699">
+      <dsc ref="md5:c135f4c0de46c798a81bb3e4ec752646">
         <name>isc-dhcp</name>
-        <version>4.3.5-4</version>
+        <version>4.4.1-2</version>
       </dsc>
     </deb>
     <deb>
       <name>isc-dhcp-common</name>
-      <deb ref="md5:4180fa3caf9eeab4c11c6206dec4a37b">
+      <deb ref="md5:4aaec3289dbd7b346a69fe29b84c0f97">
         <name>isc-dhcp-common</name>
-        <version>4.3.5-4</version>
+        <version>4.4.1-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:fb20567c3c3d4744b97ef6e594d2f699">
+      <dsc ref="md5:c135f4c0de46c798a81bb3e4ec752646">
         <name>isc-dhcp</name>
-        <version>4.3.5-4</version>
+        <version>4.4.1-2</version>
       </dsc>
     </deb>
     <deb>
       <name>kmod</name>
-      <deb ref="md5:cc9d0747b45c8824d7b9920946d19e31">
+      <deb ref="md5:b862ab70b7d9263cd16709943a9a08af">
         <name>kmod</name>
-        <version>25-1</version>
+        <version>25-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:040cf8a275d6491c7a8a75f347956f49">
+      <dsc ref="md5:1d5215d559c3e6230520280fa4133cec">
         <name>kmod</name>
-        <version>25-1</version>
+        <version>25-2</version>
       </dsc>
     </deb>
     <deb>
@@ -451,86 +451,74 @@
     </deb>
     <deb>
       <name>libc-bin</name>
-      <deb ref="md5:092c9cf3559910a4260c968e4d85452c">
+      <deb ref="md5:2fcde23331f3e9560554b0edd1d6b627">
         <name>libc-bin</name>
-        <version>2.27-3</version>
+        <version>2.28-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:efac0f6c3ef751804b50dbdc474ba2db">
+      <dsc ref="md5:2e08b1d0713aae1856e68e2a4c077917">
         <name>glibc</name>
-        <version>2.27-3</version>
-      </dsc>
-    </deb>
-    <deb>
-      <name>libgdbm5</name>
-      <deb ref="md5:4280fd84b6fef17236ce221d034e5dc5">
-        <name>libgdbm5</name>
-        <version>1.14.1-6+b1</version>
-        <arch>armhf</arch>
-      </deb>
-      <dsc ref="md5:106a591b5cddab48a1865543adc36152">
-        <name>gdbm</name>
-        <version>1.14.1-6</version>
+        <version>2.28-2</version>
       </dsc>
     </deb>
     <deb>
       <name>libpam-modules</name>
-      <deb ref="md5:33f7ef68cc0dfd261e7faf52be3600d2">
+      <deb ref="md5:7c3210860383d169a883ddf3d083bb63">
         <name>libpam-modules</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:f27f707918f1802027ab2a41a68b3ae4">
+      <dsc ref="md5:75bbafea4e7a0093992991d67bc33373">
         <name>pam</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
       </dsc>
     </deb>
     <deb>
       <name>libpam-modules-bin</name>
-      <deb ref="md5:181d3c7c11089b7197c49336346ca33a">
+      <deb ref="md5:65b523b7eca2e7dfc312a7d7be1fe7c4">
         <name>libpam-modules-bin</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:f27f707918f1802027ab2a41a68b3ae4">
+      <dsc ref="md5:75bbafea4e7a0093992991d67bc33373">
         <name>pam</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
       </dsc>
     </deb>
     <deb>
       <name>libpam-runtime</name>
-      <deb ref="md5:09056c31bb6cbe7942a5941504467e51">
+      <deb ref="md5:06e866110d9fcbd26f69815efcda3677">
         <name>libpam-runtime</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:f27f707918f1802027ab2a41a68b3ae4">
+      <dsc ref="md5:75bbafea4e7a0093992991d67bc33373">
         <name>pam</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
       </dsc>
     </deb>
     <deb>
       <name>login</name>
-      <deb ref="md5:7e914e472e5ef8ba7ecb5869b9629c3e">
+      <deb ref="md5:bfb4f4936375f6f13204a4018f4b8cde">
         <name>login</name>
-        <version>1:4.5-1</version>
+        <version>1:4.5-1.1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:85e9f6101d566e975a4dd09bb11f5b3d">
+      <dsc ref="md5:68b5c055b71cb6c26c6a7dd5b02d5c6a">
         <name>shadow</name>
-        <version>1:4.5-1</version>
+        <version>1:4.5-1.1</version>
       </dsc>
     </deb>
     <deb>
       <name>logrotate</name>
-      <deb ref="md5:2f465b0e56912e9407681ed63b86e13b">
+      <deb ref="md5:2512f4103f296d91cbb7726f6c3ed00b">
         <name>logrotate</name>
-        <version>3.11.0-0.1</version>
+        <version>3.14.0-4</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:7c31121d875bec351ddc07a914eac585">
+      <dsc ref="md5:195e2f11777052a88ae6b55a133c50b8">
         <name>logrotate</name>
-        <version>3.11.0-0.1</version>
+        <version>3.14.0-4</version>
       </dsc>
     </deb>
     <deb>
@@ -547,86 +535,98 @@
     </deb>
     <deb>
       <name>mount</name>
-      <deb ref="md5:6d799e1b5886a33909746e095575ad87">
+      <deb ref="md5:4ce87fe21af6957608bfd1cd75064fc2">
         <name>mount</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:70a1bf722849e8d0a222a9a87ed80a42">
+      <dsc ref="md5:f714942c06ea881965390d939479563d">
         <name>util-linux</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
       </dsc>
     </deb>
     <deb>
       <name>nano</name>
-      <deb ref="md5:ac5d31243e5e9b051ee26a9e635b6285">
+      <deb ref="md5:3797bb57842dfd18f965e5b1fe099c77">
         <name>nano</name>
-        <version>2.9.8-1</version>
+        <version>3.2-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:94fa8898d757c0af075f01b992b8545e">
+      <dsc ref="md5:ca9f16eda91887237d70fc75fe0f7442">
         <name>nano</name>
-        <version>2.9.8-1</version>
+        <version>3.2-1</version>
       </dsc>
     </deb>
     <deb>
       <name>ncurses-base</name>
-      <deb ref="md5:0ff4da59409d03634797abe6dbfd933a">
+      <deb ref="md5:f3856516614ddc0ea9ef56a8139f962e">
         <name>ncurses-base</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:7136695c6d8f985dd8de71dcc77e88a0">
+      <dsc ref="md5:8150bdfb84d1523adf0684ba5c9562f0">
         <name>ncurses</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
       </dsc>
     </deb>
     <deb>
       <name>ncurses-bin</name>
-      <deb ref="md5:5a6709402771e9aea50cc8da089bc87f">
+      <deb ref="md5:1f082776b680052417dd8ff801d39249">
         <name>ncurses-bin</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:7136695c6d8f985dd8de71dcc77e88a0">
+      <dsc ref="md5:8150bdfb84d1523adf0684ba5c9562f0">
         <name>ncurses</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
       </dsc>
     </deb>
     <deb>
       <name>netbase</name>
-      <deb ref="md5:9fcb182a7b1554c456f34c64b1d15e79">
+      <deb ref="md5:af7a872897df5c4ffa04856579349622">
         <name>netbase</name>
-        <version>5.4</version>
+        <version>5.5</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:95c3288d7a3b01c40055739ae6e260fd">
+      <dsc ref="md5:0bf7a37f38d8cf57f2314ace39c986ac">
         <name>netbase</name>
-        <version>5.4</version>
+        <version>5.5</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>netplan.io</name>
+      <deb ref="md5:24d515b8316387b768a970386a102bfe">
+        <name>netplan.io</name>
+        <version>0.95-1</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:23e30dbc75b1432aec11eac771d72ec2">
+        <name>netplan.io</name>
+        <version>0.95-1</version>
       </dsc>
     </deb>
     <deb>
       <name>passwd</name>
-      <deb ref="md5:c23bfb5382c1c15bc44551b96917ecfe">
+      <deb ref="md5:1349a1a8bd847b195f01b7d4d325bcb7">
         <name>passwd</name>
-        <version>1:4.5-1</version>
+        <version>1:4.5-1.1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:85e9f6101d566e975a4dd09bb11f5b3d">
+      <dsc ref="md5:68b5c055b71cb6c26c6a7dd5b02d5c6a">
         <name>shadow</name>
-        <version>1:4.5-1</version>
+        <version>1:4.5-1.1</version>
       </dsc>
     </deb>
     <deb>
       <name>perl-base</name>
-      <deb ref="md5:f3f7ea11b5aa2c647255803cc1f63692">
+      <deb ref="md5:e3ef44e888c8d36daaa633b6eaf1617e">
         <name>perl-base</name>
-        <version>5.26.2-6</version>
+        <version>5.28.1-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:99abfe79c6f0498735dc71dcdaf79714">
+      <dsc ref="md5:f28a0ba3e642e7d8567d9c41010cdbb2">
         <name>perl</name>
-        <version>5.26.2-6</version>
+        <version>5.28.1-3</version>
       </dsc>
     </deb>
     <deb>
@@ -655,26 +655,26 @@
     </deb>
     <deb>
       <name>rsyslog</name>
-      <deb ref="md5:6ed3d09abd333b8a2622d0f5ae916d92">
+      <deb ref="md5:c94a67a2bb38d9687b700245169d880b">
         <name>rsyslog</name>
-        <version>8.35.0-1</version>
+        <version>8.40.0-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:6eefdd3e6d5f93abdc5d6f06d129864b">
+      <dsc ref="md5:e756bfa62d2d87e14af75875adade534">
         <name>rsyslog</name>
-        <version>8.35.0-1</version>
+        <version>8.40.0-1</version>
       </dsc>
     </deb>
     <deb>
       <name>sed</name>
-      <deb ref="md5:dfa64c8f9565db1103f17ed7e8ecf3c7">
+      <deb ref="md5:428557ede0494c1b7bb14f837d1b6afb">
         <name>sed</name>
-        <version>4.4-2</version>
+        <version>4.7-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:658768ba06b0d155d69c1ecb9b9228a8">
+      <dsc ref="md5:1f1f49d5094da6397a7c13c40e4f165a">
         <name>sed</name>
-        <version>4.4-2</version>
+        <version>4.7-1</version>
       </dsc>
     </deb>
     <deb>
@@ -691,137 +691,137 @@
     </deb>
     <deb>
       <name>systemd</name>
-      <deb ref="md5:901cdd1a6a2d874493127933637f693f">
+      <deb ref="md5:d629e867fc0c8d8a788d93c106b93dd5">
         <name>systemd</name>
-        <version>238-5</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:804d645c7e7cb274ce6b8d519057d166">
+      <dsc ref="md5:5b42fd8e8d5c0f5e4646687d00cbdfc0">
         <name>systemd</name>
-        <version>238-5</version>
+        <version>240-2</version>
       </dsc>
     </deb>
     <deb>
       <name>systemd-sysv</name>
-      <deb ref="md5:e7e946aea869194731520cee42cc7036">
+      <deb ref="md5:3258178cabd9e9d6252441bdb407a715">
         <name>systemd-sysv</name>
-        <version>238-5</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:804d645c7e7cb274ce6b8d519057d166">
+      <dsc ref="md5:5b42fd8e8d5c0f5e4646687d00cbdfc0">
         <name>systemd</name>
-        <version>238-5</version>
+        <version>240-2</version>
       </dsc>
     </deb>
     <deb>
       <name>sysvinit-utils</name>
-      <deb ref="md5:6263e48fcde30493f81f46033270fc4b">
+      <deb ref="md5:1d5c684996327a7fbbee7fe793fb2246">
         <name>sysvinit-utils</name>
-        <version>2.88dsf-59.10</version>
+        <version>2.93-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:eae164cee61b74da2de4f96aecbe8d0b">
+      <dsc ref="md5:542eb2ae3c6a4827b919904aabb2ee81">
         <name>sysvinit</name>
-        <version>2.88dsf-59.10</version>
+        <version>2.93-2</version>
       </dsc>
     </deb>
     <deb>
       <name>tar</name>
-      <deb ref="md5:c02bfb2d5140126f5133d6f922b2d1b5">
+      <deb ref="md5:c9f658cdaf0179ed74674d4a1eba3fa3">
         <name>tar</name>
-        <version>1.30+dfsg-2</version>
+        <version>1.30+dfsg-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:4a94b80636f86f414a6a751fc15d6b64">
+      <dsc ref="md5:bab4058319b093bfb6daabef7702f841">
         <name>tar</name>
-        <version>1.30+dfsg-2</version>
+        <version>1.30+dfsg-3</version>
       </dsc>
     </deb>
     <deb>
       <name>tzdata</name>
-      <deb ref="md5:f5fe888a86ac33b39219bbecf4da90d1">
+      <deb ref="md5:ae1721e2bbe4477e0f41b1e1bd2f8974">
         <name>tzdata</name>
-        <version>2018e-1</version>
+        <version>2018i-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:94df602cd56ed64c9e59fedd95dab80d">
+      <dsc ref="md5:8cbcca432a28d5a63af819e95416a287">
         <name>tzdata</name>
-        <version>2018e-1</version>
+        <version>2018i-1</version>
       </dsc>
     </deb>
     <deb>
       <name>udev</name>
-      <deb ref="md5:e479cb4299f9533caad9a7ac4858dcc3">
+      <deb ref="md5:ccf47c2e0a5b02bd50b9300508307411">
         <name>udev</name>
-        <version>238-5</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:804d645c7e7cb274ce6b8d519057d166">
+      <dsc ref="md5:5b42fd8e8d5c0f5e4646687d00cbdfc0">
         <name>systemd</name>
-        <version>238-5</version>
+        <version>240-2</version>
       </dsc>
     </deb>
     <deb>
       <name>util-linux</name>
-      <deb ref="md5:02f560e636350091175174c3cff5a8ab">
+      <deb ref="md5:035c7bf93de30dd8bcb8be82ced8caaa">
         <name>util-linux</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:70a1bf722849e8d0a222a9a87ed80a42">
+      <dsc ref="md5:f714942c06ea881965390d939479563d">
         <name>util-linux</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
       </dsc>
     </deb>
     <deb>
       <name>vim-common</name>
-      <deb ref="md5:5edb923e54e64244e566529b715cd5e3">
+      <deb ref="md5:2d4a2439396e3ac284eb9ef65149b609">
         <name>vim-common</name>
-        <version>2:8.1.0089-1</version>
+        <version>2:8.1.0549-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:67b674468e6048dc9537213da95c696f">
+      <dsc ref="md5:adc9746df253aa595ca2e9a5cdb1d1d7">
         <name>vim</name>
-        <version>2:8.1.0089-1</version>
+        <version>2:8.1.0549-1</version>
       </dsc>
     </deb>
     <deb>
       <name>vim-tiny</name>
-      <deb ref="md5:625c0f4474ccc1947943725d33bdbe0c">
+      <deb ref="md5:1da914370a6a5823c4538d29b827c0e3">
         <name>vim-tiny</name>
-        <version>2:8.1.0089-1</version>
+        <version>2:8.1.0549-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:67b674468e6048dc9537213da95c696f">
+      <dsc ref="md5:adc9746df253aa595ca2e9a5cdb1d1d7">
         <name>vim</name>
-        <version>2:8.1.0089-1</version>
+        <version>2:8.1.0549-1</version>
       </dsc>
     </deb>
     <deb>
       <name>whiptail</name>
-      <deb ref="md5:21277467efbbc25ef8c646c304e9d67c">
+      <deb ref="md5:2f700ab5eb923102ef118beb3524f46e">
         <name>whiptail</name>
-        <version>0.52.20-4</version>
+        <version>0.52.20-8</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:57219b514b8434fa5f97e87fba471766">
+      <dsc ref="md5:e45fcfe66f86b2ba5776202f4484e857">
         <name>newt</name>
-        <version>0.52.20-4</version>
+        <version>0.52.20-8</version>
       </dsc>
     </deb>
     <deb>
       <name>gcc-8-base</name>
-      <deb ref="md5:762d0b64d89e050ddac39cb86b975181">
+      <deb ref="md5:7ad83c14bd4faed67d54b149bae11f71">
         <name>gcc-8-base</name>
-        <version>8.1.0-8</version>
+        <version>8.2.0-13</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libaudit-common</name>
-      <deb ref="md5:9c2d41bd9a7852655c25e2022d7066c9">
+      <deb ref="md5:1681989c64388566c598a06e94be3558">
         <name>libaudit-common</name>
-        <version>1:2.8.3-1</version>
+        <version>1:2.8.4-2</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -851,25 +851,25 @@
     </deb>
     <deb>
       <name>libbz2-1.0</name>
-      <deb ref="md5:dc9a560c636007f1255fde8ada09ce3c">
+      <deb ref="md5:f1894545256ceff52319c5eef67040c1">
         <name>libbz2-1.0</name>
-        <version>1.0.6-8.1</version>
+        <version>1.0.6-9</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libc6</name>
-      <deb ref="md5:a5e0ffef2794834a3fc984fb78258464">
+      <deb ref="md5:48ea69f86b13864ac2ca7835be14adb7">
         <name>libc6</name>
-        <version>2.27-3</version>
+        <version>2.28-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgcc1</name>
-      <deb ref="md5:608ec90ca150cc6de090714a7f4ca029">
+      <deb ref="md5:a16f18b118bfe8bc30b4b6869b87a172">
         <name>libgcc1</name>
-        <version>1:8.1.0-8</version>
+        <version>1:8.2.0-13</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -883,17 +883,17 @@
     </deb>
     <deb>
       <name>libpcre3</name>
-      <deb ref="md5:b5cf6065f21cd597cf9903f231e2ec24">
+      <deb ref="md5:978377833522012e576e4632a0a1f0f6">
         <name>libpcre3</name>
-        <version>2:8.39-9</version>
+        <version>2:8.39-11</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libselinux1</name>
-      <deb ref="md5:c67ebd66740bb1e45dd15f778f32d1e5">
+      <deb ref="md5:923517bb17a264b4f665ec9a4b13a5b8">
         <name>libselinux1</name>
-        <version>2.8-1</version>
+        <version>2.8-1+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -907,17 +907,17 @@
     </deb>
     <deb>
       <name>libcap-ng0</name>
-      <deb ref="md5:84c41a74cd3dba3874662c39a2e5e321">
+      <deb ref="md5:a93f4dc00d58622573018505e22d1f8c">
         <name>libcap-ng0</name>
-        <version>0.7.9-1</version>
+        <version>0.7.9-1+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libdb5.3</name>
-      <deb ref="md5:5ce9e0c07ced6ece703b528baaae34f0">
+      <deb ref="md5:ce97a503403c80b654e5d5ca1179d9c9">
         <name>libdb5.3</name>
-        <version>5.3.28-13.1+b1</version>
+        <version>5.3.28+dfsg1-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -931,49 +931,49 @@
     </deb>
     <deb>
       <name>libaudit1</name>
-      <deb ref="md5:69c57c59c1f839b8313e504249d53510">
+      <deb ref="md5:7b9ff633e95595ca7722bbcf97ec51e2">
         <name>libaudit1</name>
-        <version>1:2.8.3-1</version>
+        <version>1:2.8.4-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpam0g</name>
-      <deb ref="md5:181f2f5380ef4728d7fbea47e6801b50">
+      <deb ref="md5:f3426b25b10efc1a5f2c01247a3aa98a">
         <name>libpam0g</name>
-        <version>1.1.8-3.7</version>
+        <version>1.1.8-3.8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libsemanage1</name>
-      <deb ref="md5:aec764d2537b7bfe359342424a68849a">
+      <deb ref="md5:be28e2c73aed203a7871d3306eeae4dc">
         <name>libsemanage1</name>
-        <version>2.8-1</version>
+        <version>2.8-1+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libffi6</name>
-      <deb ref="md5:83e56311db50cbc0777db2f7fec365c8">
+      <deb ref="md5:db7678495cf99ce7652d7e5c1f3426aa">
         <name>libffi6</name>
-        <version>3.2.1-8</version>
+        <version>3.2.1-9</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgmp10</name>
-      <deb ref="md5:b897e7f435e4b7fa7457fec91e47f733">
+      <deb ref="md5:8aba0d185395dd67db4ebca3487da514">
         <name>libgmp10</name>
-        <version>2:6.1.2+dfsg-3</version>
+        <version>2:6.1.2+dfsg-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgpg-error0</name>
-      <deb ref="md5:5bb167255e0da079bdec24e6aeee84da">
+      <deb ref="md5:cfd1a6f5000847b7883d8e8e2baea94e">
         <name>libgpg-error0</name>
-        <version>1.31-1</version>
+        <version>1.33-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -987,25 +987,25 @@
     </deb>
     <deb>
       <name>libnettle6</name>
-      <deb ref="md5:6f741d67118ef23841b1b68b464fb8e6">
+      <deb ref="md5:17e1aa1d3a635c0ad5598ee854d6d1b1">
         <name>libnettle6</name>
-        <version>3.4-1</version>
+        <version>3.4.1~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libseccomp2</name>
-      <deb ref="md5:86963fcaf69826f6d333436e8ac6ad64">
+      <deb ref="md5:5ea541933d6a26a64d6d8dfdf09bf529">
         <name>libseccomp2</name>
-        <version>2.3.3-2</version>
+        <version>2.3.3-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libstdc++6</name>
-      <deb ref="md5:b519cd9fc8dc16b843fcf9241f2bc3ff">
+      <deb ref="md5:89a38c4f8da63b2f3819b499d69ff8e6">
         <name>libstdc++6</name>
-        <version>8.1.0-8</version>
+        <version>8.2.0-13</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1019,97 +1019,97 @@
     </deb>
     <deb>
       <name>libudev1</name>
-      <deb ref="md5:f4a6987b9c6ab73aace5d73344d11804">
+      <deb ref="md5:ccc6c68900382fcae5e33c79946ef9db">
         <name>libudev1</name>
-        <version>238-5</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libunistring2</name>
-      <deb ref="md5:831b70fd00df5a2b5a4eaa1fdcc294a7">
+      <deb ref="md5:54032a985755c1787778826333c7c5ee">
         <name>libunistring2</name>
-        <version>0.9.8-1</version>
+        <version>0.9.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libzstd1</name>
-      <deb ref="md5:c1f2a31831ce67e9720d543d541eee8e">
+      <deb ref="md5:f00479cdaed8176634b5ef9755772c3a">
         <name>libzstd1</name>
-        <version>1.3.4+dfsg-3</version>
+        <version>1.3.8+dfsg-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgcrypt20</name>
-      <deb ref="md5:5ec36356680ae79452d473ea75278df1">
+      <deb ref="md5:104e6e8e8b13768681c87ec423860e62">
         <name>libgcrypt20</name>
-        <version>1.8.3-1</version>
+        <version>1.8.4-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libidn2-0</name>
-      <deb ref="md5:48352a26e4f46b7187eb30fff0328ba6">
+      <deb ref="md5:1e42da51068c7234d4533566fd41be45">
         <name>libidn2-0</name>
-        <version>2.0.4-1.1</version>
+        <version>2.0.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libp11-kit0</name>
-      <deb ref="md5:44cfa43e4cb045f728ebf51c2dc75676">
+      <deb ref="md5:2b78deb1890bf5851b709271596d04a4">
         <name>libp11-kit0</name>
-        <version>0.23.12-2</version>
+        <version>0.23.14-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libhogweed4</name>
-      <deb ref="md5:e737461a1938eeafb65bf50b0a0374f8">
+      <deb ref="md5:711804a0df4020e04749718fdca06d7b">
         <name>libhogweed4</name>
-        <version>3.4-1</version>
+        <version>3.4.1~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libapt-pkg5.0</name>
-      <deb ref="md5:27f8d99a67a4d633440a89b08ec2b890">
+      <deb ref="md5:2cb9651bbaa4faf50630498990aaef05">
         <name>libapt-pkg5.0</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgnutls30</name>
-      <deb ref="md5:d8f70253c8fd46dc11eb30f76f0180b4">
+      <deb ref="md5:407254ecc76285e6c037fd9a74bce6bb">
         <name>libgnutls30</name>
-        <version>3.5.18-1</version>
+        <version>3.6.5-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libapt-inst2.0</name>
-      <deb ref="md5:ad339fad9f85299d3e49bb537b5b65d0">
+      <deb ref="md5:700a0274ec02b6eddfc4fa2d226d4d7f">
         <name>libapt-inst2.0</name>
-        <version>1.6.1</version>
+        <version>1.8.0~alpha3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libdebconfclient0</name>
-      <deb ref="md5:be288856496f41cb9dcf794f89355668">
+      <deb ref="md5:cdccaa70d991a2513f17664a3e1bd499">
         <name>libdebconfclient0</name>
-        <version>0.243</version>
+        <version>0.246</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libtinfo6</name>
-      <deb ref="md5:7b9818bce69e642d3d6724cf734ddcec">
+      <deb ref="md5:783fdf614ac449a31bb922b329aadbd2">
         <name>libtinfo6</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1123,41 +1123,41 @@
     </deb>
     <deb>
       <name>libsystemd0</name>
-      <deb ref="md5:4ddb034549477b716b8a1e5d4d1d450b">
+      <deb ref="md5:6b403bf3d1d7e4d54a014dad9ed41040">
         <name>libsystemd0</name>
-        <version>238-5</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lsb-base</name>
-      <deb ref="md5:8d6c6a71a9f120d572b33d46ccf4aec7">
+      <deb ref="md5:f65c474ddd1215b26b8c90bb5db1041f">
         <name>lsb-base</name>
-        <version>9.20170808</version>
+        <version>10.2018112800</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>liblocale-gettext-perl</name>
-      <deb ref="md5:43e335f76bf2fb7b186274563ec30241">
+      <deb ref="md5:619973c2acc2dbcf47cc7893b7778cfe">
         <name>liblocale-gettext-perl</name>
-        <version>1.07-3+b3</version>
+        <version>1.07-3+b4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libtext-charwidth-perl</name>
-      <deb ref="md5:9add9e1d6c9df0ab94f617ee6589dbd8">
+      <deb ref="md5:fd685b06cb84623f44c0f91619bbd36e">
         <name>libtext-charwidth-perl</name>
-        <version>0.04-7.1</version>
+        <version>0.04-7.1+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libtext-iconv-perl</name>
-      <deb ref="md5:d67df837e808d79463e13856eeb6b6a1">
+      <deb ref="md5:19d0e0a126ae701909b34069d930c1a2">
         <name>libtext-iconv-perl</name>
-        <version>1.7-5+b6</version>
+        <version>1.7-5+b7</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1171,73 +1171,73 @@
     </deb>
     <deb>
       <name>libcom-err2</name>
-      <deb ref="md5:f3755d4f9e71272e3addfea38cfd868a">
+      <deb ref="md5:4f2f8078cbc9c027fb1d10e6ffed3c28">
         <name>libcom-err2</name>
-        <version>1.44.2-1</version>
+        <version>1.44.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libext2fs2</name>
-      <deb ref="md5:8a06307dcf6fece71bf91132417ba591">
+      <deb ref="md5:38fab8addbb3d35cfda615864f28707b">
         <name>libext2fs2</name>
-        <version>1.44.2-1</version>
+        <version>1.44.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libuuid1</name>
-      <deb ref="md5:850719106f53c910146a96c36fe3d87f">
+      <deb ref="md5:8c9ffd976888f75af21ea590033e4844">
         <name>libuuid1</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libblkid1</name>
-      <deb ref="md5:88823eb10cf395e57396b599c269d622">
+      <deb ref="md5:2b8d3a686d8f89ec5a0d6b053df67a43">
         <name>libblkid1</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libss2</name>
-      <deb ref="md5:63cf31117f953b1aeae43b15fcf3cbe1">
+      <deb ref="md5:5e10ba8d7c0b06229306f9740b7f924b">
         <name>libss2</name>
-        <version>1.44.2-1</version>
+        <version>1.44.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libfdisk1</name>
-      <deb ref="md5:2aadbac9966ab52fc914621aea55a630">
+      <deb ref="md5:4667529a42e33b48e319f70e71ba0250">
         <name>libfdisk1</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libmount1</name>
-      <deb ref="md5:cf7b86a573a9ec2cb4485c7a041da79f">
+      <deb ref="md5:439f95ba1fe2c5074350b871d2ff8f13">
         <name>libmount1</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libncursesw6</name>
-      <deb ref="md5:2ab27272c34be57d71dea1c0c3b68c90">
+      <deb ref="md5:5d57febaaf9e097d120fe2e66d863112">
         <name>libncursesw6</name>
-        <version>6.1+20180210-4</version>
+        <version>6.1+20181013-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libsmartcols1</name>
-      <deb ref="md5:fc40173fcc45ac7183fdfd89af754aa9">
+      <deb ref="md5:7e5bd864753ddb872515b8524a514584">
         <name>libsmartcols1</name>
-        <version>2.32-0.1</version>
+        <version>2.33-0.2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1251,9 +1251,9 @@
     </deb>
     <deb>
       <name>libelf1</name>
-      <deb ref="md5:1dffc8526c8c88ae7fb8995889407d4b">
+      <deb ref="md5:e5b3cc01dcb47b6c2bdef3fa1559894e">
         <name>libelf1</name>
-        <version>0.170-0.4</version>
+        <version>0.175-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1262,6 +1262,14 @@
       <deb ref="md5:0a83c72e76c3369632026a7ce3b6203c">
         <name>libmnl0</name>
         <version>1.0.4-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxtables12</name>
+      <deb ref="md5:7b10ed4f4e2ab579b0082602612e3131">
+        <name>libxtables12</name>
+        <version>1.8.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1275,17 +1283,17 @@
     </deb>
     <deb>
       <name>libapparmor1</name>
-      <deb ref="md5:e794a09d0b7cd7d61ea9bc164cccfd01">
+      <deb ref="md5:27ce6f4f9187a55649f9410e014c9b2c">
         <name>libapparmor1</name>
-        <version>2.12-4</version>
+        <version>2.13.1-3+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libargon2-0</name>
-      <deb ref="md5:0312d010c9065b6a7d675b0850e683a6">
-        <name>libargon2-0</name>
-        <version>0~20161029-2</version>
+      <name>libargon2-1</name>
+      <deb ref="md5:8b62274ed27e31db43317d09a1239dc7">
+        <name>libargon2-1</name>
+        <version>0~20171227-0.1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1299,9 +1307,9 @@
     </deb>
     <deb>
       <name>libip4tc0</name>
-      <deb ref="md5:4aad5b810296b2053edbf8aac4021620">
+      <deb ref="md5:a8c4da1545200478c8835a9be4cea509">
         <name>libip4tc0</name>
-        <version>1.6.2-1</version>
+        <version>1.8.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1315,57 +1323,41 @@
     </deb>
     <deb>
       <name>libkmod2</name>
-      <deb ref="md5:9aded21fb0d2fa689e324be5c3d6aa0b">
+      <deb ref="md5:189a89db4b531c9cef0929603e572b93">
         <name>libkmod2</name>
-        <version>25-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libncurses6</name>
-      <deb ref="md5:f8f271b8ecfa0f069f8bedb12cd99cb7">
-        <name>libncurses6</name>
-        <version>6.1+20180210-4</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libprocps7</name>
-      <deb ref="md5:1e36c2c9c2b50379644d97fb0db4f003">
-        <name>libprocps7</name>
-        <version>2:3.3.15-2</version>
+        <version>25-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>dmsetup</name>
-      <deb ref="md5:edae72f3123527f5118b12299ea38636">
+      <deb ref="md5:677cb1fddcbc3d569eee610a0ae4d58a">
         <name>dmsetup</name>
-        <version>2:1.02.145-4.1</version>
+        <version>2:1.02.155-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libdevmapper1.02.1</name>
-      <deb ref="md5:cd250e5d745aea6006534a316235e7e6">
+      <deb ref="md5:005bb1e8e0e0a49b4a93d8213f1f3ee5">
         <name>libdevmapper1.02.1</name>
-        <version>2:1.02.145-4.1</version>
+        <version>2:1.02.155-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libcryptsetup12</name>
-      <deb ref="md5:d54115582a5263640812e60d927ed2b0">
+      <deb ref="md5:d3769c219a954938f603e227bcdeee29">
         <name>libcryptsetup12</name>
-        <version>2:2.0.2-1</version>
+        <version>2:2.0.6-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libip6tc0</name>
-      <deb ref="md5:e645ac822ff25812d4b0228e027aabe7">
+      <deb ref="md5:607465134584e5b332106e8579577ace">
         <name>libip6tc0</name>
-        <version>1.6.2-1</version>
+        <version>1.8.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1378,18 +1370,18 @@
       </deb>
     </deb>
     <deb>
-      <name>libxtables12</name>
-      <deb ref="md5:29889a489a2c80f85b3a66d755121981">
-        <name>libxtables12</name>
-        <version>1.6.2-1</version>
+      <name>libnftnl11</name>
+      <deb ref="md5:31a10ef7a7cfac39324f2a9947ef7f6c">
+        <name>libnftnl11</name>
+        <version>1.1.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libiptc0</name>
-      <deb ref="md5:51346224d76ab62bc807e3bbfcceba85">
+      <deb ref="md5:426afa6812800689a5d0a4ab98e0e2d8">
         <name>libiptc0</name>
-        <version>1.6.2-1</version>
+        <version>1.8.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1403,25 +1395,25 @@
     </deb>
     <deb>
       <name>libssl1.1</name>
-      <deb ref="md5:d77de3f88e3fb958fa7facb4b43b4046">
+      <deb ref="md5:119cfbe55c8845790aa59bfc3951a2e6">
         <name>libssl1.1</name>
-        <version>1.1.0h-4</version>
+        <version>1.1.1a-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libisc-export169</name>
-      <deb ref="md5:889d9bb2f6d4d8ea39ddcd72b3c119a2">
-        <name>libisc-export169</name>
-        <version>1:9.11.3+dfsg-2</version>
+      <name>libisc-export1100</name>
+      <deb ref="md5:a6984878bb114a9702a917de2354a5f0">
+        <name>libisc-export1100</name>
+        <version>1:9.11.5.P1+dfsg-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libdns-export1100</name>
-      <deb ref="md5:9fde53b7f90799c424f0872545a08d00">
-        <name>libdns-export1100</name>
-        <version>1:9.11.3+dfsg-2</version>
+      <name>libdns-export1104</name>
+      <deb ref="md5:66e671fab7fd49b6ea75518ed92ae403">
+        <name>libdns-export1104</name>
+        <version>1:9.11.5.P1+dfsg-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1430,6 +1422,150 @@
       <deb ref="md5:7f72fc1902dd3b9129dc3a3ea3f92aa3">
         <name>libpopt0</name>
         <version>1.16-11</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libexpat1</name>
+      <deb ref="md5:7e3847d81b823f88e1eb9adc4e18cc60">
+        <name>libexpat1</name>
+        <version>2.2.6-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglib2.0-0</name>
+      <deb ref="md5:fbfc8872cdfc096f7bb8531f931f2e9c">
+        <name>libglib2.0-0</name>
+        <version>2.58.2-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libmpdec2</name>
+      <deb ref="md5:3140cef1300345f20782b8334f345677">
+        <name>libmpdec2</name>
+        <version>2.4.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-minimal</name>
+      <deb ref="md5:28c4cb3ba1e330f34d761f5fcabe8496">
+        <name>libpython3.7-minimal</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libsqlite3-0</name>
+      <deb ref="md5:f091af326c3562ea2b89e09f8a5e396d">
+        <name>libsqlite3-0</name>
+        <version>3.26.0+fossilbc891ac6b-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libyaml-0-2</name>
+      <deb ref="md5:b13d1a3a8976550df2ede72c4d5c49fb">
+        <name>libyaml-0-2</name>
+        <version>0.2.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>mime-support</name>
+      <deb ref="md5:930458d560a2f9d38abcd1999f409b6c">
+        <name>mime-support</name>
+        <version>3.61</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3-stdlib</name>
+      <deb ref="md5:318cedf07bcc70e2e9a8ccbbe9c8103c">
+        <name>libpython3-stdlib</name>
+        <version>3.7.1-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-stdlib</name>
+      <deb ref="md5:a7f53b351e8036d5bac808fb474add4f">
+        <name>libpython3.7-stdlib</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libreadline7</name>
+      <deb ref="md5:d9ae4ff31300d606b45dcf717080724f">
+        <name>libreadline7</name>
+        <version>7.0-5</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-minimal</name>
+      <deb ref="md5:a4d82fc3c4ed54ccbb88267f6d73a1df">
+        <name>python3-minimal</name>
+        <version>3.7.1-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7-minimal</name>
+      <deb ref="md5:7b112041b99b091a74cad7506c322d64">
+        <name>python3.7-minimal</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3</name>
+      <deb ref="md5:8b3756a1fe6a9fab4811ea0b57e3aec8">
+        <name>python3</name>
+        <version>3.7.1-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-netifaces</name>
+      <deb ref="md5:2c6ef3927d5126c6726f6b629bfad2ac">
+        <name>python3-netifaces</name>
+        <version>0.10.4-1+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7</name>
+      <deb ref="md5:dbc9e5c150c82ad71fca4386c2c2b22a">
+        <name>python3.7</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-yaml</name>
+      <deb ref="md5:9d71d0e512bef70d51b08c0fe91c01db">
+        <name>python3-yaml</name>
+        <version>3.13-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libncurses6</name>
+      <deb ref="md5:1a3c62a13f095d01b8ccd7df20358f13">
+        <name>libncurses6</name>
+        <version>6.1+20181013-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libprocps7</name>
+      <deb ref="md5:1e36c2c9c2b50379644d97fb0db4f003">
+        <name>libprocps7</name>
+        <version>2:3.3.15-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1450,14 +1586,6 @@
       </deb>
     </deb>
     <deb>
-      <name>liblogging-stdlog0</name>
-      <deb ref="md5:a94da5c032a9595f110dc055b56cdf51">
-        <name>liblogging-stdlog0</name>
-        <version>1.0.6-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>liblognorm5</name>
       <deb ref="md5:a5d3cda155b7246c3e19644577a5db10">
         <name>liblognorm5</name>
@@ -1467,9 +1595,9 @@
     </deb>
     <deb>
       <name>xxd</name>
-      <deb ref="md5:24fa89216f19a962e1c5ae5e91f09686">
+      <deb ref="md5:809ce4a689fb931cb8ae20f8c46e7d4c">
         <name>xxd</name>
-        <version>2:8.1.0089-1</version>
+        <version>2:8.1.0549-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1483,9 +1611,9 @@
     </deb>
     <deb>
       <name>libnewt0.52</name>
-      <deb ref="md5:e11a4e6bb35cc4b103b9cc53e684b40d">
+      <deb ref="md5:ec25b91f971ffcd7e15f35b6e899b077">
         <name>libnewt0.52</name>
-        <version>0.52.20-4</version>
+        <version>0.52.20-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>

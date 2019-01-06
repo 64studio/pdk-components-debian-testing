@@ -7,38 +7,38 @@
   <contents>
     <deb>
       <name>dbus-x11</name>
-      <deb ref="md5:fa86570256e6d6587eb0a4a6c0a804ea">
+      <deb ref="md5:568b71f695ffcef141c1f517a9895571">
         <name>dbus-x11</name>
-        <version>1.12.8-3</version>
+        <version>1.12.12-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:bcbc87463e8b461895878757bfe2ef60">
+      <dsc ref="md5:7df71c3c17f5ab2a3437e4c60042fdea">
         <name>dbus</name>
-        <version>1.12.8-3</version>
+        <version>1.12.12-1</version>
       </dsc>
     </deb>
     <deb>
       <name>dbus-x11</name>
-      <deb ref="md5:fa86570256e6d6587eb0a4a6c0a804ea">
+      <deb ref="md5:568b71f695ffcef141c1f517a9895571">
         <name>dbus-x11</name>
-        <version>1.12.8-3</version>
+        <version>1.12.12-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:bcbc87463e8b461895878757bfe2ef60">
+      <dsc ref="md5:7df71c3c17f5ab2a3437e4c60042fdea">
         <name>dbus</name>
-        <version>1.12.8-3</version>
+        <version>1.12.12-1</version>
       </dsc>
     </deb>
     <deb>
       <name>lightdm</name>
-      <deb ref="md5:4635a00be2ddebd39caffe9d2b998d90">
+      <deb ref="md5:f0a44ba05e2895bad76135ebc1af8389">
         <name>lightdm</name>
-        <version>1.18.3-4</version>
+        <version>1.26.0-3</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:1e9bfee4ce2df3c93da704eadbc26deb">
+      <dsc ref="md5:2dc594e5e03c6f36144c000c68f02a54">
         <name>lightdm</name>
-        <version>1.18.3-4</version>
+        <version>1.26.0-3</version>
       </dsc>
     </deb>
     <deb>
@@ -55,61 +55,45 @@
     </deb>
     <deb>
       <name>lxterminal</name>
-      <deb ref="md5:d97def1e5f20f3bc42ac042e41229d89">
+      <deb ref="md5:a740edd88bc70cb1f8231af5306b3371">
         <name>lxterminal</name>
-        <version>0.3.1-2</version>
+        <version>0.3.2-1</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:b4b8e853ad46dedd14d28d3809c0018d">
+      <dsc ref="md5:1f018b5a48d15bc26f6c4a2c86eef729">
         <name>lxterminal</name>
-        <version>0.3.1-2</version>
+        <version>0.3.2-1</version>
       </dsc>
     </deb>
     <deb>
       <name>dbus</name>
-      <deb ref="md5:dc44d50b9772b6c7b61b822d0c1202e0">
+      <deb ref="md5:27dd3e45bf0476db89cdd5a62a15513f">
         <name>dbus</name>
-        <version>1.12.8-3</version>
+        <version>1.12.12-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgirepository-1.0-1</name>
-      <deb ref="md5:66f99934de47db3013b8c4a1776dc5d5">
+      <deb ref="md5:5e088729286fc9098ded47214ba4cff7">
         <name>libgirepository-1.0-1</name>
-        <version>1.56.1-1</version>
+        <version>1.58.3-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libgraphite2-3</name>
-      <deb ref="md5:95de3d70eb8bb43a068717173ce47f39">
-        <name>libgraphite2-3</name>
-        <version>1.3.11-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libmpdec2</name>
-      <deb ref="md5:3140cef1300345f20782b8334f345677">
-        <name>libmpdec2</name>
-        <version>2.4.2-2</version>
+      <name>libicu63</name>
+      <deb ref="md5:b36edd142fee69546269d147a844a777">
+        <name>libicu63</name>
+        <version>63.1-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpam-systemd</name>
-      <deb ref="md5:79acf0e39914ba08f2665ef7c6587491">
+      <deb ref="md5:00d7034817fb035cfe79a4fadf4c6cc0">
         <name>libpam-systemd</name>
-        <version>238-5</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libpython3.6-minimal</name>
-      <deb ref="md5:652bba39e963fb1531436abda7e3b12d">
-        <name>libpython3.6-minimal</name>
-        <version>3.6.6~rc1-4</version>
+        <version>240-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -123,137 +107,65 @@
     </deb>
     <deb>
       <name>gir1.2-glib-2.0</name>
-      <deb ref="md5:d0fa36da20e1b69ea85b5e8ca7f1d329">
+      <deb ref="md5:6427b25462f2e1cc9b5f2084623c1e35">
         <name>gir1.2-glib-2.0</name>
-        <version>1.56.1-1</version>
+        <version>1.58.3-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gir1.2-lightdm-1</name>
-      <deb ref="md5:b8a6dad813e216662ab5290e15c7faba">
+      <deb ref="md5:4fec9a4212cc9e5594fd28cbb5a347ba">
         <name>gir1.2-lightdm-1</name>
-        <version>1.18.3-4</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libharfbuzz0b</name>
-      <deb ref="md5:84af46c9c8abac6565442073f72ea2b7">
-        <name>libharfbuzz0b</name>
-        <version>1.7.6-1+b1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libicu-le-hb0</name>
-      <deb ref="md5:95a6a047a7ee7c04b9796e5633240a01">
-        <name>libicu-le-hb0</name>
-        <version>1.0.3+git161113-5</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libicu60</name>
-      <deb ref="md5:24dbaaef55ef8b602ee2512339d847d9">
-        <name>libicu60</name>
-        <version>60.2-6</version>
+        <version>1.26.0-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>liblightdm-gobject-1-0</name>
-      <deb ref="md5:bb1056ca775db0c873955faefdda63a5">
+      <deb ref="md5:0d65b2ede439abe6a3f4101dfc05bb13">
         <name>liblightdm-gobject-1-0</name>
-        <version>1.18.3-4</version>
+        <version>1.26.0-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libxklavier16</name>
-      <deb ref="md5:a52258083030349ce6a69c4a37a2b2ac">
+      <deb ref="md5:8c34678c86353e24f8d3db599f45bee2">
         <name>libxklavier16</name>
-        <version>5.4-3</version>
+        <version>5.4-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libxml2</name>
-      <deb ref="md5:130e9c7715092e39a695d85ae4ad9a0b">
+      <deb ref="md5:5f924c968d03f36754a7ff422df65dd6">
         <name>libxml2</name>
-        <version>2.9.4+dfsg1-7</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libpython3-stdlib</name>
-      <deb ref="md5:4f64b2770024b372c4def113cbb93885">
-        <name>libpython3-stdlib</name>
-        <version>3.6.5-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libpython3.6-stdlib</name>
-      <deb ref="md5:07ab67f355af3959d20167470599dac5">
-        <name>libpython3.6-stdlib</name>
-        <version>3.6.6~rc1-4</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>python3-minimal</name>
-      <deb ref="md5:db2e58e24c20c1e479c6ccb8b8790f80">
-        <name>python3-minimal</name>
-        <version>3.6.5-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>python3.6-minimal</name>
-      <deb ref="md5:eef0ff61df679b0b4fe4404b7c3ed623">
-        <name>python3.6-minimal</name>
-        <version>3.6.6~rc1-4</version>
+        <version>2.9.4+dfsg1-7+b3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lightdm-autologin-greeter</name>
-      <deb ref="md5:351dd15b22342cf9a41e9d959468148d">
+      <deb ref="md5:5c28d476d25e56a1b31ed64e5b214d60">
         <name>lightdm-autologin-greeter</name>
-        <version>1.0-2</version>
+        <version>1.0-3</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
-      <name>python3</name>
-      <deb ref="md5:1fd78981f78da92c67fa1dafe1be3642">
-        <name>python3</name>
-        <version>3.6.5-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>python3-gi</name>
-      <deb ref="md5:ea138171f52690824f950c823a881c1c">
+      <deb ref="md5:fd5b282bb16253cc11434f66ccee96e8">
         <name>python3-gi</name>
-        <version>3.28.2-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>python3.6</name>
-      <deb ref="md5:d3450bda3425afde90cf43612a9824aa">
-        <name>python3.6</name>
-        <version>3.6.6~rc1-4</version>
+        <version>3.30.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>distro-info-data</name>
-      <deb ref="md5:23788a7fcdf3b61ceb3055358a58d9e8">
+      <deb ref="md5:38ece5606f1b4c0e82dc74043ee3c360">
         <name>distro-info-data</name>
-        <version>0.38</version>
+        <version>0.39</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -275,33 +187,25 @@
     </deb>
     <deb>
       <name>libatk1.0-data</name>
-      <deb ref="md5:3efd1a1bb5d1a202e4f5a3bcbef8a291">
+      <deb ref="md5:bd9d55e59cb11f3cbc8918998e3974b7">
         <name>libatk1.0-data</name>
-        <version>2.28.1-1</version>
+        <version>2.30.0-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libavahi-common-data</name>
-      <deb ref="md5:127425ba9fb96b3dca5c35c472e9dfc0">
+      <deb ref="md5:4a3582a302261d2c5ddd791f9f2ca08b">
         <name>libavahi-common-data</name>
-        <version>0.7-4</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libcomerr2</name>
-      <deb ref="md5:61a548ae2c6a9f7ff2598b9551a8a8d7">
-        <name>libcomerr2</name>
-        <version>1.44.2-1</version>
+        <version>0.7-4+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libcroco3</name>
-      <deb ref="md5:dd706bd8132ca3b25b2eeaba0df99893">
+      <deb ref="md5:c4a3a1488e5663ca9eafd1176ddd2072">
         <name>libcroco3</name>
-        <version>0.6.12-2</version>
+        <version>0.6.12-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -315,9 +219,9 @@
     </deb>
     <deb>
       <name>libdbus-glib-1-2</name>
-      <deb ref="md5:91d64b9fcf4598cdf3cffeeabd99f400">
+      <deb ref="md5:6c7f80e2365cb8bbbbcf6d2fc62a5a04">
         <name>libdbus-glib-1-2</name>
-        <version>0.110-2</version>
+        <version>0.110-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -331,41 +235,41 @@
     </deb>
     <deb>
       <name>libfm-data</name>
-      <deb ref="md5:b0997ef137596689209a73d90a3b5071">
+      <deb ref="md5:7dde25bf581c967cc3c69580e1cde136">
         <name>libfm-data</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libfm-extra4</name>
-      <deb ref="md5:493a92437a62a340d37cfcb6ec0ef7b3">
+      <deb ref="md5:25e4f99639b1ab3b903200ed88424ade">
         <name>libfm-extra4</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libfm-gtk-data</name>
-      <deb ref="md5:60a78106e778d9a9421b868f2d92a305">
+      <deb ref="md5:77be94c1ff635257ed1784b867358106">
         <name>libfm-gtk-data</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libfribidi0</name>
-      <deb ref="md5:d1e23683ca368340d1739c41074ca198">
+      <deb ref="md5:716d79e16320a293edd7d752135f8152">
         <name>libfribidi0</name>
-        <version>0.19.7-2</version>
+        <version>1.0.5-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgdk-pixbuf2.0-common</name>
-      <deb ref="md5:49ea54ee4fad64cf26344e312dde87a8">
+      <deb ref="md5:50c0358f31ec3f307e9d3605f4bcee86">
         <name>libgdk-pixbuf2.0-common</name>
-        <version>2.36.11-2</version>
+        <version>2.38.0+dfsg-7</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -378,10 +282,18 @@
       </deb>
     </deb>
     <deb>
+      <name>libgraphite2-3</name>
+      <deb ref="md5:56576d6633f1c3596de27424a6028079">
+        <name>libgraphite2-3</name>
+        <version>1.3.12-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libgtk2.0-common</name>
-      <deb ref="md5:8f2e33c0eebc0fe9eedd4df4640b71eb">
+      <deb ref="md5:b73bc3b82ee935fb76e00b1a9c7d68a1">
         <name>libgtk2.0-common</name>
-        <version>2.24.32-1</version>
+        <version>2.24.32-3</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -395,9 +307,9 @@
     </deb>
     <deb>
       <name>libiw30</name>
-      <deb ref="md5:3467886b0e0f71c147ebf259792937b8">
+      <deb ref="md5:e4c9701cfe18d4feb3e1f288ff0f9bcf">
         <name>libiw30</name>
-        <version>30~pre9-12+b1</version>
+        <version>30~pre9-13</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -418,50 +330,50 @@
       </deb>
     </deb>
     <deb>
-      <name>libkeyutils1</name>
-      <deb ref="md5:1e2a5552b9ab49bad3a3676a5b345e58">
-        <name>libkeyutils1</name>
-        <version>1.5.9-9.2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libpolkit-gobject-1-0</name>
-      <deb ref="md5:1828f9ce37249b1cc5f6b3c7ee5f5654">
+      <deb ref="md5:069c5d44b2e9aef7ff82e77d9f8784ee">
         <name>libpolkit-gobject-1-0</name>
-        <version>0.105-20</version>
+        <version>0.105-23</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libthai-data</name>
-      <deb ref="md5:500c236fe0b22264e80ca38c1d3d61e0">
+      <deb ref="md5:ed5001169a0bf044af5c40255be24d06">
         <name>libthai-data</name>
-        <version>0.1.27-2</version>
+        <version>0.1.28-1</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
+      <name>libwebp6</name>
+      <deb ref="md5:5c48a65739c76b4da20ad1e67e80c5cc">
+        <name>libwebp6</name>
+        <version>0.6.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libwnck-common</name>
-      <deb ref="md5:7041c41ccbe6536347a01f31231f8161">
+      <deb ref="md5:42661f8b842ac18b061e7494f8c60862">
         <name>libwnck-common</name>
-        <version>2.30.7-5.1</version>
+        <version>2.30.7-6</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libxcb-render0</name>
-      <deb ref="md5:239d31064a729da14fc2e89610180463">
+      <deb ref="md5:a4e7c5928bca6839672f8dfb0bb9a0cd">
         <name>libxcb-render0</name>
-        <version>1.13-1</version>
+        <version>1.13.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libxcb-shm0</name>
-      <deb ref="md5:27d06aa7afb64c4548ba972747685231">
+      <deb ref="md5:709057ba4ec73c972c9bbb3e8c6bb044">
         <name>libxcb-shm0</name>
-        <version>1.13-1</version>
+        <version>1.13.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -483,9 +395,9 @@
     </deb>
     <deb>
       <name>libxinerama1</name>
-      <deb ref="md5:1a937dfa39f5e6dcacab16ed984fcb1a">
+      <deb ref="md5:e64251eb2b3b7fcf8719a6f7e29201d7">
         <name>libxinerama1</name>
-        <version>2:1.1.3-1+b3</version>
+        <version>2:1.1.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -539,9 +451,9 @@
     </deb>
     <deb>
       <name>shared-mime-info</name>
-      <deb ref="md5:3cd33959c9503021a7dea9b00cf5972c">
+      <deb ref="md5:bcc2b01cf29e174beb97d2462132deb2">
         <name>shared-mime-info</name>
-        <version>1.9-2</version>
+        <version>1.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -555,9 +467,9 @@
     </deb>
     <deb>
       <name>ucf</name>
-      <deb ref="md5:d0b18816731d0d23c1d45593ccc6e483">
+      <deb ref="md5:c08d9559adf8c1254e722a473cdaf8d8">
         <name>ucf</name>
-        <version>3.0038</version>
+        <version>3.0038+nmu1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -571,73 +483,81 @@
     </deb>
     <deb>
       <name>gtk-update-icon-cache</name>
-      <deb ref="md5:c10d370fe290a0bd69cdee36aac93133">
+      <deb ref="md5:5f211639437f23c3a2aee6a61a954b67">
         <name>gtk-update-icon-cache</name>
-        <version>3.22.29-3</version>
+        <version>3.24.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgdk-pixbuf2.0-0</name>
-      <deb ref="md5:f189d3b3746ec5e2c07bcfc5409663fe">
+      <deb ref="md5:82f32ff34e7a04a3c52e1e4f607d53fd">
         <name>libgdk-pixbuf2.0-0</name>
-        <version>2.36.11-2</version>
+        <version>2.38.0+dfsg-7</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libtiff5</name>
-      <deb ref="md5:c59102d2e3b554dea9ca823e5736ef38">
+      <deb ref="md5:5ef348e01e78596562d2e10ad5cbeb13">
         <name>libtiff5</name>
-        <version>4.0.9-5</version>
+        <version>4.0.10-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libatk1.0-0</name>
-      <deb ref="md5:3a1a884ab24cb156bc8c2bfa4ce47658">
+      <deb ref="md5:5cc5f8b876adcbb10c018d43a30e8598">
         <name>libatk1.0-0</name>
-        <version>2.28.1-1</version>
+        <version>2.30.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libavahi-client3</name>
-      <deb ref="md5:da039dfa50256797f05638f33b0990dd">
+      <deb ref="md5:5bced811ace4b41566620f1f93aa88fc">
         <name>libavahi-client3</name>
-        <version>0.7-4</version>
+        <version>0.7-4+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libavahi-common3</name>
-      <deb ref="md5:64c4126fe95ebfe4b86be0c7a3ea6ab0">
+      <deb ref="md5:d7f662c1814467e6032f05d781ff25e5">
         <name>libavahi-common3</name>
-        <version>0.7-4</version>
+        <version>0.7-4+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>fontconfig-config</name>
-      <deb ref="md5:e82a588a662bf60268d3e0ad2a312bda">
+      <deb ref="md5:bf030a59aaa40076b77af1cd5037ae2e">
         <name>fontconfig-config</name>
-        <version>2.13.0-5</version>
+        <version>2.13.1-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libfontconfig1</name>
-      <deb ref="md5:a5567cff9d0a5697d6ffd96bfabacb12">
+      <deb ref="md5:4ceea5048cf35c54322d38141dfaf6c8">
         <name>libfontconfig1</name>
-        <version>2.13.0-5</version>
+        <version>2.13.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libharfbuzz0b</name>
+      <deb ref="md5:c78c38fbd065e40c319ec9e5f20bfc44">
+        <name>libharfbuzz0b</name>
+        <version>2.3.0-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>fontconfig</name>
-      <deb ref="md5:79fcc8e0efaca9428e360ad9f41334ae">
+      <deb ref="md5:df508c8c450622c082d3c368cb716fe0">
         <name>fontconfig</name>
-        <version>2.13.0-5</version>
+        <version>2.13.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -651,41 +571,25 @@
     </deb>
     <deb>
       <name>libcairo2</name>
-      <deb ref="md5:b0b413296f48ed41e51da442f113ef0d">
+      <deb ref="md5:88028b491274f56fb097056d4a547bb3">
         <name>libcairo2</name>
-        <version>1.15.10-3</version>
+        <version>1.16.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libcups2</name>
-      <deb ref="md5:9cd93eb7ed6a456bb795f677637fe37d">
+      <deb ref="md5:cf94bcc6040a1da0786407c1e6e4ee06">
         <name>libcups2</name>
-        <version>2.2.8-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libgssapi-krb5-2</name>
-      <deb ref="md5:f3decb4cfdc086b0e343390a6d718868">
-        <name>libgssapi-krb5-2</name>
-        <version>1.16-2</version>
+        <version>2.2.10-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgtk2.0-0</name>
-      <deb ref="md5:459dcafe4558babd0eeb37924c4d3cc9">
+      <deb ref="md5:3e2a72f60c6c4fd138c632613f58c93b">
         <name>libgtk2.0-0</name>
-        <version>2.24.32-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libk5crypto3</name>
-      <deb ref="md5:f814fe7eab5a381aebfedf2c34ea3866">
-        <name>libk5crypto3</name>
-        <version>1.16-2</version>
+        <version>2.24.32-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -698,74 +602,58 @@
       </deb>
     </deb>
     <deb>
-      <name>libkrb5-3</name>
-      <deb ref="md5:93c1622922a1241d640b546271ad3ae8">
-        <name>libkrb5-3</name>
-        <version>1.16-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libkrb5support0</name>
-      <deb ref="md5:037a1b829509a8950639cf0d41cc3b3c">
-        <name>libkrb5support0</name>
-        <version>1.16-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libpango-1.0-0</name>
-      <deb ref="md5:76bf2eeb7707172bcbd4978745ccc9e8">
+      <deb ref="md5:41cb682a1d7fa7ba3078a78179f102f4">
         <name>libpango-1.0-0</name>
-        <version>1.42.0-1</version>
+        <version>1.42.4-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpangocairo-1.0-0</name>
-      <deb ref="md5:ac3cfe3baa866516b50ea4a1d4566d8a">
+      <deb ref="md5:85d08511334c2fd85fc4e53a79823210">
         <name>libpangocairo-1.0-0</name>
-        <version>1.42.0-1</version>
+        <version>1.42.4-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpangoft2-1.0-0</name>
-      <deb ref="md5:ac2597b312b0baccc8db3cff1d002dab">
+      <deb ref="md5:f3299a326dc430253613bf08166c81e5">
         <name>libpangoft2-1.0-0</name>
-        <version>1.42.0-1</version>
+        <version>1.42.4-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>librsvg2-2</name>
-      <deb ref="md5:be6d2614534e3fc74ba556a3188ba38c">
+      <deb ref="md5:f26bd4bdb3870c864c98d1f255cc4c31">
         <name>librsvg2-2</name>
-        <version>2.40.20-2</version>
+        <version>2.44.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>librsvg2-common</name>
-      <deb ref="md5:c495f7d67637813f34ec55c4275417c4">
+      <deb ref="md5:9fca41ca7ae6e902ef821de59890c1a7">
         <name>librsvg2-common</name>
-        <version>2.40.20-2</version>
+        <version>2.44.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libthai0</name>
-      <deb ref="md5:bff87a45b52130c069b51fedae207c4d">
+      <deb ref="md5:e0da68dd21ec0e8a03195a8645d0cb52">
         <name>libthai0</name>
-        <version>0.1.27-2</version>
+        <version>0.1.28-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libxcursor1</name>
-      <deb ref="md5:40fb7b0d170b89693e8331769743fb6d">
+      <deb ref="md5:c0ad24b83255de4684156e47fc0de960">
         <name>libxcursor1</name>
-        <version>1:1.1.15-1</version>
+        <version>1:1.1.15-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -795,33 +683,33 @@
     </deb>
     <deb>
       <name>libpolkit-agent-1-0</name>
-      <deb ref="md5:8cfcb65a34beed36c3f2e4ab6c040583">
+      <deb ref="md5:72a59afea0b41a4643265c9ddaa79e0b">
         <name>libpolkit-agent-1-0</name>
-        <version>0.105-20</version>
+        <version>0.105-23</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpolkit-backend-1-0</name>
-      <deb ref="md5:cad1c6dc8867bf22e48e55a7747e06c9">
+      <deb ref="md5:02029d7075ddad10646754f202f40ab2">
         <name>libpolkit-backend-1-0</name>
-        <version>0.105-20</version>
+        <version>0.105-23</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libstartup-notification0</name>
-      <deb ref="md5:a619a428636f6c07d5ab90b59e431293">
+      <deb ref="md5:df6f809b8a8d7d6fcb868eb6b4d98981">
         <name>libstartup-notification0</name>
-        <version>0.12-5</version>
+        <version>0.12-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lsb-release</name>
-      <deb ref="md5:f53ad5c298a2796a22886e839ea6f51b">
+      <deb ref="md5:9567bff2e781e4e914d59b039ae8604f">
         <name>lsb-release</name>
-        <version>9.20170808</version>
+        <version>10.2018112800</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -843,25 +731,25 @@
     </deb>
     <deb>
       <name>libfm-gtk4</name>
-      <deb ref="md5:9cb52d27249d9d119551b12c7d2b6571">
+      <deb ref="md5:17d794c8f9fc602354a312cab71c18fa">
         <name>libfm-gtk4</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libfm-modules</name>
-      <deb ref="md5:753a44bd51eb88237c0a731190c433e1">
+      <deb ref="md5:e74c903eb01f4d3ea2e286d5bae03579">
         <name>libfm-modules</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libfm4</name>
-      <deb ref="md5:e7da21c272be6e6310ffb0265cd07fa3">
+      <deb ref="md5:11d441adff9ed64d15ab34c64641ba0f">
         <name>libfm4</name>
-        <version>1.3.0.2-1</version>
+        <version>1.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -883,9 +771,9 @@
     </deb>
     <deb>
       <name>libpangoxft-1.0-0</name>
-      <deb ref="md5:c7f4252c995ef800a4ac748a3b60570b">
+      <deb ref="md5:cfa0fd7681b0f087903cc07ee3e4a727">
         <name>libpangoxft-1.0-0</name>
-        <version>1.42.0-1</version>
+        <version>1.42.4-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -899,9 +787,9 @@
     </deb>
     <deb>
       <name>libwnck22</name>
-      <deb ref="md5:93fd1b60be9a21989f3b1aac8a010468">
+      <deb ref="md5:27bc608c7b7054a6c6795bd602634ee5">
         <name>libwnck22</name>
-        <version>2.30.7-5.1</version>
+        <version>2.30.7-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -955,233 +843,241 @@
     </deb>
     <deb>
       <name>pcmanfm</name>
-      <deb ref="md5:b1bab061f63066edd7eede1a04a2bbf8">
+      <deb ref="md5:b597820e8d9e327ca563c90bd32b964b">
         <name>pcmanfm</name>
-        <version>1.3.0-1</version>
+        <version>1.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>policykit-1</name>
-      <deb ref="md5:bcff9eb47670c1a51dac5835dea10662">
+      <deb ref="md5:cc5c58cf6ae46996ea8390615f58996d">
         <name>policykit-1</name>
-        <version>0.105-20</version>
+        <version>0.105-23</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>adwaita-icon-theme</name>
-      <deb ref="md5:e71f5eec88404c30589eb0e63f74e1fd">
+      <deb ref="md5:5a0ef5dcd517dd4ad7230a6ae92e91f6">
         <name>adwaita-icon-theme</name>
-        <version>3.28.0-1</version>
+        <version>3.30.1-1</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>glib-networking-common</name>
-      <deb ref="md5:96ee20fcc37437ed9a4b40438bcfc8fa">
+      <deb ref="md5:704e9476cdae691787e588ad2b42305f">
         <name>glib-networking-common</name>
-        <version>2.56.0-1</version>
+        <version>2.58.0-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libatspi2.0-0</name>
-      <deb ref="md5:3351953ff5bb88fdeafc2c787abffd6f">
+      <deb ref="md5:691a2532f6651cfa735ebb6fffa27849">
         <name>libatspi2.0-0</name>
-        <version>2.28.0-3</version>
+        <version>2.30.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libcairo-gobject2</name>
-      <deb ref="md5:eff9583521fb852cc304b181a8241dd0">
+      <deb ref="md5:451394f65c4a93acf23aa98f1369d450">
         <name>libcairo-gobject2</name>
-        <version>1.15.10-3</version>
+        <version>1.16.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libdconf1</name>
-      <deb ref="md5:f03cef44c887f64af6f7f5e571b7000f">
+      <deb ref="md5:e6a090cbe04599cb669393d6e6c30139">
         <name>libdconf1</name>
-        <version>0.28.0-2</version>
+        <version>0.30.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libjson-glib-1.0-common</name>
-      <deb ref="md5:9790bc8922706701952f9c6f2946df4d">
+      <deb ref="md5:4ec2fd5650949fc16bc05c453e082dd5">
         <name>libjson-glib-1.0-common</name>
-        <version>1.4.2-4</version>
+        <version>1.4.4-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>liblcms2-2</name>
-      <deb ref="md5:35f4c5bd13b2bfa0d5ecf3470690a42b">
+      <deb ref="md5:2a7aebe477aaa76bdec45ae23c223973">
         <name>liblcms2-2</name>
-        <version>2.9-2</version>
+        <version>2.9-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpcre2-8-0</name>
-      <deb ref="md5:1ec6631e34626ce130822e49d3aa11e4">
+      <deb ref="md5:9d1cc77a5fec11d77a3b919709bacc06">
         <name>libpcre2-8-0</name>
-        <version>10.31-3</version>
+        <version>10.32-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libproxy1v5</name>
-      <deb ref="md5:f757f5af817959b6d0896760114003ca">
+      <deb ref="md5:0c173e78717a354b2e52ad3b4f70c9de">
         <name>libproxy1v5</name>
-        <version>0.4.15-1</version>
+        <version>0.4.15-5</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpsl5</name>
+      <deb ref="md5:26877443870f1885a8a05cdfa7c84667">
+        <name>libpsl5</name>
+        <version>0.20.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libvte-2.91-common</name>
-      <deb ref="md5:7547cb2a7a4257c7137cec99d726d50e">
+      <deb ref="md5:36c22376c7e0057331b420fd5fcc7ddc">
         <name>libvte-2.91-common</name>
-        <version>0.52.0-1</version>
+        <version>0.54.2-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libwayland-cursor0</name>
-      <deb ref="md5:610d0266e8cb63853500028a9bcdccd8">
+      <deb ref="md5:2660fc2a736af9ce4a2f2e3a041f28d0">
         <name>libwayland-cursor0</name>
-        <version>1.15.0-2</version>
+        <version>1.16.0-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libwayland-egl1</name>
-      <deb ref="md5:e5798b7db3c91c1ca33c5e6a53defa06">
+      <deb ref="md5:73f9bde1c941f37fad7f58c0f5e7c655">
         <name>libwayland-egl1</name>
-        <version>1.15.0-2</version>
+        <version>1.16.0-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libxkbcommon0</name>
-      <deb ref="md5:f3dd90aa7bf643209f5519d6fd2979af">
+      <deb ref="md5:039e870ba7046b5814933ee500d1ad17">
         <name>libxkbcommon0</name>
-        <version>0.8.0-2</version>
+        <version>0.8.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>dconf-service</name>
-      <deb ref="md5:2ff5298e1edb91de1ea566a896122d00">
+      <deb ref="md5:ada191e65a8456cb2d405548e2b83fb8">
         <name>dconf-service</name>
-        <version>0.28.0-2</version>
+        <version>0.30.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libatk-bridge2.0-0</name>
-      <deb ref="md5:269c38f106f61606a5ca5aff556f332d">
+      <deb ref="md5:3bb0be9d6730a499590c89f9ef189439">
         <name>libatk-bridge2.0-0</name>
-        <version>2.26.2-1</version>
+        <version>2.30.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libcolord2</name>
-      <deb ref="md5:9d972620b4ca8337d73ca923fe3c4984">
+      <deb ref="md5:1bb2d3d38b5c82a7cd27ca7f453f4997">
         <name>libcolord2</name>
-        <version>1.3.3-2</version>
+        <version>1.4.3-3+b1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libjson-glib-1.0-0</name>
-      <deb ref="md5:b6e2bd6c63696d5e69a9371ccbe7bb81">
+      <deb ref="md5:b045510b8e6c56116bcb6bc490346010">
         <name>libjson-glib-1.0-0</name>
-        <version>1.4.2-4</version>
+        <version>1.4.4-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>dconf-gsettings-backend</name>
-      <deb ref="md5:bcf77eb46ad853704c4a303648f2624b">
+      <deb ref="md5:96c3bb1f0372bd056eb6af59278e1940">
         <name>dconf-gsettings-backend</name>
-        <version>0.28.0-2</version>
+        <version>0.30.1-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>glib-networking</name>
-      <deb ref="md5:09b79605c8ffaf0c1f68850726c8bc39">
+      <deb ref="md5:de21ef5c285a31a57a9a7a5b5791b3dd">
         <name>glib-networking</name>
-        <version>2.56.0-1</version>
+        <version>2.58.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>glib-networking-services</name>
-      <deb ref="md5:c673d0bedb40ccf34bbe37c4cd541a48">
+      <deb ref="md5:1678d5c97e0389f3537d92aac5b47848">
         <name>glib-networking-services</name>
-        <version>2.56.0-1</version>
+        <version>2.58.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>gsettings-desktop-schemas</name>
-      <deb ref="md5:dc1984b754fcdf52609aa2d981c41de6">
+      <deb ref="md5:200546c88a646df0b118090cfcc45b79">
         <name>gsettings-desktop-schemas</name>
-        <version>3.28.0-1</version>
+        <version>3.28.1-1</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>libsoup-gnome2.4-1</name>
-      <deb ref="md5:605fc58d7f7141845f929c0dd245c87f">
+      <deb ref="md5:343f9b83c81cde68753f66cae6f6a020">
         <name>libsoup-gnome2.4-1</name>
-        <version>2.62.1-1</version>
+        <version>2.64.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libsoup2.4-1</name>
-      <deb ref="md5:23c8b6762ec02f28a4806fdd94fbe61f">
+      <deb ref="md5:acfb52ca94c20a4df1f2b8e96cef66c6">
         <name>libsoup2.4-1</name>
-        <version>2.62.1-1</version>
+        <version>2.64.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgtk-3-common</name>
-      <deb ref="md5:46f300567c59419c9284a27e75a37ba7">
+      <deb ref="md5:88b97c3f98327a98fb152b1c85ed77ff">
         <name>libgtk-3-common</name>
-        <version>3.22.29-3</version>
+        <version>3.24.2-3</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>librest-0.7-0</name>
-      <deb ref="md5:1cd841d4a77d833b3d3b465ece43ae80">
+      <deb ref="md5:d600fb875bfa02c391f292df9ec05e76">
         <name>librest-0.7-0</name>
-        <version>0.8.0-2</version>
+        <version>0.8.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgtk-3-0</name>
-      <deb ref="md5:bb4eb8d68b2a30db485b863d9709121b">
+      <deb ref="md5:f2b5f8c8eda281cf989ccc84cb7c8aca">
         <name>libgtk-3-0</name>
-        <version>3.22.29-3</version>
+        <version>3.24.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libvte-2.91-0</name>
-      <deb ref="md5:cf377c57477156cd2e95307b062c6913">
+      <deb ref="md5:58bd3c2cb21ec3b3ddb95a0a7f2fbea9">
         <name>libvte-2.91-0</name>
-        <version>0.52.0-1</version>
+        <version>0.54.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>

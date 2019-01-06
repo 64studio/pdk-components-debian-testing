@@ -7,50 +7,50 @@
   <contents>
     <deb>
       <name>firmware-atheros</name>
-      <deb ref="md5:12fe8e86e54539ace7c055bc1c0e7fb2">
+      <deb ref="md5:dc9c9a9de7955406fad2ca12359e1c58">
         <name>firmware-atheros</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
         <name>firmware-nonfree</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-brcm80211</name>
-      <deb ref="md5:9fc3fb5c71fd5247ef81ae62418ec893">
+      <deb ref="md5:1e64b2baf2b2b036273aeafd538decfe">
         <name>firmware-brcm80211</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
         <name>firmware-nonfree</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-realtek</name>
-      <deb ref="md5:f2d3d1f1b5f2cdb55e72dd726dcba53d">
+      <deb ref="md5:5dab6233a1f39b07dd7338ce6203ac97">
         <name>firmware-realtek</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
         <name>firmware-nonfree</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-ti-connectivity</name>
-      <deb ref="md5:3287995f14d457627e6ee46f860c61ed">
+      <deb ref="md5:2859f3f0c800fa0c9b20ca5949af3c4c">
         <name>firmware-ti-connectivity</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:8144996a4eff215384f6cbb5fd8b219a">
+      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
         <name>firmware-nonfree</name>
-        <version>20170823-1</version>
+        <version>20180825+dfsg-1</version>
       </dsc>
     </deb>
   </contents>

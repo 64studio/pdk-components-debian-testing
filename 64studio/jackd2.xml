@@ -19,17 +19,9 @@
     </deb>
     <deb>
       <name>libdbus-1-3</name>
-      <deb ref="md5:c09bf171ccdd53e0204fbdc1d062ff56">
+      <deb ref="md5:44acc88e8cd23f33e9f12a2997cd25a2">
         <name>libdbus-1-3</name>
-        <version>1.12.8-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libglib2.0-0</name>
-      <deb ref="md5:dd54340374e3bdf06bd8d73e9d50f13d">
-        <name>libglib2.0-0</name>
-        <version>2.56.1-2</version>
+        <version>1.12.12-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -43,9 +35,9 @@
     </deb>
     <deb>
       <name>libopus0</name>
-      <deb ref="md5:d5a487ea7a0281a173509578fba10b32">
+      <deb ref="md5:e88392965e7c223dc77eb3d98f3c0868">
         <name>libopus0</name>
-        <version>1.3~beta+20180518-1</version>
+        <version>1.3-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -74,18 +66,18 @@
       </deb>
     </deb>
     <deb>
-      <name>libvorbisenc2</name>
-      <deb ref="md5:4e3684db740752e5977cd0da8037cc16">
-        <name>libvorbisenc2</name>
-        <version>1.3.6-1</version>
+      <name>python-dbus</name>
+      <deb ref="md5:f3378d32ac127557ea06a16dc0785dd6">
+        <name>python-dbus</name>
+        <version>1.2.8-2+b3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>python-dbus</name>
-      <deb ref="md5:120c510ac607cebd9e04d3999d7eb659">
-        <name>python-dbus</name>
-        <version>1.2.8-2</version>
+      <name>libvorbisenc2</name>
+      <deb ref="md5:4e3684db740752e5977cd0da8037cc16">
+        <name>libvorbisenc2</name>
+        <version>1.3.6-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
