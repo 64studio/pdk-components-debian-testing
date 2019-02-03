@@ -7,50 +7,50 @@
   <contents>
     <deb>
       <name>firmware-atheros</name>
-      <deb ref="md5:dc9c9a9de7955406fad2ca12359e1c58">
+      <deb ref="md5:05b63a56b64e4473afc1018cccbc16a9">
         <name>firmware-atheros</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
+      <dsc ref="md5:139319855d5c7d875fad899671b37490">
         <name>firmware-nonfree</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-brcm80211</name>
-      <deb ref="md5:1e64b2baf2b2b036273aeafd538decfe">
+      <deb ref="md5:6561caa42adebed9205e8911c3f5f621">
         <name>firmware-brcm80211</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
+      <dsc ref="md5:139319855d5c7d875fad899671b37490">
         <name>firmware-nonfree</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-realtek</name>
-      <deb ref="md5:5dab6233a1f39b07dd7338ce6203ac97">
+      <deb ref="md5:a603be79fc50c303227544221bff4233">
         <name>firmware-realtek</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
+      <dsc ref="md5:139319855d5c7d875fad899671b37490">
         <name>firmware-nonfree</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
       </dsc>
     </deb>
     <deb>
       <name>firmware-ti-connectivity</name>
-      <deb ref="md5:2859f3f0c800fa0c9b20ca5949af3c4c">
+      <deb ref="md5:6c72e03ef81c1c0af091a8f2a4c38c25">
         <name>firmware-ti-connectivity</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:7bffa3a6bb15a56ccf88ca3fea2b8562">
+      <dsc ref="md5:139319855d5c7d875fad899671b37490">
         <name>firmware-nonfree</name>
-        <version>20180825+dfsg-1</version>
+        <version>20190114-1</version>
       </dsc>
     </deb>
   </contents>

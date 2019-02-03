@@ -75,25 +75,41 @@
     </deb>
     <deb>
       <name>libgirepository-1.0-1</name>
-      <deb ref="md5:5e088729286fc9098ded47214ba4cff7">
+      <deb ref="md5:b33cb2a0d07be1cf24b2989b0deb6baa">
         <name>libgirepository-1.0-1</name>
-        <version>1.58.3-1</version>
+        <version>1.58.3-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libicu63</name>
-      <deb ref="md5:b36edd142fee69546269d147a844a777">
+      <deb ref="md5:692368c0762870b17a8c11a2c8d692c6">
         <name>libicu63</name>
-        <version>63.1-5</version>
+        <version>63.1-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libmpdec2</name>
+      <deb ref="md5:3140cef1300345f20782b8334f345677">
+        <name>libmpdec2</name>
+        <version>2.4.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpam-systemd</name>
-      <deb ref="md5:00d7034817fb035cfe79a4fadf4c6cc0">
+      <deb ref="md5:f27399828b713b792d8be623d3a5307a">
         <name>libpam-systemd</name>
-        <version>240-2</version>
+        <version>240-4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-minimal</name>
+      <deb ref="md5:28c4cb3ba1e330f34d761f5fcabe8496">
+        <name>libpython3.7-minimal</name>
+        <version>3.7.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -107,9 +123,9 @@
     </deb>
     <deb>
       <name>gir1.2-glib-2.0</name>
-      <deb ref="md5:6427b25462f2e1cc9b5f2084623c1e35">
+      <deb ref="md5:1dca38ed7f8377e611e2fb5f2061ea26">
         <name>gir1.2-glib-2.0</name>
-        <version>1.58.3-1</version>
+        <version>1.58.3-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -146,6 +162,38 @@
       </deb>
     </deb>
     <deb>
+      <name>libpython3-stdlib</name>
+      <deb ref="md5:402291f0ba01c167aa8174c4959ef6b7">
+        <name>libpython3-stdlib</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-stdlib</name>
+      <deb ref="md5:a7f53b351e8036d5bac808fb474add4f">
+        <name>libpython3.7-stdlib</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-minimal</name>
+      <deb ref="md5:3434196cb545c72d47d5345042cc57aa">
+        <name>python3-minimal</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7-minimal</name>
+      <deb ref="md5:7b112041b99b091a74cad7506c322d64">
+        <name>python3.7-minimal</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>lightdm-autologin-greeter</name>
       <deb ref="md5:5c28d476d25e56a1b31ed64e5b214d60">
         <name>lightdm-autologin-greeter</name>
@@ -154,10 +202,26 @@
       </deb>
     </deb>
     <deb>
+      <name>python3</name>
+      <deb ref="md5:d10e041c90cb2ee1635090adaee55482">
+        <name>python3</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>python3-gi</name>
       <deb ref="md5:fd5b282bb16253cc11434f66ccee96e8">
         <name>python3-gi</name>
         <version>3.30.4-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7</name>
+      <deb ref="md5:dbc9e5c150c82ad71fca4386c2c2b22a">
+        <name>python3.7</name>
+        <version>3.7.2-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -219,9 +283,9 @@
     </deb>
     <deb>
       <name>libdbus-glib-1-2</name>
-      <deb ref="md5:6c7f80e2365cb8bbbbcf6d2fc62a5a04">
+      <deb ref="md5:e2c64f66e3fa649af53596c130179f83">
         <name>libdbus-glib-1-2</name>
-        <version>0.110-3</version>
+        <version>0.110-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -259,9 +323,9 @@
     </deb>
     <deb>
       <name>libfribidi0</name>
-      <deb ref="md5:716d79e16320a293edd7d752135f8152">
+      <deb ref="md5:056252059ca20f378f8294d7503206b9">
         <name>libfribidi0</name>
-        <version>1.0.5-3</version>
+        <version>1.0.5-3.1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -283,9 +347,9 @@
     </deb>
     <deb>
       <name>libgraphite2-3</name>
-      <deb ref="md5:56576d6633f1c3596de27424a6028079">
+      <deb ref="md5:4a962b3d5716cd2235f28e2c5e77a74f">
         <name>libgraphite2-3</name>
-        <version>1.3.12-1</version>
+        <version>1.3.13-7</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -330,10 +394,18 @@
       </deb>
     </deb>
     <deb>
+      <name>libkeyutils1</name>
+      <deb ref="md5:01e6aea0d4b154a15f01f6a16f936e51">
+        <name>libkeyutils1</name>
+        <version>1.5.9-9.3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libpolkit-gobject-1-0</name>
-      <deb ref="md5:069c5d44b2e9aef7ff82e77d9f8784ee">
+      <deb ref="md5:63e573805827ecb8f5ea61b3dacef971">
         <name>libpolkit-gobject-1-0</name>
-        <version>0.105-23</version>
+        <version>0.105-25</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -483,9 +555,9 @@
     </deb>
     <deb>
       <name>gtk-update-icon-cache</name>
-      <deb ref="md5:5f211639437f23c3a2aee6a61a954b67">
+      <deb ref="md5:2a24928a9f8518b479865817d6dafb7a">
         <name>gtk-update-icon-cache</name>
-        <version>3.24.2-3</version>
+        <version>3.24.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -586,6 +658,14 @@
       </deb>
     </deb>
     <deb>
+      <name>libgssapi-krb5-2</name>
+      <deb ref="md5:e62f6f8ff03d47b0bc466f52d4b9ce7d">
+        <name>libgssapi-krb5-2</name>
+        <version>1.17-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libgtk2.0-0</name>
       <deb ref="md5:3e2a72f60c6c4fd138c632613f58c93b">
         <name>libgtk2.0-0</name>
@@ -594,10 +674,34 @@
       </deb>
     </deb>
     <deb>
+      <name>libk5crypto3</name>
+      <deb ref="md5:e711c871762b57584c116ede3c8212ac">
+        <name>libk5crypto3</name>
+        <version>1.17-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libkeybinder0</name>
       <deb ref="md5:347cad8b86d469efc6a8e19f2b651357">
         <name>libkeybinder0</name>
         <version>0.3.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libkrb5-3</name>
+      <deb ref="md5:77548e276d13860e119664454ab35c6a">
+        <name>libkrb5-3</name>
+        <version>1.17-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libkrb5support0</name>
+      <deb ref="md5:5c1283f2610b675a72d5f3f90dcb6f82">
+        <name>libkrb5support0</name>
+        <version>1.17-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -683,17 +787,17 @@
     </deb>
     <deb>
       <name>libpolkit-agent-1-0</name>
-      <deb ref="md5:72a59afea0b41a4643265c9ddaa79e0b">
+      <deb ref="md5:109ed109f341cb9b0919aff2a0303445">
         <name>libpolkit-agent-1-0</name>
-        <version>0.105-23</version>
+        <version>0.105-25</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpolkit-backend-1-0</name>
-      <deb ref="md5:02029d7075ddad10646754f202f40ab2">
+      <deb ref="md5:aa6a92b1a264841bbd88c1de74a29d26">
         <name>libpolkit-backend-1-0</name>
-        <version>0.105-23</version>
+        <version>0.105-25</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -723,9 +827,9 @@
     </deb>
     <deb>
       <name>libobt2v5</name>
-      <deb ref="md5:5663e73e8d850db5ceb4e83affaf31b3">
+      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
         <name>libobt2v5</name>
-        <version>3.6.1-7</version>
+        <version>3.6.1-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -763,9 +867,9 @@
     </deb>
     <deb>
       <name>libobrender32v5</name>
-      <deb ref="md5:c333aaa1619d481e5d2bb6a397540510">
+      <deb ref="md5:dda795bbc3d7811a53e26f435ad80435">
         <name>libobrender32v5</name>
-        <version>3.6.1-7</version>
+        <version>3.6.1-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -827,9 +931,9 @@
     </deb>
     <deb>
       <name>openbox</name>
-      <deb ref="md5:c875cc85ff97a5f64704c57ffe7ac976">
+      <deb ref="md5:f7c6e1394e927bfee07ce6df19939baf">
         <name>openbox</name>
-        <version>3.6.1-7</version>
+        <version>3.6.1-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -851,9 +955,9 @@
     </deb>
     <deb>
       <name>policykit-1</name>
-      <deb ref="md5:cc5c58cf6ae46996ea8390615f58996d">
+      <deb ref="md5:39085d2dda75b2bcc98829d12d0852ac">
         <name>policykit-1</name>
-        <version>0.105-23</version>
+        <version>0.105-25</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -987,9 +1091,9 @@
     </deb>
     <deb>
       <name>libcolord2</name>
-      <deb ref="md5:1bb2d3d38b5c82a7cd27ca7f453f4997">
+      <deb ref="md5:18329c620a7ddc0ceb80c1bbffa163ac">
         <name>libcolord2</name>
-        <version>1.4.3-3+b1</version>
+        <version>1.4.3-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1051,9 +1155,9 @@
     </deb>
     <deb>
       <name>libgtk-3-common</name>
-      <deb ref="md5:88b97c3f98327a98fb152b1c85ed77ff">
+      <deb ref="md5:32f3a940cf57c2cfd25f736e6bcf489b">
         <name>libgtk-3-common</name>
-        <version>3.24.2-3</version>
+        <version>3.24.4-1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -1067,9 +1171,9 @@
     </deb>
     <deb>
       <name>libgtk-3-0</name>
-      <deb ref="md5:f2b5f8c8eda281cf989ccc84cb7c8aca">
+      <deb ref="md5:3bdad69cf0a3aad7d1750518d7cf08d9">
         <name>libgtk-3-0</name>
-        <version>3.24.2-3</version>
+        <version>3.24.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
