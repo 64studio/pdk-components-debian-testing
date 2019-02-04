@@ -643,9 +643,9 @@
     </deb>
     <deb>
       <name>rsyslog</name>
-      <deb ref="md5:c94a67a2bb38d9687b700245169d880b">
+      <deb ref="md5:88deae8baad2a4fec9d769fd1959750c">
         <name>rsyslog</name>
-        <version>8.40.0-1</version>
+        <version>8.40.0-1+b1</version>
         <arch>armhf</arch>
       </deb>
       <dsc ref="md5:e756bfa62d2d87e14af75875adade534">
@@ -799,9 +799,9 @@
     </deb>
     <deb>
       <name>gcc-8-base</name>
-      <deb ref="md5:5c875f603e958893b1912e2b26a64cd7">
+      <deb ref="md5:3768e585ebbaf99aed4480c6e82a901d">
         <name>gcc-8-base</name>
-        <version>8.2.0-15</version>
+        <version>8.2.0-16</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -855,9 +855,9 @@
     </deb>
     <deb>
       <name>libgcc1</name>
-      <deb ref="md5:abc65eb640a94cd2816c882ff2470e58">
+      <deb ref="md5:93c7270128ba96b762bbb914d44fa2a0">
         <name>libgcc1</name>
-        <version>1:8.2.0-15</version>
+        <version>1:8.2.0-16</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -991,9 +991,9 @@
     </deb>
     <deb>
       <name>libstdc++6</name>
-      <deb ref="md5:7d8dc35ece77c6219e75b13bebaaeaa3">
+      <deb ref="md5:e4387fc3a287740372278cfc65b9b99c">
         <name>libstdc++6</name>
-        <version>8.2.0-15</version>
+        <version>8.2.0-16</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1071,9 +1071,9 @@
     </deb>
     <deb>
       <name>libgnutls30</name>
-      <deb ref="md5:407254ecc76285e6c037fd9a74bce6bb">
+      <deb ref="md5:e9eed6d11c692ee95a44378a6544cd25">
         <name>libgnutls30</name>
-        <version>3.6.5-2</version>
+        <version>3.6.6-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
