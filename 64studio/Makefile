@@ -1,6 +1,6 @@
 # the order the components are created in
 # this may matter depending on the value of *_deps
-components=minimal.xml standard.xml firmware-wifi.xml openssh-server.xml linux-image-armhf-raspi.xml jackd2.xml xorg.xml lxde.xml
+components=minimal.xml standard.xml firmware-wifi.xml openssh-server.xml jackd2.xml xorg.xml lxde.xml raspberrypi-bootloader.xml raspberrypi-linux-image-default.xml
 
 # minimal.xml
 # packages included in a base install
@@ -23,11 +23,6 @@ firmware-wifi_deps=minimal.xml
 openssh-server_pkgs=openssh-server
 openssh-server_deps=minimal.xml
 
-# linux-image-raspi-armhf.xml
-# RasPi firmware & kernel
-linux-image-armhf-raspi_pkgs=rpi-stock-kernel-firmware
-linux-image-armhf-raspi_deps=minimal.xml
-
 # jackd2.xml
 # jackd2 server
 jackd2_pkgs=jackd2
@@ -42,6 +37,17 @@ xorg_deps=minimal.xml standard.xml
 # LXDE & support packages
 lxde_pkgs=dbus-x11, dbus-x11, lxde-core, lightdm, lxterminal
 lxde_deps=minimal.xml standard.xml xorg.xml
+
+# raspberrypi-bootloader.xml
+# Raspberry Pi bootloader & firmware
+raspberrypi-bootloader_pkgs=raspberrypi-bootloader-nokernel, libraspberrypi-bin
+raspberrypi-bootloader_deps=minimal.xml
+
+# raspberrypi-linux-image-default.xml
+# Raspberry Pi Linux image
+# tracking https://github.com/raspberrypi/linux branch rpi-4.14.y
+raspberrypi-linux-image-default_pkgs=$(shell ls debs/linux-image-*-raspberrypi-default*_armhf.deb | cut -d / -f 2 | cut -d _ -f 1)
+raspberrypi-linux-image-default_deps=minimal.xml
 
 all: clean update components download
 
