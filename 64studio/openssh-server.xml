@@ -7,14 +7,14 @@
   <contents>
     <deb>
       <name>openssh-server</name>
-      <deb ref="md5:6a9256756febe04eac52611719ee1d9a">
+      <deb ref="md5:30b27e2ff1d4fcb64ae37b5307708454">
         <name>openssh-server</name>
-        <version>1:7.9p1-5</version>
+        <version>1:7.9p1-6</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:358f18fc048e1de456a819c2642c3f2b">
+      <dsc ref="md5:cb6e439524381fc188f4614d33e0d26a">
         <name>openssh</name>
-        <version>1:7.9p1-5</version>
+        <version>1:7.9p1-6</version>
       </dsc>
     </deb>
     <deb>
@@ -27,9 +27,9 @@
     </deb>
     <deb>
       <name>libkeyutils1</name>
-      <deb ref="md5:01e6aea0d4b154a15f01f6a16f936e51">
+      <deb ref="md5:dc701385ba8d5a3a8964cfefbfd230ba">
         <name>libkeyutils1</name>
-        <version>1.5.9-9.3</version>
+        <version>1.5.9-10</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -83,17 +83,17 @@
     </deb>
     <deb>
       <name>openssh-client</name>
-      <deb ref="md5:ac12fef036ad83c45c3c9d319f60e16e">
+      <deb ref="md5:6e08e7f146cd1907fb9b54c70531e5c1">
         <name>openssh-client</name>
-        <version>1:7.9p1-5</version>
+        <version>1:7.9p1-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>openssh-sftp-server</name>
-      <deb ref="md5:b096109d55f16428850c046b13fcd4db">
+      <deb ref="md5:9ce47032d11028dcfa781c02bd79207f">
         <name>openssh-sftp-server</name>
-        <version>1:7.9p1-5</version>
+        <version>1:7.9p1-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>

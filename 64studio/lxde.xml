@@ -99,17 +99,17 @@
     </deb>
     <deb>
       <name>libpam-systemd</name>
-      <deb ref="md5:f27399828b713b792d8be623d3a5307a">
+      <deb ref="md5:cc53fd637531b911c630a8e59d579ee4">
         <name>libpam-systemd</name>
-        <version>240-4</version>
+        <version>240-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libpython3.7-minimal</name>
-      <deb ref="md5:28c4cb3ba1e330f34d761f5fcabe8496">
+      <deb ref="md5:dcfcd2a2795c8d75e58fdd7a6b87e4a0">
         <name>libpython3.7-minimal</name>
-        <version>3.7.2-1</version>
+        <version>3.7.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -171,9 +171,9 @@
     </deb>
     <deb>
       <name>libpython3.7-stdlib</name>
-      <deb ref="md5:a7f53b351e8036d5bac808fb474add4f">
+      <deb ref="md5:b02de176d70f20cf2fcac13e67aef1bc">
         <name>libpython3.7-stdlib</name>
-        <version>3.7.2-1</version>
+        <version>3.7.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -187,9 +187,9 @@
     </deb>
     <deb>
       <name>python3.7-minimal</name>
-      <deb ref="md5:7b112041b99b091a74cad7506c322d64">
+      <deb ref="md5:dbdde3d0cae365ebe8f325fe7110a6e8">
         <name>python3.7-minimal</name>
-        <version>3.7.2-1</version>
+        <version>3.7.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -219,9 +219,9 @@
     </deb>
     <deb>
       <name>python3.7</name>
-      <deb ref="md5:dbc9e5c150c82ad71fca4386c2c2b22a">
+      <deb ref="md5:22e29a78461d14c394fe5354f032187b">
         <name>python3.7</name>
-        <version>3.7.2-1</version>
+        <version>3.7.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -275,9 +275,9 @@
     </deb>
     <deb>
       <name>libdatrie1</name>
-      <deb ref="md5:28e24dd95060bea55e56b4a44f8fc75b">
+      <deb ref="md5:10a8a6b35b3c356c3a94536bd24c061c">
         <name>libdatrie1</name>
-        <version>0.2.12-1</version>
+        <version>0.2.12-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -395,9 +395,9 @@
     </deb>
     <deb>
       <name>libkeyutils1</name>
-      <deb ref="md5:01e6aea0d4b154a15f01f6a16f936e51">
+      <deb ref="md5:dc701385ba8d5a3a8964cfefbfd230ba">
         <name>libkeyutils1</name>
-        <version>1.5.9-9.3</version>
+        <version>1.5.9-10</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -411,9 +411,9 @@
     </deb>
     <deb>
       <name>libthai-data</name>
-      <deb ref="md5:ed5001169a0bf044af5c40255be24d06">
+      <deb ref="md5:4c4d6ea7f37aa2b89073ba7f85ef5b81">
         <name>libthai-data</name>
-        <version>0.1.28-1</version>
+        <version>0.1.28-2</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -467,9 +467,9 @@
     </deb>
     <deb>
       <name>libxinerama1</name>
-      <deb ref="md5:e64251eb2b3b7fcf8719a6f7e29201d7">
+      <deb ref="md5:061d1a96227f2850c4c028b844074e40">
         <name>libxinerama1</name>
-        <version>2:1.1.4-1</version>
+        <version>2:1.1.4-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -555,9 +555,9 @@
     </deb>
     <deb>
       <name>gtk-update-icon-cache</name>
-      <deb ref="md5:2a24928a9f8518b479865817d6dafb7a">
+      <deb ref="md5:d438f840316554800705dfe9d506b289">
         <name>gtk-update-icon-cache</name>
-        <version>3.24.4-1</version>
+        <version>3.24.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -571,9 +571,9 @@
     </deb>
     <deb>
       <name>libtiff5</name>
-      <deb ref="md5:5ef348e01e78596562d2e10ad5cbeb13">
+      <deb ref="md5:a01203ee272d531a4b6f89fff450e73d">
         <name>libtiff5</name>
-        <version>4.0.10-3</version>
+        <version>4.0.10-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -619,9 +619,9 @@
     </deb>
     <deb>
       <name>libharfbuzz0b</name>
-      <deb ref="md5:c78c38fbd065e40c319ec9e5f20bfc44">
+      <deb ref="md5:2dc388cc111a78c7e9350741331a62a1">
         <name>libharfbuzz0b</name>
-        <version>2.3.0-1</version>
+        <version>2.3.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -747,9 +747,9 @@
     </deb>
     <deb>
       <name>libthai0</name>
-      <deb ref="md5:e0da68dd21ec0e8a03195a8645d0cb52">
+      <deb ref="md5:6130c6eff57564646b87ed6aa4c79f8c">
         <name>libthai0</name>
-        <version>0.1.28-1</version>
+        <version>0.1.28-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1019,9 +1019,9 @@
     </deb>
     <deb>
       <name>libpcre2-8-0</name>
-      <deb ref="md5:9d1cc77a5fec11d77a3b919709bacc06">
+      <deb ref="md5:ce3a604f2a526fde45c86c311d6ab7d5">
         <name>libpcre2-8-0</name>
-        <version>10.32-3</version>
+        <version>10.32-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1155,9 +1155,9 @@
     </deb>
     <deb>
       <name>libgtk-3-common</name>
-      <deb ref="md5:32f3a940cf57c2cfd25f736e6bcf489b">
+      <deb ref="md5:fa0f47beda54b7cb5c92f66d8e17c412">
         <name>libgtk-3-common</name>
-        <version>3.24.4-1</version>
+        <version>3.24.5-1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -1171,9 +1171,9 @@
     </deb>
     <deb>
       <name>libgtk-3-0</name>
-      <deb ref="md5:3bdad69cf0a3aad7d1750518d7cf08d9">
+      <deb ref="md5:bc4d1a7e627b2aa45f2118afd86bbc33">
         <name>libgtk-3-0</name>
-        <version>3.24.4-1</version>
+        <version>3.24.5-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

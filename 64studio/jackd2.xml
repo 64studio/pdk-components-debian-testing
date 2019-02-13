@@ -18,22 +18,6 @@
       </dsc>
     </deb>
     <deb>
-      <name>libdbus-1-3</name>
-      <deb ref="md5:44acc88e8cd23f33e9f12a2997cd25a2">
-        <name>libdbus-1-3</name>
-        <version>1.12.12-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libglib2.0-0</name>
-      <deb ref="md5:fbfc8872cdfc096f7bb8531f931f2e9c">
-        <name>libglib2.0-0</name>
-        <version>2.58.2-3</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libogg0</name>
       <deb ref="md5:521bfd13b5216d0691d0f20d1b55f050">
         <name>libogg0</name>
@@ -50,18 +34,18 @@
       </deb>
     </deb>
     <deb>
-      <name>libflac8</name>
-      <deb ref="md5:cd54075e81078ec48ee8fb3639dc37a1">
-        <name>libflac8</name>
-        <version>1.3.2-3</version>
+      <name>libdbus-1-3</name>
+      <deb ref="md5:44acc88e8cd23f33e9f12a2997cd25a2">
+        <name>libdbus-1-3</name>
+        <version>1.12.12-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libjack-jackd2-0</name>
-      <deb ref="md5:62681c2c58f8c3544d502847235c2087">
-        <name>libjack-jackd2-0</name>
-        <version>1.9.12~dfsg-2</version>
+      <name>libflac8</name>
+      <deb ref="md5:cd54075e81078ec48ee8fb3639dc37a1">
+        <name>libflac8</name>
+        <version>1.3.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -82,10 +66,10 @@
       </deb>
     </deb>
     <deb>
-      <name>python-dbus</name>
-      <deb ref="md5:ca0249c90c004cb7352a3b5c2c190b91">
-        <name>python-dbus</name>
-        <version>1.2.8-3</version>
+      <name>libjack-jackd2-0</name>
+      <deb ref="md5:62681c2c58f8c3544d502847235c2087">
+        <name>libjack-jackd2-0</name>
+        <version>1.9.12~dfsg-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -94,6 +78,22 @@
       <deb ref="md5:623560bdab03e89629daa0c4b3ee8f5c">
         <name>libsndfile1</name>
         <version>1.0.28-4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libglib2.0-0</name>
+      <deb ref="md5:8e3b1ed0872ca860f5285870aa519b6c">
+        <name>libglib2.0-0</name>
+        <version>2.58.3-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python-dbus</name>
+      <deb ref="md5:ca0249c90c004cb7352a3b5c2c190b91">
+        <name>python-dbus</name>
+        <version>1.2.8-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>

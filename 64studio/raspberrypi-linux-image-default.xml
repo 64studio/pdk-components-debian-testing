@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>raspberrypi-linux-image-default</id>
+  <meta>
+    <task>64studio-raspberrypi-linux-image-default</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>linux-image-4.14.97-v7-raspberrypi-default</name>
+      <deb ref="md5:8bc1fb0b7573c337b6e1f8bf98a1a5c3">
+        <name>linux-image-4.14.97-v7-raspberrypi-default</name>
+        <version>4.14.97-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>

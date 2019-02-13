@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>raspberrypi-bootloader</id>
+  <meta>
+    <task>64studio-raspberrypi-bootloader</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>libraspberrypi-bin</name>
+      <deb ref="md5:519fe4b272bfbb93e6b64f4483c75269">
+        <name>libraspberrypi-bin</name>
+        <version>1.20180328-1~nokernel1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>raspberrypi-bootloader-nokernel</name>
+      <deb ref="md5:beb18aa5f3939d13596bbb481a2fcc34">
+        <name>raspberrypi-bootloader-nokernel</name>
+        <version>1.20180328-1~nokernel1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>device-tree-compiler</name>
+      <deb ref="md5:5df1c8828c66fb79b2cf34572bba0cfb">
+        <name>device-tree-compiler</name>
+        <version>1.4.7-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libraspberrypi0</name>
+      <deb ref="md5:657557ce13139dc15ce71d3ee5773f33">
+        <name>libraspberrypi0</name>
+        <version>1.20180328-1~nokernel1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>
