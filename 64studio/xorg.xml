@@ -75,9 +75,9 @@
     </deb>
     <deb>
       <name>xkb-data</name>
-      <deb ref="md5:0fa14d464d18e1e310e8078e8931a397">
+      <deb ref="md5:4dc8ca4a16a9d5c8a81eeb20c82f1bd0">
         <name>xkb-data</name>
-        <version>2.23.1-1</version>
+        <version>2.26-2</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -483,9 +483,9 @@
     </deb>
     <deb>
       <name>libsm6</name>
-      <deb ref="md5:1bc45b878e3044f18bf30eb4c3aabfba">
+      <deb ref="md5:d12080ab832f24afbbad7f74f4290eaf">
         <name>libsm6</name>
-        <version>2:1.2.2-1+b3</version>
+        <version>2:1.2.3-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

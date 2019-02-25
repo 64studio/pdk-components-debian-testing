@@ -99,9 +99,9 @@
     </deb>
     <deb>
       <name>libpam-systemd</name>
-      <deb ref="md5:cc53fd637531b911c630a8e59d579ee4">
+      <deb ref="md5:a2bb25d5f545bb9cf95795572a83b8f8">
         <name>libpam-systemd</name>
-        <version>240-5</version>
+        <version>240-6</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -395,9 +395,9 @@
     </deb>
     <deb>
       <name>libkeyutils1</name>
-      <deb ref="md5:dc701385ba8d5a3a8964cfefbfd230ba">
+      <deb ref="md5:8934c9ba6f0a81fdf1a20be1fae0f3df">
         <name>libkeyutils1</name>
-        <version>1.5.9-10</version>
+        <version>1.6-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -979,9 +979,9 @@
     </deb>
     <deb>
       <name>libatspi2.0-0</name>
-      <deb ref="md5:691a2532f6651cfa735ebb6fffa27849">
+      <deb ref="md5:46bcebfda6b981ab63791933637b72ae">
         <name>libatspi2.0-0</name>
-        <version>2.30.0-5</version>
+        <version>2.30.0-7</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1083,9 +1083,9 @@
     </deb>
     <deb>
       <name>libatk-bridge2.0-0</name>
-      <deb ref="md5:3bb0be9d6730a499590c89f9ef189439">
+      <deb ref="md5:7379d2cfe4f877d27abe06d6cb69e2b9">
         <name>libatk-bridge2.0-0</name>
-        <version>2.30.0-2</version>
+        <version>2.30.0-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>

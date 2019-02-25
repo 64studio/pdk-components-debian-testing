@@ -27,9 +27,9 @@
     </deb>
     <deb>
       <name>libkeyutils1</name>
-      <deb ref="md5:dc701385ba8d5a3a8964cfefbfd230ba">
+      <deb ref="md5:8934c9ba6f0a81fdf1a20be1fae0f3df">
         <name>libkeyutils1</name>
-        <version>1.5.9-10</version>
+        <version>1.6-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>

@@ -75,9 +75,9 @@
     </deb>
     <deb>
       <name>libsndfile1</name>
-      <deb ref="md5:623560bdab03e89629daa0c4b3ee8f5c">
+      <deb ref="md5:37ee5d5776dc208d53e33c5544f8cdb7">
         <name>libsndfile1</name>
-        <version>1.0.28-4</version>
+        <version>1.0.28-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
