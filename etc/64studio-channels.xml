@@ -10,7 +10,7 @@
 	<!-- Upstream Packages -->
 	<testing>
 		<type>apt-deb</type>
-		<path>http://ftp.uk.debian.org/debian/</path>
+		<path>https://deb.debian.org/debian/</path>
 		<archs>armhf source</archs>
 		<dist>testing</dist>
 		<priority>100</priority>
@@ -18,7 +18,7 @@
 	</testing>
 	<testing-updates>
 		<type>apt-deb</type>
-		<path>http://ftp.uk.debian.org/debian/</path>
+		<path>https://deb.debian.org/debian/</path>
 		<archs>armhf source</archs>
 		<dist>testing-updates</dist>
 		<priority>500</priority>
