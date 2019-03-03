@@ -7,7 +7,7 @@
 		<priority>10</priority>
 	</backports>
 
-	<!-- Upstream Packages -->
+	<!-- Debian Upstream Packages -->
 	<testing>
 		<type>apt-deb</type>
 		<path>https://deb.debian.org/debian/</path>
@@ -24,5 +24,15 @@
 		<priority>500</priority>
 		<components>main contrib non-free</components>
 	</testing-updates>
+
+	<!-- Raspbian Upstream Packages -->
+	<raspbian-testing>
+		<type>apt-deb</type>
+		<path>http://archive.raspbian.org/raspbian/</path>
+		<archs>armhf source</archs>
+		<dist>testing</dist>
+		<priority>500</priority>
+		<components>firmware</components>
+	</raspbian-testing>
 </channels>
 
