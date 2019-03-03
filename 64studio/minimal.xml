@@ -199,14 +199,14 @@
     </deb>
     <deb>
       <name>diffutils</name>
-      <deb ref="md5:e7e7592361ed94bb7103e5ba812de452">
+      <deb ref="md5:5fc1b2877c9dbf7ce9de57ccb9b5bbc2">
         <name>diffutils</name>
-        <version>1:3.6-1</version>
+        <version>1:3.7-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:a8b31aceef69fd3f2849e93c197f7933">
+      <dsc ref="md5:052838f00c9dde4a3953b2f71a364486">
         <name>diffutils</name>
-        <version>1:3.6-1</version>
+        <version>1:3.7-2</version>
       </dsc>
     </deb>
     <deb>
@@ -223,14 +223,14 @@
     </deb>
     <deb>
       <name>dpkg</name>
-      <deb ref="md5:b508617847a70331a701c7523c1a6fed">
+      <deb ref="md5:7bc77f44b451ec26a2943aac28b95a79">
         <name>dpkg</name>
-        <version>1.19.2</version>
+        <version>1.19.5</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:82b0b079341b8441e17e4ab5eaa348ca">
+      <dsc ref="md5:fc9d8e7c820ddb1e99be56403123da6e">
         <name>dpkg</name>
-        <version>1.19.2</version>
+        <version>1.19.5</version>
       </dsc>
     </deb>
     <deb>
@@ -259,14 +259,14 @@
     </deb>
     <deb>
       <name>findutils</name>
-      <deb ref="md5:e791f7574f0046071c7a511d4ec1a0f5">
+      <deb ref="md5:b53d2e287fec0a978ff2c6e1af4f384e">
         <name>findutils</name>
-        <version>4.6.0+git+20190105-2</version>
+        <version>4.6.0+git+20190209-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:a33fdae3fa1e0cf19ad55a1e7c906f42">
+      <dsc ref="md5:df142d8af6ce8f04f408967576605b57">
         <name>findutils</name>
-        <version>4.6.0+git+20190105-2</version>
+        <version>4.6.0+git+20190209-2</version>
       </dsc>
     </deb>
     <deb>
@@ -547,14 +547,14 @@
     </deb>
     <deb>
       <name>nano</name>
-      <deb ref="md5:3797bb57842dfd18f965e5b1fe099c77">
+      <deb ref="md5:bb878713da07af06a76fdc0e30ab9399">
         <name>nano</name>
-        <version>3.2-1</version>
+        <version>3.2-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:ca9f16eda91887237d70fc75fe0f7442">
+      <dsc ref="md5:5e9e640276eafca926067f8ddec0e361">
         <name>nano</name>
-        <version>3.2-1</version>
+        <version>3.2-2</version>
       </dsc>
     </deb>
     <deb>
@@ -823,17 +823,17 @@
     </deb>
     <deb>
       <name>libacl1</name>
-      <deb ref="md5:bb1a71cde368b27f16c28486add5779a">
+      <deb ref="md5:57d6e8185a57ed0db9d14bc8b1893b6d">
         <name>libacl1</name>
-        <version>2.2.52-3+b1</version>
+        <version>2.2.52-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libattr1</name>
-      <deb ref="md5:6e122779e4f2004cc89e5b850f9e1efb">
+      <deb ref="md5:f1752cc86f33ca81b27260d629eba1de">
         <name>libattr1</name>
-        <version>1:2.4.47-2+b2</version>
+        <version>1:2.4.47-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1047,9 +1047,9 @@
     </deb>
     <deb>
       <name>libp11-kit0</name>
-      <deb ref="md5:2b78deb1890bf5851b709271596d04a4">
+      <deb ref="md5:056df8a81cccc4d986d0eaae88795d17">
         <name>libp11-kit0</name>
-        <version>0.23.14-2</version>
+        <version>0.23.15-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1239,9 +1239,9 @@
     </deb>
     <deb>
       <name>libelf1</name>
-      <deb ref="md5:e5b3cc01dcb47b6c2bdef3fa1559894e">
+      <deb ref="md5:0a3c5465f4326c1a769c5a63876e5be6">
         <name>libelf1</name>
-        <version>0.175-2</version>
+        <version>0.176-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

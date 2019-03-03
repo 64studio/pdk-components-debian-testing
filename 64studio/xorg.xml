@@ -99,9 +99,9 @@
     </deb>
     <deb>
       <name>libglapi-mesa</name>
-      <deb ref="md5:18977832830ecc80794de667b871713b">
+      <deb ref="md5:ed21cef638882c027d789909264c1807">
         <name>libglapi-mesa</name>
-        <version>18.3.2-1</version>
+        <version>18.3.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -371,9 +371,9 @@
     </deb>
     <deb>
       <name>libegl-mesa0</name>
-      <deb ref="md5:2a170b3fa43d73cc06f71a479a8cd1f5">
+      <deb ref="md5:05aeb65b5f82069a28fd30e4a0ab1414">
         <name>libegl-mesa0</name>
-        <version>18.3.2-1</version>
+        <version>18.3.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -387,9 +387,9 @@
     </deb>
     <deb>
       <name>libgbm1</name>
-      <deb ref="md5:43ce8232c890b437c6fb6c31706c713e">
+      <deb ref="md5:a637e7743b4f57300e0b11cfab0626a0">
         <name>libgbm1</name>
-        <version>18.3.2-1</version>
+        <version>18.3.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -411,17 +411,17 @@
     </deb>
     <deb>
       <name>libgl1-mesa-dri</name>
-      <deb ref="md5:8284fe5dcfd3abda7e0473921d3ddf13">
+      <deb ref="md5:f11c044f3b70b56a588cd36e44098d01">
         <name>libgl1-mesa-dri</name>
-        <version>18.3.2-1</version>
+        <version>18.3.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libglx-mesa0</name>
-      <deb ref="md5:9603b67402c9caef12f3969d7e16320d">
+      <deb ref="md5:8e130669c6b81329001dcbb161e1dd80">
         <name>libglx-mesa0</name>
-        <version>18.3.2-1</version>
+        <version>18.3.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

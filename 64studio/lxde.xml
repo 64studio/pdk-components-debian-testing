@@ -291,9 +291,9 @@
     </deb>
     <deb>
       <name>libexif12</name>
-      <deb ref="md5:a8e87f2d52b06e956d2fe0af6679ca42">
+      <deb ref="md5:295dada83ab9a8dc6d252fefa9bead62">
         <name>libexif12</name>
-        <version>0.6.21-5</version>
+        <version>0.6.21-5.1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -651,9 +651,9 @@
     </deb>
     <deb>
       <name>libcups2</name>
-      <deb ref="md5:cf94bcc6040a1da0786407c1e6e4ee06">
+      <deb ref="md5:f57b872d442f2e988d3608598eb3c6fc">
         <name>libcups2</name>
-        <version>2.2.10-3</version>
+        <version>2.2.10-4</version>
         <arch>armhf</arch>
       </deb>
     </deb>

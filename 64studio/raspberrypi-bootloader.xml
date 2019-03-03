@@ -12,6 +12,10 @@
         <version>1.20180328-1~nokernel1</version>
         <arch>armhf</arch>
       </deb>
+      <dsc ref="md5:8a14ae3c3fbceda074eaa22db247ec44">
+        <name>raspberrypi-firmware-nokernel</name>
+        <version>1.20180328-1~nokernel1</version>
+      </dsc>
     </deb>
     <deb>
       <name>raspberrypi-bootloader-nokernel</name>
@@ -20,6 +24,10 @@
         <version>1.20180328-1~nokernel1</version>
         <arch>armhf</arch>
       </deb>
+      <dsc ref="md5:8a14ae3c3fbceda074eaa22db247ec44">
+        <name>raspberrypi-firmware-nokernel</name>
+        <version>1.20180328-1~nokernel1</version>
+      </dsc>
     </deb>
     <deb>
       <name>device-tree-compiler</name>

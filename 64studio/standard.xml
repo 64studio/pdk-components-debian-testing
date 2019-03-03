@@ -411,9 +411,9 @@
     </deb>
     <deb>
       <name>libpython2.7-minimal</name>
-      <deb ref="md5:6930e0ac1b152fe4ea34c57d09b50faa">
+      <deb ref="md5:60726c3e92fdb997d2fb3f9e390652e4">
         <name>libpython2.7-minimal</name>
-        <version>2.7.15-8</version>
+        <version>2.7.16~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -435,9 +435,9 @@
     </deb>
     <deb>
       <name>libpython2.7-stdlib</name>
-      <deb ref="md5:8b7803b3bcd601a8b89854bff82c576b">
+      <deb ref="md5:e2ff47f4cdfc7ef75377e58d21947a6a">
         <name>libpython2.7-stdlib</name>
-        <version>2.7.15-8</version>
+        <version>2.7.16~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -451,9 +451,9 @@
     </deb>
     <deb>
       <name>python2.7-minimal</name>
-      <deb ref="md5:ff3825a2f08a9719672640979bb4160a">
+      <deb ref="md5:eae21a53f71364ce4248f168434cf97d">
         <name>python2.7-minimal</name>
-        <version>2.7.15-8</version>
+        <version>2.7.16~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -491,9 +491,9 @@
     </deb>
     <deb>
       <name>python2.7</name>
-      <deb ref="md5:66b3163c67292f9933c5849e2d5360a2">
+      <deb ref="md5:be20ebc03d778eb1fe53b593b19b9484">
         <name>python2.7</name>
-        <version>2.7.15-8</version>
+        <version>2.7.16~rc1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

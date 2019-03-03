@@ -35,9 +35,9 @@
     </deb>
     <deb>
       <name>libwrap0</name>
-      <deb ref="md5:4e1d602fd0b213414e7530b8342dfc56">
+      <deb ref="md5:568c2f54403e766fec9ff3d3c40da690">
         <name>libwrap0</name>
-        <version>7.6.q-27</version>
+        <version>7.6.q-28</version>
         <arch>armhf</arch>
       </deb>
     </deb>
