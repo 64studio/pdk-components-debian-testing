@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>openbox</id>
+  <meta>
+    <task>64studio-openbox</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>openbox</name>
+      <deb ref="md5:f7c6e1394e927bfee07ce6df19939baf">
+        <name>openbox</name>
+        <version>3.6.1-8</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:a32529068b71fe171d34a317068cd21b">
+        <name>openbox</name>
+        <version>3.6.1-8</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>libdatrie1</name>
+      <deb ref="md5:10a8a6b35b3c356c3a94536bd24c061c">
+        <name>libdatrie1</name>
+        <version>0.2.12-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libfribidi0</name>
+      <deb ref="md5:056252059ca20f378f8294d7503206b9">
+        <name>libfribidi0</name>
+        <version>1.0.5-3.1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgdk-pixbuf2.0-common</name>
+      <deb ref="md5:50c0358f31ec3f307e9d3605f4bcee86">
+        <name>libgdk-pixbuf2.0-common</name>
+        <version>2.38.0+dfsg-7</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgif7</name>
+      <deb ref="md5:9f2557d58dcde3dbdedc6f5bf3bc764e">
+        <name>libgif7</name>
+        <version>5.1.4-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgraphite2-3</name>
+      <deb ref="md5:4a962b3d5716cd2235f28e2c5e77a74f">
+        <name>libgraphite2-3</name>
+        <version>1.3.13-7</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libicu63</name>
+      <deb ref="md5:692368c0762870b17a8c11a2c8d692c6">
+        <name>libicu63</name>
+        <version>63.1-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libid3tag0</name>
+      <deb ref="md5:3445befb6e16df327c653a24957fe7b7">
+        <name>libid3tag0</name>
+        <version>0.15.1b-13</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libjbig0</name>
+      <deb ref="md5:08d698008526dd7e2754fa27c582f020">
+        <name>libjbig0</name>
+        <version>2.1-3.1+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libjpeg62-turbo</name>
+      <deb ref="md5:6ebdbae7bf7c337c3a2083f032670618">
+        <name>libjpeg62-turbo</name>
+        <version>1:1.5.2-2+b1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libthai-data</name>
+      <deb ref="md5:4c4d6ea7f37aa2b89073ba7f85ef5b81">
+        <name>libthai-data</name>
+        <version>0.1.28-2</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libwebp6</name>
+      <deb ref="md5:5c48a65739c76b4da20ad1e67e80c5cc">
+        <name>libwebp6</name>
+        <version>0.6.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-render0</name>
+      <deb ref="md5:a4e7c5928bca6839672f8dfb0bb9a0cd">
+        <name>libxcb-render0</name>
+        <version>1.13.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-shm0</name>
+      <deb ref="md5:709057ba4ec73c972c9bbb3e8c6bb044">
+        <name>libxcb-shm0</name>
+        <version>1.13.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcb-util0</name>
+      <deb ref="md5:b6b7888bac8ca60710d64f081430fe44">
+        <name>libxcb-util0</name>
+        <version>0.3.8-3+b2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxi6</name>
+      <deb ref="md5:34f31754e47d374eced8268e8acf0e7d">
+        <name>libxi6</name>
+        <version>2:1.7.9-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxinerama1</name>
+      <deb ref="md5:061d1a96227f2850c4c028b844074e40">
+        <name>libxinerama1</name>
+        <version>2:1.1.4-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxrender1</name>
+      <deb ref="md5:8bda64f6afa8517ca629bed8f6ff3221">
+        <name>libxrender1</name>
+        <version>1:0.9.10-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>ttf-bitstream-vera</name>
+      <deb ref="md5:5012469cedaefe671c5872b7b9f87437">
+        <name>ttf-bitstream-vera</name>
+        <version>1.10-8</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>ucf</name>
+      <deb ref="md5:c08d9559adf8c1254e722a473cdaf8d8">
+        <name>ucf</name>
+        <version>3.0038+nmu1</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libcroco3</name>
+      <deb ref="md5:c4a3a1488e5663ca9eafd1176ddd2072">
+        <name>libcroco3</name>
+        <version>0.6.12-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxml2</name>
+      <deb ref="md5:5f924c968d03f36754a7ff422df65dd6">
+        <name>libxml2</name>
+        <version>2.9.4+dfsg1-7+b3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>fontconfig-config</name>
+      <deb ref="md5:bf030a59aaa40076b77af1cd5037ae2e">
+        <name>fontconfig-config</name>
+        <version>2.13.1-2</version>
+        <arch>all</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libfontconfig1</name>
+      <deb ref="md5:4ceea5048cf35c54322d38141dfaf6c8">
+        <name>libfontconfig1</name>
+        <version>2.13.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libharfbuzz0b</name>
+      <deb ref="md5:2dc388cc111a78c7e9350741331a62a1">
+        <name>libharfbuzz0b</name>
+        <version>2.3.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libstartup-notification0</name>
+      <deb ref="md5:df6f809b8a8d7d6fcb868eb6b4d98981">
+        <name>libstartup-notification0</name>
+        <version>0.12-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxcursor1</name>
+      <deb ref="md5:c0ad24b83255de4684156e47fc0de960">
+        <name>libxcursor1</name>
+        <version>1:1.1.15-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxrandr2</name>
+      <deb ref="md5:ca19adee27927acd946337f0503fd175">
+        <name>libxrandr2</name>
+        <version>2:1.5.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>shared-mime-info</name>
+      <deb ref="md5:bcc2b01cf29e174beb97d2462132deb2">
+        <name>shared-mime-info</name>
+        <version>1.10-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>fontconfig</name>
+      <deb ref="md5:df508c8c450622c082d3c368cb716fe0">
+        <name>fontconfig</name>
+        <version>2.13.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libthai0</name>
+      <deb ref="md5:6130c6eff57564646b87ed6aa4c79f8c">
+        <name>libthai0</name>
+        <version>0.1.28-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxft2</name>
+      <deb ref="md5:0724a1d8e5f96dffa57c9670b9a0ac8d">
+        <name>libxft2</name>
+        <version>2.3.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpango-1.0-0</name>
+      <deb ref="md5:41cb682a1d7fa7ba3078a78179f102f4">
+        <name>libpango-1.0-0</name>
+        <version>1.42.4-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpangoft2-1.0-0</name>
+      <deb ref="md5:f3299a326dc430253613bf08166c81e5">
+        <name>libpangoft2-1.0-0</name>
+        <version>1.42.4-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libtiff5</name>
+      <deb ref="md5:a01203ee272d531a4b6f89fff450e73d">
+        <name>libtiff5</name>
+        <version>4.0.10-4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libcairo2</name>
+      <deb ref="md5:88028b491274f56fb097056d4a547bb3">
+        <name>libcairo2</name>
+        <version>1.16.0-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libgdk-pixbuf2.0-0</name>
+      <deb ref="md5:82f32ff34e7a04a3c52e1e4f607d53fd">
+        <name>libgdk-pixbuf2.0-0</name>
+        <version>2.38.0+dfsg-7</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libobt2v5</name>
+      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
+        <name>libobt2v5</name>
+        <version>3.6.1-8</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpangocairo-1.0-0</name>
+      <deb ref="md5:85d08511334c2fd85fc4e53a79823210">
+        <name>libpangocairo-1.0-0</name>
+        <version>1.42.4-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libimlib2</name>
+      <deb ref="md5:c7fcfb2dbdd2c099341167c68025e1da">
+        <name>libimlib2</name>
+        <version>1.5.1-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpangoxft-1.0-0</name>
+      <deb ref="md5:cfa0fd7681b0f087903cc07ee3e4a727">
+        <name>libpangoxft-1.0-0</name>
+        <version>1.42.4-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libobrender32v5</name>
+      <deb ref="md5:dda795bbc3d7811a53e26f435ad80435">
+        <name>libobrender32v5</name>
+        <version>3.6.1-8</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>librsvg2-2</name>
+      <deb ref="md5:f26bd4bdb3870c864c98d1f255cc4c31">
+        <name>librsvg2-2</name>
+        <version>2.44.10-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>

@@ -6,10 +6,10 @@
   </meta>
   <contents>
     <deb>
-      <name>linux-image-4.14.97-v7-raspberrypi-default</name>
-      <deb ref="md5:8bc1fb0b7573c337b6e1f8bf98a1a5c3">
-        <name>linux-image-4.14.97-v7-raspberrypi-default</name>
-        <version>4.14.97-1</version>
+      <name>linux-image-4.19.25-v7-raspberrypi-default</name>
+      <deb ref="md5:750f4cfcd89568b22d22b556c7b96716">
+        <name>linux-image-4.19.25-v7-raspberrypi-default</name>
+        <version>4.19.25-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

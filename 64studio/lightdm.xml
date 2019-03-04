@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <id>lightdm</id>
+  <meta>
+    <task>64studio-lightdm</task>
+  </meta>
+  <contents>
+    <deb>
+      <name>lightdm</name>
+      <deb ref="md5:f0a44ba05e2895bad76135ebc1af8389">
+        <name>lightdm</name>
+        <version>1.26.0-3</version>
+        <arch>armhf</arch>
+      </deb>
+      <dsc ref="md5:2dc594e5e03c6f36144c000c68f02a54">
+        <name>lightdm</name>
+        <version>1.26.0-3</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>lightdm-autologin-greeter</name>
+      <deb ref="md5:5c28d476d25e56a1b31ed64e5b214d60">
+        <name>lightdm-autologin-greeter</name>
+        <version>1.0-3</version>
+        <arch>all</arch>
+      </deb>
+      <dsc ref="md5:15c96a918df8f63d826d8ef3562635bb">
+        <name>lightdm-autologin-greeter</name>
+        <version>1.0-3</version>
+      </dsc>
+    </deb>
+    <deb>
+      <name>libgirepository-1.0-1</name>
+      <deb ref="md5:b33cb2a0d07be1cf24b2989b0deb6baa">
+        <name>libgirepository-1.0-1</name>
+        <version>1.58.3-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libicu63</name>
+      <deb ref="md5:692368c0762870b17a8c11a2c8d692c6">
+        <name>libicu63</name>
+        <version>63.1-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libmpdec2</name>
+      <deb ref="md5:3140cef1300345f20782b8334f345677">
+        <name>libmpdec2</name>
+        <version>2.4.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-minimal</name>
+      <deb ref="md5:dcfcd2a2795c8d75e58fdd7a6b87e4a0">
+        <name>libpython3.7-minimal</name>
+        <version>3.7.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxi6</name>
+      <deb ref="md5:34f31754e47d374eced8268e8acf0e7d">
+        <name>libxi6</name>
+        <version>2:1.7.9-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>dbus</name>
+      <deb ref="md5:27dd3e45bf0476db89cdd5a62a15513f">
+        <name>dbus</name>
+        <version>1.12.12-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gir1.2-glib-2.0</name>
+      <deb ref="md5:1dca38ed7f8377e611e2fb5f2061ea26">
+        <name>gir1.2-glib-2.0</name>
+        <version>1.58.3-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>gir1.2-lightdm-1</name>
+      <deb ref="md5:4fec9a4212cc9e5594fd28cbb5a347ba">
+        <name>gir1.2-lightdm-1</name>
+        <version>1.26.0-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>liblightdm-gobject-1-0</name>
+      <deb ref="md5:0d65b2ede439abe6a3f4101dfc05bb13">
+        <name>liblightdm-gobject-1-0</name>
+        <version>1.26.0-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxklavier16</name>
+      <deb ref="md5:8c34678c86353e24f8d3db599f45bee2">
+        <name>libxklavier16</name>
+        <version>5.4-4</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxml2</name>
+      <deb ref="md5:5f924c968d03f36754a7ff422df65dd6">
+        <name>libxml2</name>
+        <version>2.9.4+dfsg1-7+b3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3-stdlib</name>
+      <deb ref="md5:402291f0ba01c167aa8174c4959ef6b7">
+        <name>libpython3-stdlib</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpython3.7-stdlib</name>
+      <deb ref="md5:b02de176d70f20cf2fcac13e67aef1bc">
+        <name>libpython3.7-stdlib</name>
+        <version>3.7.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-minimal</name>
+      <deb ref="md5:3434196cb545c72d47d5345042cc57aa">
+        <name>python3-minimal</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7-minimal</name>
+      <deb ref="md5:dbdde3d0cae365ebe8f325fe7110a6e8">
+        <name>python3.7-minimal</name>
+        <version>3.7.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libpam-systemd</name>
+      <deb ref="md5:a2bb25d5f545bb9cf95795572a83b8f8">
+        <name>libpam-systemd</name>
+        <version>240-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3</name>
+      <deb ref="md5:d10e041c90cb2ee1635090adaee55482">
+        <name>python3</name>
+        <version>3.7.2-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3-gi</name>
+      <deb ref="md5:fd5b282bb16253cc11434f66ccee96e8">
+        <name>python3-gi</name>
+        <version>3.30.4-1</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>python3.7</name>
+      <deb ref="md5:22e29a78461d14c394fe5354f032187b">
+        <name>python3.7</name>
+        <version>3.7.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+  </contents>
+</component>

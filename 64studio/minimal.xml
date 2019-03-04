@@ -763,26 +763,26 @@
     </deb>
     <deb>
       <name>vim-common</name>
-      <deb ref="md5:4246b18b17d44730719f60b11fe95a64">
+      <deb ref="md5:e32e0c06d81c34ba7cf0513cb06f890d">
         <name>vim-common</name>
-        <version>2:8.1.0875-1</version>
+        <version>2:8.1.0875-2</version>
         <arch>all</arch>
       </deb>
-      <dsc ref="md5:6d87617df2e39649dc06b6a3613a7f4a">
+      <dsc ref="md5:84118cf1f21484bc8d2eb0e9c24842d2">
         <name>vim</name>
-        <version>2:8.1.0875-1</version>
+        <version>2:8.1.0875-2</version>
       </dsc>
     </deb>
     <deb>
       <name>vim-tiny</name>
-      <deb ref="md5:0ff2d6d0f48e7bd7db9b0696b5b2d894">
+      <deb ref="md5:4433d56d930e666389b55fbebbbab86f">
         <name>vim-tiny</name>
-        <version>2:8.1.0875-1</version>
+        <version>2:8.1.0875-2</version>
         <arch>armhf</arch>
       </deb>
-      <dsc ref="md5:6d87617df2e39649dc06b6a3613a7f4a">
+      <dsc ref="md5:84118cf1f21484bc8d2eb0e9c24842d2">
         <name>vim</name>
-        <version>2:8.1.0875-1</version>
+        <version>2:8.1.0875-2</version>
       </dsc>
     </deb>
     <deb>
@@ -1391,17 +1391,17 @@
     </deb>
     <deb>
       <name>libisc-export1100</name>
-      <deb ref="md5:04f4fb92af83858e0eb38a1b119b51cc">
+      <deb ref="md5:96ababb8ad3d1b95e80e1ec15b0e173d">
         <name>libisc-export1100</name>
-        <version>1:9.11.5.P1+dfsg-2</version>
+        <version>1:9.11.5.P4+dfsg-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libdns-export1104</name>
-      <deb ref="md5:e66405ea5ef64d27c7a6819c1de7465c">
+      <deb ref="md5:71edbdfb89309a1bcac79483de784bda">
         <name>libdns-export1104</name>
-        <version>1:9.11.5.P1+dfsg-2</version>
+        <version>1:9.11.5.P4+dfsg-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1455,9 +1455,9 @@
     </deb>
     <deb>
       <name>xxd</name>
-      <deb ref="md5:dfedbaf370f90cef79d7f26b18756b7e">
+      <deb ref="md5:060f3d8577f143c0f46fc59a08a907c4">
         <name>xxd</name>
-        <version>2:8.1.0875-1</version>
+        <version>2:8.1.0875-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
