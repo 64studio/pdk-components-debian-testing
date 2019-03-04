@@ -1,6 +1,6 @@
 # the order the components are created in
 # this may matter depending on the value of *_deps
-components=minimal.xml standard.xml firmware-wifi.xml openssh-server.xml jackd2.xml xorg.xml lxde.xml raspberrypi-bootloader.xml raspberrypi-linux-image-default.xml
+components=minimal.xml standard.xml firmware-wifi.xml openssh-server.xml jackd2.xml xorg.xml lightdm.xml openbox.xml  lxde.xml raspberrypi-bootloader.xml raspberrypi-linux-image-default.xml
 
 # minimal.xml
 # packages included in a base install
@@ -33,9 +33,19 @@ jackd2_deps=minimal.xml standard.xml
 xorg_pkgs=xserver-xorg, xserver-xorg-input-libinput, xserver-xorg-video-fbdev
 xorg_deps=minimal.xml standard.xml
 
+# lightdm.xml
+# LightDM
+lightdm_pkgs=lightdm, lightdm-autologin-greeter
+lightdm_deps=minimal.xml standard.xml xorg.xml
+
+# openbox.xml
+# Openbox
+openbox_pkgs=openbox
+openbox_deps=minimal.xml standard.xml xorg.xml
+
 # lxde.xml
 # LXDE & support packages
-lxde_pkgs=dbus-x11, dbus-x11, lxde-core, lightdm, lxterminal
+lxde_pkgs=dbus-x11, lxde-core, lxterminal
 lxde_deps=minimal.xml standard.xml xorg.xml
 
 # raspberrypi-bootloader.xml
@@ -45,7 +55,7 @@ raspberrypi-bootloader_deps=minimal.xml
 
 # raspberrypi-linux-image-default.xml
 # Raspberry Pi Linux image
-# tracking https://github.com/raspberrypi/linux branch rpi-4.14.y
+# tracking https://github.com/raspberrypi/linux branch rpi-4.19.y
 raspberrypi-linux-image-default_pkgs=$(shell ls debs/linux-image-*-raspberrypi-default*_armhf.deb | cut -d / -f 2 | cut -d _ -f 1)
 raspberrypi-linux-image-default_deps=minimal.xml
 
@@ -66,7 +76,6 @@ download:
 %.xml:
 	pdk abstract --arch=armhf --packages="$($*_pkgs)" --select="$($*_select)" --exclude="$($*_exclude)" --meta="<task>64studio-$*</task>" --label="$*" $@
 	pdk resolve $@
-	# TODO: remove the need to specify minimal.xml in *_deps
 	pdk closure --out-file=$@ --arch=armhf $($*_deps) $@
 	pdk upgrade $@
 
