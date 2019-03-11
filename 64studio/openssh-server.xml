@@ -51,33 +51,33 @@
     </deb>
     <deb>
       <name>libkrb5support0</name>
-      <deb ref="md5:5c1283f2610b675a72d5f3f90dcb6f82">
+      <deb ref="md5:aaf20081437970b23b8496fcfaf996e3">
         <name>libkrb5support0</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libgssapi-krb5-2</name>
-      <deb ref="md5:e62f6f8ff03d47b0bc466f52d4b9ce7d">
+      <deb ref="md5:07af311e1ddeef40a2bb39c267c14dbd">
         <name>libgssapi-krb5-2</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libk5crypto3</name>
-      <deb ref="md5:e711c871762b57584c116ede3c8212ac">
+      <deb ref="md5:ae6997532f62b290afdd059b9af8bdb8">
         <name>libk5crypto3</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libkrb5-3</name>
-      <deb ref="md5:77548e276d13860e119664454ab35c6a">
+      <deb ref="md5:975347a22321073d9203d4f03b291e14">
         <name>libkrb5-3</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>

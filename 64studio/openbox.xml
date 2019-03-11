@@ -130,26 +130,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libxi6</name>
-      <deb ref="md5:34f31754e47d374eced8268e8acf0e7d">
-        <name>libxi6</name>
-        <version>2:1.7.9-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libxinerama1</name>
       <deb ref="md5:061d1a96227f2850c4c028b844074e40">
         <name>libxinerama1</name>
         <version>2:1.1.4-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxrender1</name>
-      <deb ref="md5:8bda64f6afa8517ca629bed8f6ff3221">
-        <name>libxrender1</name>
-        <version>1:0.9.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -218,18 +202,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libxcursor1</name>
-      <deb ref="md5:c0ad24b83255de4684156e47fc0de960">
-        <name>libxcursor1</name>
-        <version>1:1.1.15-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxrandr2</name>
-      <deb ref="md5:ca19adee27927acd946337f0503fd175">
-        <name>libxrandr2</name>
-        <version>2:1.5.1-1</version>
+      <name>libxft2</name>
+      <deb ref="md5:0724a1d8e5f96dffa57c9670b9a0ac8d">
+        <name>libxft2</name>
+        <version>2.3.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -250,6 +226,14 @@
       </deb>
     </deb>
     <deb>
+      <name>libobt2v5</name>
+      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
+        <name>libobt2v5</name>
+        <version>3.6.1-8</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libthai0</name>
       <deb ref="md5:6130c6eff57564646b87ed6aa4c79f8c">
         <name>libthai0</name>
@@ -258,10 +242,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libxft2</name>
-      <deb ref="md5:0724a1d8e5f96dffa57c9670b9a0ac8d">
-        <name>libxft2</name>
-        <version>2.3.2-2</version>
+      <name>libcairo2</name>
+      <deb ref="md5:785db9a4129b739007f5613da548b312">
+        <name>libcairo2</name>
+        <version>1.16.0-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -290,26 +274,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libcairo2</name>
-      <deb ref="md5:88028b491274f56fb097056d4a547bb3">
-        <name>libcairo2</name>
-        <version>1.16.0-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libgdk-pixbuf2.0-0</name>
       <deb ref="md5:82f32ff34e7a04a3c52e1e4f607d53fd">
         <name>libgdk-pixbuf2.0-0</name>
         <version>2.38.0+dfsg-7</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libobt2v5</name>
-      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
-        <name>libobt2v5</name>
-        <version>3.6.1-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -322,18 +290,18 @@
       </deb>
     </deb>
     <deb>
-      <name>libimlib2</name>
-      <deb ref="md5:c7fcfb2dbdd2c099341167c68025e1da">
-        <name>libimlib2</name>
-        <version>1.5.1-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libpangoxft-1.0-0</name>
       <deb ref="md5:cfa0fd7681b0f087903cc07ee3e4a727">
         <name>libpangoxft-1.0-0</name>
         <version>1.42.4-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libimlib2</name>
+      <deb ref="md5:c7fcfb2dbdd2c099341167c68025e1da">
+        <name>libimlib2</name>
+        <version>1.5.1-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>

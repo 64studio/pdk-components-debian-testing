@@ -234,10 +234,18 @@
       </deb>
     </deb>
     <deb>
+      <name>libnghttp2-14</name>
+      <deb ref="md5:d8541ee75caaa0e04f18fce7fd2e78f9">
+        <name>libnghttp2-14</name>
+        <version>1.36.0-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libpam-systemd</name>
-      <deb ref="md5:a2bb25d5f545bb9cf95795572a83b8f8">
+      <deb ref="md5:be7985e89eb07e16d0cd3e283abfb8ed">
         <name>libpam-systemd</name>
-        <version>240-6</version>
+        <version>241-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -250,10 +258,34 @@
       </deb>
     </deb>
     <deb>
+      <name>libpsl5</name>
+      <deb ref="md5:26877443870f1885a8a05cdfa7c84667">
+        <name>libpsl5</name>
+        <version>0.20.2-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
       <name>libpython3.7-minimal</name>
-      <deb ref="md5:dcfcd2a2795c8d75e58fdd7a6b87e4a0">
+      <deb ref="md5:2697c8ebe08102fdff6bca07b966a884">
         <name>libpython3.7-minimal</name>
-        <version>3.7.2-2</version>
+        <version>3.7.2-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>librtmp1</name>
+      <deb ref="md5:1472378f95394ad4a71ed8c2f2670fc3">
+        <name>librtmp1</name>
+        <version>2.4+20151223.gitfa8646d.1-2</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libssh2-1</name>
+      <deb ref="md5:aad46b5361b53f40c52cb309a94e0cac">
+        <name>libssh2-1</name>
+        <version>1.8.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -314,26 +346,10 @@
       </deb>
     </deb>
     <deb>
-      <name>libxi6</name>
-      <deb ref="md5:34f31754e47d374eced8268e8acf0e7d">
-        <name>libxi6</name>
-        <version>2:1.7.9-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libxinerama1</name>
       <deb ref="md5:061d1a96227f2850c4c028b844074e40">
         <name>libxinerama1</name>
         <version>2:1.1.4-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxrender1</name>
-      <deb ref="md5:8bda64f6afa8517ca629bed8f6ff3221">
-        <name>libxrender1</name>
-        <version>1:0.9.10-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -363,17 +379,17 @@
     </deb>
     <deb>
       <name>lxpanel-data</name>
-      <deb ref="md5:002fb1a9d553e846ae3c9e9b07110f40">
+      <deb ref="md5:51c5c720c0cecaf54d5c0645c0846658">
         <name>lxpanel-data</name>
-        <version>0.9.3-1</version>
+        <version>0.10.0-2</version>
         <arch>all</arch>
       </deb>
     </deb>
     <deb>
       <name>lxsession-data</name>
-      <deb ref="md5:59300142dda87bcaf1dd8458e5412cc6">
+      <deb ref="md5:12782c7d04a5c2fc2ccb13340991a172">
         <name>lxsession-data</name>
-        <version>0.5.3-2</version>
+        <version>0.5.4-1</version>
         <arch>all</arch>
       </deb>
     </deb>
@@ -515,9 +531,9 @@
     </deb>
     <deb>
       <name>libcairo2</name>
-      <deb ref="md5:88028b491274f56fb097056d4a547bb3">
+      <deb ref="md5:785db9a4129b739007f5613da548b312">
         <name>libcairo2</name>
-        <version>1.16.0-2</version>
+        <version>1.16.0-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -531,9 +547,9 @@
     </deb>
     <deb>
       <name>libgssapi-krb5-2</name>
-      <deb ref="md5:e62f6f8ff03d47b0bc466f52d4b9ce7d">
+      <deb ref="md5:07af311e1ddeef40a2bb39c267c14dbd">
         <name>libgssapi-krb5-2</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -547,9 +563,9 @@
     </deb>
     <deb>
       <name>libk5crypto3</name>
-      <deb ref="md5:e711c871762b57584c116ede3c8212ac">
+      <deb ref="md5:ae6997532f62b290afdd059b9af8bdb8">
         <name>libk5crypto3</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -563,17 +579,17 @@
     </deb>
     <deb>
       <name>libkrb5-3</name>
-      <deb ref="md5:77548e276d13860e119664454ab35c6a">
+      <deb ref="md5:975347a22321073d9203d4f03b291e14">
         <name>libkrb5-3</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>libkrb5support0</name>
-      <deb ref="md5:5c1283f2610b675a72d5f3f90dcb6f82">
+      <deb ref="md5:aaf20081437970b23b8496fcfaf996e3">
         <name>libkrb5support0</name>
-        <version>1.17-1</version>
+        <version>1.17-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -626,22 +642,6 @@
       </deb>
     </deb>
     <deb>
-      <name>libxcursor1</name>
-      <deb ref="md5:c0ad24b83255de4684156e47fc0de960">
-        <name>libxcursor1</name>
-        <version>1:1.1.15-2</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libxrandr2</name>
-      <deb ref="md5:ca19adee27927acd946337f0503fd175">
-        <name>libxrandr2</name>
-        <version>2:1.5.1-1</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libmenu-cache-bin</name>
       <deb ref="md5:973f7f9d4df5fc128dbfe60a31f9751d">
         <name>libmenu-cache-bin</name>
@@ -683,9 +683,9 @@
     </deb>
     <deb>
       <name>libpython3.7-stdlib</name>
-      <deb ref="md5:b02de176d70f20cf2fcac13e67aef1bc">
+      <deb ref="md5:b57b7111257d2c0f7eee2893c3048564">
         <name>libpython3.7-stdlib</name>
-        <version>3.7.2-2</version>
+        <version>3.7.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -694,6 +694,14 @@
       <deb ref="md5:df6f809b8a8d7d6fcb868eb6b4d98981">
         <name>libstartup-notification0</name>
         <version>0.12-6</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libxft2</name>
+      <deb ref="md5:0724a1d8e5f96dffa57c9670b9a0ac8d">
+        <name>libxft2</name>
+        <version>2.3.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -707,17 +715,17 @@
     </deb>
     <deb>
       <name>python3.7-minimal</name>
-      <deb ref="md5:dbdde3d0cae365ebe8f325fe7110a6e8">
+      <deb ref="md5:5d9d7ca06f3621714fe35c67231be073">
         <name>python3.7-minimal</name>
-        <version>3.7.2-2</version>
+        <version>3.7.2-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
-      <name>libxft2</name>
-      <deb ref="md5:0724a1d8e5f96dffa57c9670b9a0ac8d">
-        <name>libxft2</name>
-        <version>2.3.2-2</version>
+      <name>libobt2v5</name>
+      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
+        <name>libobt2v5</name>
+        <version>3.6.1-8</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -739,9 +747,17 @@
     </deb>
     <deb>
       <name>python3.7</name>
-      <deb ref="md5:22e29a78461d14c394fe5354f032187b">
+      <deb ref="md5:049cc09c6fbdaaed8221e4c520459952">
         <name>python3.7</name>
-        <version>3.7.2-2</version>
+        <version>3.7.2-3</version>
+        <arch>armhf</arch>
+      </deb>
+    </deb>
+    <deb>
+      <name>libcurl3-gnutls</name>
+      <deb ref="md5:98dd66bbdc8583db976268b4c428df46">
+        <name>libcurl3-gnutls</name>
+        <version>7.64.0-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -786,14 +802,6 @@
       </deb>
     </deb>
     <deb>
-      <name>libobt2v5</name>
-      <deb ref="md5:4262c1f1cec653f0d9f5551ebb8c7c58">
-        <name>libobt2v5</name>
-        <version>3.6.1-8</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
       <name>libpangoxft-1.0-0</name>
       <deb ref="md5:cfa0fd7681b0f087903cc07ee3e4a727">
         <name>libpangoxft-1.0-0</name>
@@ -819,33 +827,33 @@
     </deb>
     <deb>
       <name>lxpanel</name>
-      <deb ref="md5:453c4e011550ce68ea120a57dc6fe527">
+      <deb ref="md5:0d2a994a905403c99932bde978a176c9">
         <name>lxpanel</name>
-        <version>0.9.3-1</version>
+        <version>0.10.0-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lxpolkit</name>
-      <deb ref="md5:f1252bf0272e4ba2f91c45c10308d8d6">
+      <deb ref="md5:5ce295907992f51d54cc6d30e543fcab">
         <name>lxpolkit</name>
-        <version>0.5.3-2</version>
+        <version>0.5.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lxsession</name>
-      <deb ref="md5:f24edb81ae42d3e86f19a581793f1e36">
+      <deb ref="md5:ed6632edf16838deada556fd9af43411">
         <name>lxsession</name>
-        <version>0.5.3-2</version>
+        <version>0.5.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
     <deb>
       <name>lxsession-logout</name>
-      <deb ref="md5:dc3204885ee789adccad68782dbcbe09">
+      <deb ref="md5:dfb59f7e007342323d0dbc6f16a44f33">
         <name>lxsession-logout</name>
-        <version>0.5.3-2</version>
+        <version>0.5.4-1</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -907,9 +915,9 @@
     </deb>
     <deb>
       <name>libcairo-gobject2</name>
-      <deb ref="md5:451394f65c4a93acf23aa98f1369d450">
+      <deb ref="md5:495730b8d1701e93396ce019f064f657">
         <name>libcairo-gobject2</name>
-        <version>1.16.0-2</version>
+        <version>1.16.0-3</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -950,14 +958,6 @@
       <deb ref="md5:0c173e78717a354b2e52ad3b4f70c9de">
         <name>libproxy1v5</name>
         <version>0.4.15-5</version>
-        <arch>armhf</arch>
-      </deb>
-    </deb>
-    <deb>
-      <name>libpsl5</name>
-      <deb ref="md5:26877443870f1885a8a05cdfa7c84667">
-        <name>libpsl5</name>
-        <version>0.20.2-2</version>
         <arch>armhf</arch>
       </deb>
     </deb>
@@ -1003,9 +1003,9 @@
     </deb>
     <deb>
       <name>libatk-bridge2.0-0</name>
-      <deb ref="md5:7379d2cfe4f877d27abe06d6cb69e2b9">
+      <deb ref="md5:60cd0be4d2e26a4bb854ccad08855640">
         <name>libatk-bridge2.0-0</name>
-        <version>2.30.0-4</version>
+        <version>2.30.0-5</version>
         <arch>armhf</arch>
       </deb>
     </deb>
