@@ -30,7 +30,7 @@ jackd2_deps=minimal.xml standard.xml
 
 # xorg.xml
 # Xorg server & support packages
-xorg_pkgs=xserver-xorg, xserver-xorg-input-libinput, xserver-xorg-video-fbdev
+xorg_pkgs=xserver-xorg, xserver-xorg-input-libinput, xserver-xorg-video-fbdev, x11-xserver-utils
 xorg_deps=minimal.xml standard.xml
 
 # lightdm.xml
